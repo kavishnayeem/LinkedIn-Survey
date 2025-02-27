@@ -1,0 +1,270 @@
+.container {
+    max-width: 100%;
+    margin: 2% auto;
+    background: #fff;
+    border-radius: 0.8vw;
+    box-shadow: 0 0.1vw 0.5vw rgba(0,0,0,0.1);
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto;
+  }
+  .section-break {
+    height: 1vh;
+    background-color: rgb(243, 241, 241);
+    box-shadow: none;
+    
+  }
+  /* Logo Containers */
+.company-logo-container,
+.school-logo-container,
+.certification-logo-container {
+  width: 4vw;
+  height: 4vw;
+  min-width: 48px;
+  min-height: 48px;
+  margin-right: 0.7vw;
+  flex-shrink: 0;
+}
+
+.company-logo,
+.school-logo,
+.certification-logo {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  border-radius: 0.4vw;
+}
+
+/* Experience Item Layout */
+.experience-item {
+  display: flex;
+  margin-bottom: 2vh;
+  padding: 1.5vh 0;
+}
+
+.experience-details {
+  flex: 1;
+}
+
+
+/* Education Item Layout */
+.education-item {
+  display: flex;
+  margin-bottom: 0;
+  margin-top: 0;
+  padding: 1.5vh 0;
+}
+
+.education-details {
+  flex: 1;
+}
+
+/* Certification Item Layout */
+.certification-item {
+  display: flex;
+  margin-bottom: 2vh;
+  padding: 1.5vh 0;
+}
+
+.certification-details {
+  flex: 1;
+}
+  .banner {
+    position: relative;
+    height: 32vh;
+    border-radius: 0.8vw 0.8vw 0 0;
+    overflow: hidden;
+  }
+  
+  .banner-image {
+    width: 100%;
+    height: 70%;
+    object-fit: cover;
+  }
+  
+  .avatar {
+    position:absolute;
+    width: 12vw;
+    height: 12vw;
+    border-radius: 50%;
+    border: 0.4vw solid #fff;
+    left: 4%;
+    bottom: 1vh;
+    object-fit: cover;
+
+  }
+  
+  .profile-info {
+    padding: 0 5% 3%;
+   
+  }
+  
+  .name {
+    font-size: 2.2vw;
+    color: rgba(0,0,0,0.9);
+    margin-bottom: 0;
+    font-weight: 600;
+  }
+  
+  .headline {
+    font-size: 1.3vw;
+    color: rgba(0,0,0,0.9);
+    margin-top: 0;
+    margin-bottom: 1%;
+    font-weight: 500;
+  }
+  
+  .location {
+    font-size: 1.2vw;
+    color: rgba(0,0,0,0.6);
+    margin-bottom: 2%;
+    margin-top: 0;
+  }
+  
+  .connections {
+    color: #0073b1;
+    font-size: 1.1vw;
+    font-weight: 600;
+    margin-bottom: 3%;
+  }
+  
+  .button-container {
+    display: flex;
+    gap: 1vw;
+    margin-bottom: 3%;
+  }
+  
+  .primary-button {
+    background: linear-gradient(to bottom, #0077b5, #006097);
+    color: #fff;
+    padding: 1.2% 4%;
+    border-radius: 2vw;
+    border: none;
+    font-weight: 600;
+    font-size: 1.1vw;
+    cursor: pointer;
+    transition: opacity 0.2s;
+  }
+  
+  .secondary-button {
+    background: transparent;
+    color: #0073b1;
+    padding: 1.2% 4%;
+    border-radius: 2vw;
+    border: 0.15vw solid #0073b1;
+    font-weight: 600;
+    font-size: 1.1vw;
+    cursor: pointer;
+    transition: background 0.2s;
+  }
+
+  .section {
+    padding: 3% 5%;
+    border-top: 0.1vw  rgba(0,0,0,0.08);
+    border-radius: 1vw; /* Added to curve the corners */
+  }
+  
+  .section-title {
+    font-size: 1.6vw;
+    color: rgba(0,0,0,0.9);
+    margin-top: 0;
+
+    font-weight: 600;
+  }
+  
+
+
+  
+  .company {
+    font-size: 1.4vw;
+    color: rgba(0,0,0,0.9);
+    font-weight: 600;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  .position {
+    font-size: 1.2vw;
+    color: rgba(0,0,0,0.8);
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  
+  .duration {
+    font-size: 1.1vw;
+    color: rgba(0,0,0,0.6);
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  
+  .experience-bullets {
+    padding-left: 3%;
+  }
+  
+  .bullet-point {
+    font-size: 1.1vw;
+    color: rgba(0,0,0,0.8);
+    margin-bottom: 1%;
+    line-height: 1.5;
+  }
+  
+  .skills-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1vw;
+  }
+  
+  .skill-tag {
+    background: #eef3f8;
+    color: rgba(0,0,0,0.9);
+    padding: 0.8% 2%;
+    border-radius: 1.5vw;
+    font-size: 1.1vw;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background 0.2s;
+  }
+  
+  .skill-tag:hover {
+    background: #dfe8f1;
+  }
+  
+  .certification-item {
+    margin-bottom: 3%;
+  }
+  
+  .certification-title {
+    font-size: 1.2vw;
+    color: rgba(0,0,0,0.9);
+    margin-bottom: 0.5%;
+  }
+  
+  .certification-info {
+    font-size: 1.1vw;
+    color: rgba(0,0,0,0.6);
+  }
+  
+  .education-item {
+    margin-bottom: 3%;
+  }
+  
+  .institution {
+    font-size: 1.3vw;
+    color: rgba(0,0,0,0.9);
+    margin-bottom: 0.5%;
+  }
+  
+  .degree {
+    font-size: 1.2vw;
+    color: rgba(0,0,0,0.8);
+    margin-bottom: 0.5%;
+  }
+  
+  .education-duration {
+    font-size: 1.1vw;
+    color: rgba(0,0,0,0.6);
+  }
+  
+  .courses {
+    font-size: 1.1vw;
+    color: rgba(0,0,0,0.7);
+    margin-top: 1.5%;
+  }
