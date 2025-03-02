@@ -15,7 +15,7 @@
   padding: 5px;
   box-sizing: border-box;
   overflow-y: scroll; /* Allow scrolling for content inside the left pane */
-  background-color: rgb(243, 241, 241);
+  background-color: rgb(241, 241, 243);
   height: 100%; /* Set height to 100% of the split view */
   scrollbar-width: none; /* For Firefox */
 }

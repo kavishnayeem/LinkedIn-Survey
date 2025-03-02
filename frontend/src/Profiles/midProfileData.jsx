@@ -179,7 +179,7 @@ const midProfileData = [
     
   },
   {
-    "id": "MID-03",
+    "id": "MID-04",
     "name": "Brian Lancaster",
     "headline": "Full-time Student and Retail Professional",
     "location": "Austin, Texas, United States",
@@ -256,7 +256,7 @@ const midProfileData = [
     ]
   },
   {
-    "id": "MID-04",
+    "id": "MID-05",
     "name": "Kevin Holloway",
     "headline": "Business Manager | Passionate Innovator",
     "location": "San Antonio, Texas, United States",
@@ -333,85 +333,321 @@ const midProfileData = [
     ],
     
   },
-  
   {
-    "id": "HIGH-04",
-    "name": "Jordan	Kensington",
-    "headline": "",
-    "location": "",
-    "connections": 0,
-    "profilePic": "",
-    "backgroundPic": "",
-    "about": "",
+    "id": "MID-06",
+    "name": "Samuel Whitman",
+    "headline": "Business Major with Extensive Customer Service Experience",
+    "location": "Austin, Texas, United States",
+    "connections": 180,
+    "profilePic": "https://i.ibb.co/Q7F03QbX/Sameul.jpg",
+    "backgroundPic": "https://media.licdn.com/dms/image/v2/C4D12AQHMPBvE3avWzg/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1616872522462?e=1746662400&v=beta&t=Y6vFHgaaZIYJr6tRDScEdPYruJrUUyXi2W1lJFv2V18",
+    "about": "Business Major from the University of Texas San Antonio with over 8 years of customer service and sales experience with an ability to deliver profitable solutions. Well-versed in marketing, sales implementation strategies, and basic human resource processes. Success in executing proven business strategies to generate profits.",
     "experience": [
       {
-        "company": "",
-        "companyLogo": "",
-        "title": "",
-        "duration": "",
+        "company": "Corona Cigar Company",
+        "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQEIXWHitReXog/company-logo_100_100/B56ZVJHpxxGoAQ-/0/1740688498102/corona_cigar_company_logo?e=1749081600&v=beta&t=CQbO_D0AXc1eMXxCSHu-nBqKhmCr1VRlrp3QuFqSuTw",
+        "title": "Shift Manager",
+        "duration": "May 2018 - Feb 2024",
+        "location": "Orlando, Florida, United States",
         "bullets": [
-          "",
-          "",
-          ""
+          "Perform inventory maintenance while maintaining heavy client contact.",
+          "Ability to effectively and independently manage workload while exhibiting good judgment.",
+          "Ensure the business is operational by facilitating client meetings.",
+          "Maintain client satisfaction by resolving issues promptly.",
+          "Assist management with additional or special projects."
         ]
       },
       {
-        "company": "",
-        "companyLogo": "",
-        "title": "",
-        "duration": "",
+        "company": "Corona Cigar Company",
+        "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQEIXWHitReXog/company-logo_100_100/B56ZVJHpxxGoAQ-/0/1740688498102/corona_cigar_company_logo?e=1749081600&v=beta&t=CQbO_D0AXc1eMXxCSHu-nBqKhmCr1VRlrp3QuFqSuTw",
+        "title": "Sales Specialist",
+        "duration": "Jun 2017 - May 2018",
+        "location": "Orlando, Florida, United States",
         "bullets": [
-          "",
-          "",
-          ""
+          "Exceed sales expectations weekly and improved the daily average of sales.",
+          "Manage client interactions to maintain client retention rates.",
+          "Ensure customer satisfaction by providing courteous service to all clients.",
+          "Research and resolve client issues by coordinating with team members."
         ]
       },
       {
-        "company": "",
-        "companyLogo": "",
-        "title": "",
-        "duration": "",
+        "company": "Corona Cigar Company",
+        "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQEIXWHitReXog/company-logo_100_100/B56ZVJHpxxGoAQ-/0/1740688498102/corona_cigar_company_logo?e=1749081600&v=beta&t=CQbO_D0AXc1eMXxCSHu-nBqKhmCr1VRlrp3QuFqSuTw",
+        "title": "Bar Back",
+        "duration": "Oct 2015 - Jun 2017",
+        "location": "Orlando, Florida, United States",
         "bullets": [
-          "",
-          "",
-          ""
+          "Strong attention to detail while performing a wide variety of tasks and projects independently.",
+          "Ability to exercise independent judgement in setting my own priorities and workflow.",
+          "Help team members build rapport with clients by using excellent verbal communication skills."
         ]
       }
     ],
     "education": [
       {
-        "school": "",
-        "schoolLogo": "",
-        "degree": "",
-        "duration": "",
-        "courses": [
-          "",
-          "",
-          ""
+        "school": "University of Texas at San Antonio",
+        "schoolLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQHLKagG7cuGew/company-logo_100_100/company-logo_100_100/0/1630589853082/the_university_of_texas_at_san_antonio_logo?e=1748476800&v=beta&t=vxRdnGsWO44a5H-nFCoEo3XNvPbDyrgMUrPSG2l8Vx8",
+        "degree": "Bachelor's Degree in Management",
+        "duration": "Jan 2022 - Dec 2023"
+      },
+      {
+        "school": "Texas State University",
+        "schoolLogo": "https://media.licdn.com/dms/image/v2/C560BAQGo7TTg-tgkdQ/company-logo_100_100/company-logo_100_100/0/1631300608004?e=1749081600&v=beta&t=Ej0CqXlAcHPXy3LTxpg0ZVGnk29L8y0xJJJbRWE-g-0",
+        "degree": "Associate of Arts - AA, General Studies",
+        "duration": "Sep 2019 - May 2021"
+      },
+      {
+        "school": "Texas State University",
+        "schoolLogo": "https://media.licdn.com/dms/image/v2/C560BAQGo7TTg-tgkdQ/company-logo_100_100/company-logo_100_100/0/1631300608004?e=1749081600&v=beta&t=Ej0CqXlAcHPXy3LTxpg0ZVGnk29L8y0xJJJbRWE-g-0",
+        "degree": "Technical Certificate, Financial Operations",
+        "duration": "May 2016"
+      }
+    ],
+    "skills": [
+      "Communication", "Operations", "Microsoft PowerPoint", "Queues", "Business", 
+      "Presentations", "Leadership", "Salary Negotiations", "Policies & Procedures", 
+      "Skill Development", "Problem Solving", "Trend Analysis", "Team Leadership", 
+      "Business Development", "Attention to Detail", "Quality Management", 
+      "Operations Management", "Time Management", "Presentation Skills", 
+      "Project Scheduling"
+    ],
+    "certifications": [
+      {
+        "name": "Project Leadership",
+        "issuer": "LinkedIn",
+        "issueDate": "Jan 2024",
+        "issuerLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png"
+      },
+      {
+        "name": "Excel and ChatGPT: Data Analysis Power Tips",
+        "issuer": "LinkedIn",
+        "issueDate": "Nov 2023",
+        "issuerLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png"
+      },
+      {
+        "name": "Cert Prep: Excel Expert - Microsoft Office Specialist for Office 2019 and Office 365",
+        "issuer": "LinkedIn",
+        "issueDate": "May 2023",
+        "issuerLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png"
+      },
+      {
+        "name": "Business-to-Business Sales (2017)",
+        "issuer": "LinkedIn",
+        "issueDate": "Mar 2023",
+        "issuerLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png"
+      },
+
+    ]
+  },
+  {
+    "id": "MID-07",
+    "name": "Elizabeth McAllister",
+    "headline": "Management Graduate with Entry-Level Experience in Retail",
+    "location": "Denton, Texas, United States",
+    "connections": 50,
+    "profilePic": "https://i.ibb.co/HL2YBJyf/Elizabeth.jpg",
+    "backgroundPic": "https://healthyresumes.com/wp-content/uploads/2022/10/LinkedIn-Background-Photo-17-1.webp",
+    "about": "Recent Management graduate from the University of North Texas with a passion for retail and customer service. Eager to learn and grow in a professional environment, bringing a positive attitude and a willingness to take on new challenges.",
+    "experience": [
+      {
+        "company": "Target",
+        "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQGUjozudTh0yg/company-logo_100_100/company-logo_100_100/0/1631307593526?e=1748476800&v=beta&t=w0gmQEdfQtZ-5pMmj5rSF6IwZYrY2BoCILl8uXEOfqg",
+        "title": "Sales Associate",
+        "duration": "Jan 2023 - Present",
+        "location": "Denton, Texas, United States",
+        "bullets": [
+          "Assisted customers with product selection and inquiries.",
+          "Maintained store cleanliness and organized merchandise displays.",
+          "Handled cash register transactions and managed inventory."
+        ]
+      },
+      {
+        "company": "Starbucks",
+        "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQEQxk9y2rk7Hw/company-logo_100_100/company-logo_100_100/0/1631316692276?e=1749081600&v=beta&t=l2z-3jGl3YhlU4MiMfQLkhNrIvlkDAoIUczM1RKbxT4",
+        "title": "Barista",
+        "duration": "Jun 2021 - Dec 2022",
+        "location": "Denton, Texas, United States",
+        "bullets": [
+          "Prepared and served coffee and other beverages to customers.",
+          "Provided friendly customer service in a fast-paced environment.",
+          "Trained new staff on coffee preparation and customer service standards."
         ]
       }
     ],
-    "skills": [],
-    "certifications": [
+    "education": [
       {
-        "name": "",
-        "issuer": "",
-        "issueDate": "",
-        "issuerLogo": ""
-      },
-      {
-        "name": "",
-        "issuer": "",
-        "issueDate": "",
-        "issuerLogo": ""
-      },
-      {
-        "name": "",
-        "issuer": "",
-        "issueDate": "",
-        "issuerLogo": ""
+        "school": "University of North Texas",
+        "schoolLogo": "https://media.licdn.com/dms/image/v2/C560BAQEWg2OaOf8MSg/company-logo_100_100/company-logo_100_100/0/1630635492658/northtexas_logo?e=1748476800&v=beta&t=-oZMRUW2B7C7JKhSqNcPPxR7SmUc5t5bW1yv48Oyy9c",
+        "degree": "Bachelor's Degree in Management",
+        "duration": "2019 - 2023"
       }
     ],
+    "skills": [
+      "Customer Service",
+      "Sales",
+      "Teamwork",
+      "Communication",
+      "Time Management",
+      "Problem Solving",
+      "Retail Management",
+      "Cash Handling",
+      "Adaptability",
+      "Conflict Resolution",
+      "Leadership",
+      "Attention to Detail",
+      "Multitasking"
+    ],
+    "certifications": [
+      {
+        "name": "Customer Service Certification",
+        "issuer": "LinkedIn Learning",
+        "issueDate": "2023",
+        "issuerLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png"
+      },
+      {
+        "name": "Sales Fundamentals",
+        "issuer": "LinkedIn Learning",
+        "issueDate": "2023",
+        "issuerLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png"
+      }
+    ]
+  },
+  {
+    "id": "MID-08",
+    "name": "Amanda Whitmore",
+    "headline": "Aspiring Marketing Professional | Creative Thinker",
+    "location": "Denton, Texas, United States",
+    "connections": 324,
+    "profilePic": "https://i.ibb.co/fVNkwRQH/Amanda.jpg",
+    "backgroundPic": "https://healthyresumes.com/wp-content/uploads/2022/10/LinkedIn-Background-Photo-22-1.webp",
+    "about": "I am a recent graduate from the University of North Texas with a degree in Management. My passion lies in creating innovative marketing strategies that resonate with audiences. I have experience in digital marketing, social media management, and content creation. I am eager to leverage my skills in a dynamic marketing role where I can contribute to brand growth and customer engagement.",
+    "experience": [
+      {
+        "company": "Midtown Marketing Solutions",
+        "title": "Marketing Intern",
+        "duration": "Jan 2023 - May 2023",
+        "bullets": [
+          "Assisted in developing and executing marketing campaigns.",
+          "Conducted market research to identify trends and consumer preferences.",
+          "Collaborated with the design team to create engaging content for social media."
+        ]
+      },
+      {
+        "company": "University of North Texas",
+        "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQEWg2OaOf8MSg/company-logo_100_100/company-logo_100_100/0/1630635492658/northtexas_logo?e=1748476800&v=beta&t=-oZMRUW2B7C7JKhSqNcPPxR7SmUc5t5bW1yv48Oyy9c",
+        "title": "Social Media Coordinator",
+        "duration": "Sep 2021 - Dec 2022",
+        "bullets": [
+          "Managed social media accounts and increased engagement by 30%.",
+          "Created and scheduled posts to promote university events and initiatives.",
+          "Analyzed social media metrics to improve content strategy."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "school": "University of North Texas",
+        "schoolLogo": "https://media.licdn.com/dms/image/v2/C560BAQEWg2OaOf8MSg/company-logo_100_100/company-logo_100_100/0/1630635492658/northtexas_logo?e=1748476800&v=beta&t=-oZMRUW2B7C7JKhSqNcPPxR7SmUc5t5bW1yv48Oyy9c",
+        "degree": "Bachelor's Degree in Management",
+        "duration": "2019 - 2023"
+      }
+    ],
+    "skills": [
+      "Digital Marketing",
+      "Social Media Management",
+      "Content Creation",
+      "Market Research",
+      "SEO",
+      "Data Analysis",
+      "Creative Thinking",
+      "Communication",
+      "Team Collaboration",
+      "Project Management"
+    ],
+    "certifications": [
+      {
+        "name": "Google Analytics Certification",
+        "issuer": "Google",
+        "issueDate": "2023",
+        "issuerLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_100_100/company-logo_100_100/0/1631311446380?e=1748476800&v=beta&t=XpG5OuBsXyFLAGGsTkRmwqsl4HlNw6hdRxthqm0eI5k"
+      },
+      {
+        "name": "Social Media Marketing Certification",
+        "issuer": "HubSpot",
+        "issueDate": "2023",
+        "issuerLogo": "https://media.licdn.com/dms/image/v2/D560BAQFGt4XAU9bF5w/company-logo_100_100/company-logo_100_100/0/1719518128249/hubspot_academy_logo?e=1748476800&v=beta&t=GR0sPB-u8rHykC2c31CTc3CYI-_MYGzOqkBl0xYhq6s"
+      }
+    ]
+  },
+{
+    "id": "MID-09",
+    "name": "Melanie Eastwood",
+    "headline": "Experienced Finance Analyst",
+    "location": "Orlando, Florida, United States",
+    "connections": 235,
+    "profilePic": "https://i.ibb.co/YM4N2Tw/Melanie.jpg",
+    "backgroundPic": "https://healthyresumes.com/wp-content/uploads/2022/10/LinkedIn-Background-Photo-102-1.webp",
+    "about": "Experienced Finance Analyst, adept at managing the budget for large complex federal and commercial programs. Skilled in conducting detailed financial analysis and presenting findings to executive management to make profitable data driven decisions. Well versed in the use of Deltek Cobra and Oracle Hyperion to build and maintain forecasts to optimize the profitability of the firm.",
+    "experience": [
+      {
+        "company": "Northrop Grumman",
+        "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQFnJf3Nn259IA/company-logo_100_100/company-logo_100_100/0/1630610111160/northrop_grumman_corporation_logo?e=1749081600&v=beta&t=IV4l9iLcEraR0gAY-TC0uJD1DwHHC169tP1MjvZ-W2I",
+        "title": "Program Financial Analyst",
+        "duration": "Feb 2023 - Present",
+        "bullets": [
+          "Achieved a 96% program award fee through expert use of Deltek Cobra and Excel for cost and schedule performance monitoring.",
+          "Created internal and external performance reports and translated complex financial data into concise, data-driven presentations using Excel, Power BI, and PowerPoint.",
+          "Produced monthly reports for cost evaluation, variance analyses, and headcount trends for strategic reviews across functional teams and management.",
+          "Developed financial forecasts and conducted ad hoc analyses which contributed to a 25% increase in profitable business decisions.",
+          "Managed monthly budget, performance metrics, and EACs (Estimate at Completion) data in Deltek Cobra while ensuring 100% compliance with audit requirements."
+        ]
+      },
+      {
+        "company": "lululemon",
+        "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQGMWv6sPQ7AmA/company-logo_100_100/company-logo_100_100/0/1731601860264/lululemon_logo?e=1749081600&v=beta&t=qXuT90E6E_xomEvWUpaTxkxHbWCDMIs9KPXqJP8llCA",
+        "title": "Educator",
+        "duration": "Oct 2022 - Feb 2023",
+        "bullets": [
+          "Attained the highest volume of units merchandised company-wide in a singular day (+9,200).",
+          "Supplemented supply chain knowledge with Oracle software training and consistently drove conversion, UTP, and ATV.",
+          "Responsible for inventory management including receiving and processing purchase orders."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "school": "Texas Tech University",
+        "schoolLogo": "https://media.licdn.com/dms/image/v2/D560BAQGkud-441bEhg/company-logo_100_100/company-logo_100_100/0/1719257421730/texas_tech_university_logo?e=1748476800&v=beta&t=pO2UgAWOJHm8crklpPNBKyd146b5FiSX5E_nCmk2wKw",
+        "degree": "Bachelor's degree in Management",
+        "duration": "2019 - 2023"
+      }
+    ],
+    "skills": [
+      "Risk Analysis",
+      "Earned Value Management (EVM)",
+      "Financial Operations",
+      "Problem Solving",
+      "Presentations",
+      "Communication",
+      "Leadership",
+      "Project Management"
+    ],
+    "certifications": [
+      {
+        "name": "EVMS Control Account Manager Certification",
+        "issuer": "Northrop Grumman",
+        "issueDate": "Apr 2023",
+        "issuerLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQFnJf3Nn259IA/company-logo_100_100/company-logo_100_100/0/1630610111160/northrop_grumman_corporation_logo?e=1749081600&v=beta&t=IV4l9iLcEraR0gAY-TC0uJD1DwHHC169tP1MjvZ-W2I"
+      },
+      
+      {
+        "name": "Communication Foundations",
+        "issuer": "LinkedIn",
+        "issueDate": "Sep 2021",
+        "issuerLogo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=1749081600&v=beta&t=lCMZmx-E2v1gJXD_vjHGoTp_0oj2IyFVFcQ_8udsvbI"
+
+      }
+    ]
   },
 ];
 
