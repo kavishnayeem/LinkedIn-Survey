@@ -4,6 +4,7 @@ import LinkedIn from './Components/LinkedIn';
 import Form from './Components/Form.jsx';
 import midProfileData from "./Profiles/midProfileData.jsx";
 import highProfileData from "./Profiles/highProfileData.jsx";
+import lowProfileData from "./Profiles/lowProfileData.jsx"; // Import low profile data
 
 function App() {
   const [activeProfile, setActiveProfile] = useState(0);
@@ -15,6 +16,15 @@ function App() {
         {!profileData ? (
           // Show profile type selector initially
           <>
+            <button
+              onClick={() => {
+                setProfileData(lowProfileData); // Add low profile data option
+                setActiveProfile(0);
+              }}
+              className="switch-btn"
+            >
+              Low Profiles
+            </button>
             <button
               onClick={() => {
                 setProfileData(midProfileData);
@@ -33,6 +43,7 @@ function App() {
             >
               High Profiles
             </button>
+
           </>
         ) : (
           // Show profile numbers after type selection

@@ -149,4 +149,4 @@ const lowProfileData = [
   },
 ];
 
-export default lowProfileDataProfileData;
+export default lowProfileData;
