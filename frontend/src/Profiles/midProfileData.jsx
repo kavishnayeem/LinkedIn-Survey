@@ -650,6 +650,7 @@ const midProfileData = [
     ]
   },
 {
+  "id":"MID-10",
   "name": "Ashley Merritt",
   "headline": "Recent Management Graduate with Experience in Marketing and Coaching",
   "location": "Dallas, Texas, United States",
@@ -744,6 +745,138 @@ const midProfileData = [
         "Facilitated a fun and educational environment focused on Christian teachings.",
         "Instructed children on the values of teamwork, sharing, and responsibility."
       ]
+    }
+  ]
+},
+{
+  "id": "MID-11",
+  "name": "Lauren Winslow",
+  "headline": "Dynamic Management Graduate | Experienced Operations Coordinator",
+  "location": "San Antonio, Texas, United States",
+  "connections": 147,
+  "profilePic": "https://i.ibb.co/pjdfkzDd/Lauren.jpg", // Placeholder for Profile Picture
+  "backgroundPic": "https://media.licdn.com/dms/image/v2/D4D16AQHKWKpTUxabHA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1696645206385?e=1746057600&v=beta&t=NnADDHec2l6HVHlx-H97BWsvMAjeJE6iUUbJLrGIWvc", // Placeholder for Background Picture
+  "about": "Recent graduate from the University of Texas at San Antonio with a Bachelor's degree in Management. I have experience working in a mid-level company and am eager to apply my skills in a dynamic environment.",
+  "experience": [
+    {
+      "company": "HubSpot",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQF8H-SLmMDZlA/company-logo_100_100/company-logo_100_100/0/1646683330132/hubspot_logo?e=1749081600&v=beta&t=dX3lizfrceklkTanXMmWQKfye0tP6jTqab0hpEBic_M",
+      "title": "Operations Coordinator",
+      "duration": "Jan 2023 - Present",
+      "bullets": [
+        "Coordinated daily operations and improved efficiency.",
+        "Assisted in project management and team collaboration.",
+        "Developed training materials for new employees."
+      ]
+    },
+    {
+      "company": "Tech Solutions Inc.",
+      "title": "Project Assistant",
+      "duration": "Jun 2022 - Dec 2022",
+      "bullets": [
+        "Supported project managers in planning and executing projects.",
+        "Maintained project documentation and schedules.",
+        "Communicated with team members to ensure project milestones were met."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "school": "University of Texas at San Antonio",
+      "schoolLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQHLKagG7cuGew/company-logo_100_100/company-logo_100_100/0/1630589853082/the_university_of_texas_at_san_antonio_logo?e=1748476800&v=beta&t=vxRdnGsWO44a5H-nFCoEo3XNvPbDyrgMUrPSG2l8Vx8",
+      "degree": "Bachelor's Degree in Management",
+      "duration": "2021 - 2024"
+    }
+  ],
+  "skills": [
+    "Project Management",
+    "Team Collaboration",
+    "Communication",
+    "Leadership",
+    "Problem Solving",
+    "Time Management",
+    "Data Analysis",
+    "Customer Service",
+    "Marketing Strategy",
+    "Sales",
+    "Adaptability",
+    "Critical Thinking",
+    "Creativity"
+  ],
+  "certifications": [
+    {
+      "name": "Business Analysis Fundamentals",
+      "issuer": "LinkedIn",
+      "issueDate": "2023",
+      "issuerLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png"
+    }
+  ]
+},
+{
+  "id": "MID-12",
+  "name": "Megan Carmichael",
+  "headline": "Assistant Manager at Central Texas Retail Group | Management Graduate",
+  "location": "San Antonio, Texas, United States",
+  "connections": 150,
+  "profilePic": "https://i.ibb.co/WvnmwJw2/Megan.jpg",
+  "backgroundPic": "https://media.licdn.com/media/AAYABATzAAgAAQAAAAAAAL2POOu6t-JzRZetYZPBibw5zA.png",
+  "about": "Management graduate from the University of Texas at San Antonio with experience in retail management. Skilled in team leadership, customer service, and operations management. Passionate about driving business growth and improving customer satisfaction.",
+  "experience": [
+    {
+      "company": "Central Texas Retail Group",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4E07AQH14-Q5Mpz1Fw/group-logo_image-shrink_48x48/group-logo_image-shrink_48x48/0/1631361406075?e=1741629600&v=beta&t=MYWdioDQGoeskFP3rriJKs3Tqqu-k806ZJoeLiyMQyY",
+      "title": "Assistant Manager",
+      "duration": "Jan 2023 - Present",
+      "bullets": [
+        "Managed a team of 10 sales associates, ensuring excellent customer service.",
+        "Oversaw inventory management and stock replenishment.",
+        "Analyzed sales data to identify trends and improve store performance.",
+        "Trained new employees on company policies and procedures."
+      ]
+    },
+    {
+      "company": "Central Texas Retail Group",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4E07AQH14-Q5Mpz1Fw/group-logo_image-shrink_48x48/group-logo_image-shrink_48x48/0/1631361406075?e=1741629600&v=beta&t=MYWdioDQGoeskFP3rriJKs3Tqqu-k806ZJoeLiyMQyY",
+      "title": "Sales Associate",
+      "duration": "Aug 2022 - Dec 2022",
+      "bullets": [
+        "Provided exceptional customer service, resulting in high customer satisfaction ratings.",
+        "Assisted in visual merchandising and store displays.",
+        "Handled cash register operations and end-of-day reconciliations."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "school": "University of Texas at San Antonio",
+      "schoolLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQHLKagG7cuGew/company-logo_100_100/company-logo_100_100/0/1630589853082/the_university_of_texas_at_san_antonio_logo?e=1748476800&v=beta&t=vxRdnGsWO44a5H-nFCoEo3XNvPbDyrgMUrPSG2l8Vx8",
+      "degree": "Bachelor's Degree in Management",
+      "duration": "2019 - 2023"
+    }
+  ],
+  "skills": [
+    "Team Management",
+    "Customer Service",
+    "Inventory Management",
+    "Sales Analysis",
+    "Training and Development",
+    "Communication",
+    "Problem Solving",
+    "Time Management",
+    "Microsoft Office"
+  ],
+  "certifications": [
+    {
+      "name": "Customer Service Excellence",
+      "issuer": "LinkedIn Learning",
+      "issueDate": "2023",
+      "issuerLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png"
+    },
+    {
+      "name": "Effective Team Management",
+      "issuer": "LinkedIn Learning",
+      "issueDate": "2023",
+      "issuerLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png"
     }
   ]
 }
