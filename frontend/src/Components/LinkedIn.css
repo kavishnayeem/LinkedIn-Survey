@@ -80,8 +80,20 @@
     object-fit: cover;
   }
   
+  .open-to-work-image {
+    position: absolute;
+    width: 12vw; /* Adjust size as needed */
+    height: 12vw; /* Adjust size as needed */
+    border-radius: 50%;
+    border: 0.4vw solid #fff;
+    left: 4%;
+    bottom: 1vh; /* Position it above the avatar */
+    object-fit: cover;
+    z-index: 1; /* Ensure it sits above the avatar */
+  }
+
   .avatar {
-    position:absolute;
+    position: absolute;
     width: 12vw;
     height: 12vw;
     border-radius: 50%;
@@ -89,7 +101,7 @@
     left: 4%;
     bottom: 1vh;
     object-fit: cover;
-
+    z-index: 0; /* Ensure it sits below the open to work image */
   }
   
   .profile-info {
