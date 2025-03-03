@@ -750,7 +750,7 @@ const midProfileData = [
 },
 {
   "id": "MID-11",
-  "name": "Lauren Winslow",
+  "name": "Olivia	Grant",
   "headline": "Dynamic Management Graduate | Experienced Operations Coordinator",
   "location": "San Antonio, Texas, United States",
   "connections": 147,
@@ -814,7 +814,7 @@ const midProfileData = [
 },
 {
   "id": "MID-12",
-  "name": "Megan Carmichael",
+  "name": "Hannah	Clark",
   "headline": "Assistant Manager at Central Texas Retail Group | Management Graduate",
   "location": "San Antonio, Texas, United States",
   "connections": 150,
