@@ -63,8 +63,8 @@ const LinkedInProfile = ({ profileData }) => {
                 />
               </div>
               <div className="experience-details">
-                <h3 className="company">{exp.company}</h3>
-                <p className="position">{exp.title}</p>
+                <h3 className="position">{exp.title}</h3>
+                <p className="company">{exp.company}</p>
                 <p className="duration">{exp.duration}</p>
                 <ul className="experience-bullets">
                   {exp.bullets && exp.bullets.map((bullet, idx) => (

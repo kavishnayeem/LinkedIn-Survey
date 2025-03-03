@@ -173,7 +173,7 @@
 
 
   
-  .company {
+  .position {
     font-size: 1.4vw;
     color: rgba(0,0,0,0.9);
     font-weight: 600;
@@ -181,7 +181,7 @@
     margin-bottom: 0;
   }
 
-  .position {
+  .company {
     font-size: 1.2vw;
     color: rgba(0,0,0,0.8);
     margin-top: 0;
