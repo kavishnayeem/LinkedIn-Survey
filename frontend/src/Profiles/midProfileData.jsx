@@ -649,6 +649,104 @@ const midProfileData = [
       }
     ]
   },
+{
+  "name": "Ashley Merritt",
+  "headline": "Recent Management Graduate with Experience in Marketing and Coaching",
+  "location": "Dallas, Texas, United States",
+  "connections": 221, // Placeholder for Connections
+  "profilePic": "https://i.ibb.co/RkWvrhyt/Ashley.jpg", // Placeholder for Profile Picture
+  "backgroundPic": "https://t4.ftcdn.net/jpg/12/64/60/71/240_F_1264607127_Dc9mYaKe1PkQUYN2IRiacw5foe8sTcSP.jpg", // Placeholder for Background Picture
+  "about": "Hi, my name is Ashley Merritt, and I recently graduated from Texas Tech University with a Bachelor's degree in Management. I’m passionate about social media, marketing, management, and real estate, and I aim to help businesses effectively promote their goods and services through innovative marketing strategies. I completed a seven-month internship at Mechanical One as a marketing intern, where I learned how to use Photoshop and WordPress, conducted market research, managed social media accounts, created marketing materials, and assisted on set for filming commercials. Additionally, I have worked as a lifeguard and swim coach at my local country club, which has helped me develop essential skills in communication, leadership, and responsibility. I’m proficient in Microsoft Word, PowerPoint, Excel, Photoshop, and Adobe Illustrator, and I have a basic working knowledge of Spanish. Now that I have graduated, I’m eager to find a fulfilling job and eventually pursue a Master’s degree.",
+  "experience": [
+    {
+      "company": "Heathrow Country Club",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQGGo_OvEq7YHA/company-logo_100_100/company-logo_100_100/0/1720028346230/heathrow_country_club_logo?e=1749081600&v=beta&t=zU39My_zVvNwr4LSal74r1jjCqD2wq6m0R9gBO4kGcE",
+      "title": "Head Swim Coach",
+      "duration": "May 2020 - Present",
+      "bullets": [
+        "Responsible for teaching and analyzing swimming techniques.",
+        "Created swim practices tailored to each group.",
+        "Educated swimmers on various skills, techniques, and drills."
+      ]
+    },
+    {
+      "company": "Heathrow Country Club",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQGGo_OvEq7YHA/company-logo_100_100/company-logo_100_100/0/1720028346230/heathrow_country_club_logo?e=1749081600&v=beta&t=zU39My_zVvNwr4LSal74r1jjCqD2wq6m0R9gBO4kGcE",
+      "title": "Lifeguard",
+      "duration": "May 2020 - May 2024",
+      "bullets": [
+        "Ensured safety of all swimmers.",
+        "Maintained communication and performed CPR when necessary."
+      ]
+    },
+    {
+      "company": "Mechanical One LLC",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQFnGtUY7tf3qg/company-logo_100_100/company-logo_100_100/0/1669055369060/mechanical_one_llc_logo?e=1749081600&v=beta&t=Yp-xVkPTa12KUsmXRs0Ge0pZlTx1FrvxwucjQ90yb4Y", // Placeholder for Company Logo
+      "title": "Marketing Intern",
+      "duration": "Mar 2024 - Sep 2024",
+      "bullets": [
+        "Assisted in market research and social media management.",
+        "Created marketing materials and learned to use various software."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "school": "Texas Tech University",
+      "schoolLogo": "https://media.licdn.com/dms/image/v2/D560BAQGkud-441bEhg/company-logo_100_100/company-logo_100_100/0/1719257421730/texas_tech_university_logo?e=1748476800&v=beta&t=pO2UgAWOJHm8crklpPNBKyd146b5FiSX5E_nCmk2wKw",
+      "degree": "Bachelor's degree in Management",
+      "duration": "Aug 2022 - May 2024"
+    },
+    {
+      "school": "Dallas College",
+      "schoolLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQFwk6Gu498WhQ/company-logo_100_100/company-logo_100_100/0/1630615950400/dcccd_logo?e=1749081600&v=beta&t=Q2iK-yJEo77ojRs8IL5HypFgw2jP0FAKAyVTyKiHIAQ",
+      "degree": "Associate of Arts - AA, Management",
+      "duration": "Jun 2021 - Aug 2022"
+    }
+  ],
+  "skills": [
+    "Sales Effectiveness",
+    "Coaching",
+    "Communication",
+    "Leadership",
+    "Creativity",
+    "Responsibility",
+    "Marketing Strategy",
+    "Social Media Management",
+    "Team Collaboration",
+    "Problem Solving",
+    "Time Management"
+  ],
+  "certifications": [
+    {
+      "name": "Soft Skills for Sales Professionals",
+      "issuer": "LinkedIn",
+      "issueDate": "Mar 2024",
+      "issuerLogo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=1749081600&v=beta&t=lCMZmx-E2v1gJXD_vjHGoTp_0oj2IyFVFcQ_8udsvbI"
+
+    },
+    {
+      "name": "CPR/AED/First Aid",
+      "issuer": "American Red Cross",
+      "issueDate": "Dec 2023",
+      "issuerLogo": "https://media.licdn.com/dms/image/v2/C560BAQHUWIQmmDRJOw/company-logo_100_100/company-logo_100_100/0/1656603670184/american_red_cross_logo?e=1749081600&v=beta&t=R7xzNRhhDZ00nPBLrIzL1YCcskvul0wAnEnm15EW2N8"
+
+    }
+  ],
+  "volunteering": [
+    {
+      "company": "Holy Cross Lutheran Church",
+      "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQGn-SmrjHUKtQ/company-logo_100_100/company-logo_100_100/0/1647020091241/holy_cross_lutheran_church_logo?e=1749081600&v=beta&t=iQbKNTyF67ngx0FrWjXmC0pRKj3_tCNJ1_7Dkeq2f8Q", // Example logo URL
+      "title": "Vacation Bible School Leader",
+      "duration": "June 2019",
+      "bullets": [
+        "Led a group of 7 children in various activities.",
+        "Facilitated a fun and educational environment focused on Christian teachings.",
+        "Instructed children on the values of teamwork, sharing, and responsibility."
+      ]
+    }
+  ]
+}
 ];
 
 export default midProfileData;
