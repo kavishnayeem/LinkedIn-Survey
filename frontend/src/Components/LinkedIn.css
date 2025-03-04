@@ -16,11 +16,11 @@
 .company-logo-container,
 .school-logo-container,
 .certification-logo-container {
-  width: 4vw;
-  height: 4vw;
-  min-width: 48px;
-  min-height: 48px;
-  margin-right: 0.7vw;
+  width: 7%;
+  height: 7%;
+  min-width: 4%; /* Adjusted to a percentage */
+  min-height: 4%; /* Adjusted to a percentage */
+  margin-right: 0.7%;
   flex-shrink: 0;
 }
 
