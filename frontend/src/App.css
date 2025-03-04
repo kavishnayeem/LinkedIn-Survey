@@ -47,10 +47,15 @@
   .split-view {
     flex-direction: column;
   }
-  .left-pane, .right-pane {
+  .left-pane {
     width: 100%; /* Set width to 100% when stacked */
     padding: 10px;
-    height: auto; /* Allow height to adjust in column layout */
+    height: 50%; /* Set height to 60% for the left pane */
+  }
+  .right-pane {
+    width: 100%; /* Set width to 100% when stacked */
+    padding: 10px;
+    height: 50%; /* Set height to 40% for the right pane */
   }
 }
 
