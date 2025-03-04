@@ -286,84 +286,372 @@ const lowProfileData = [
     ]
   },
   {
-    "id": "HIGH-04",
-    "name": "Jordan	Kensington",
-    "headline": "",
-    "location": "",
-    "connections": 0,
-    "profilePic": "",
-    "backgroundPic": "",
-    "about": "",
+    "id": "LOW-06",
+    "name": "Ethan Brooks",
+    "opentowork": "Yes",
+    "profilePic": "https://i.ibb.co/BHTXqYxK/Default-PP.png",
+    "headline": "Eager to Start My Career in Business Management - Bachelor's degree in Management from Texas A&M University–Central Texas",
+    "location": "Killeen, Texas, United States",
+    "connections": 56,
+    "backgroundPic": "https://media.sproutsocial.com/uploads/LinkedIn-Personal3B-Design.jpg",
+    "about": "Recent graduate from Texas A&M University - Central Texas. Eager to gain experience in the business field. Currently seeking entry-level positions.",
     "experience": [
       {
-        "company": "",
-        "companyLogo": "",
-        "title": "",
-        "duration": "",
+        "company": "Starbucks",
+        "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQEQxk9y2rk7Hw/company-logo_100_100/company-logo_100_100/0/1631316692276?e=1749081600&v=beta&t=l2z-3jGl3YhlU4MiMfQLkhNrIvlkDAoIUczM1RKbxT4",
+        "title": "Barista",
+        "duration": "Jun 2022 - Aug 2022",
         "bullets": [
-          "",
-          "",
-          ""
+          "Provided excellent customer service in a fast-paced environment.",
+          "Prepared and served beverages according to company standards."
         ]
       },
       {
-        "company": "",
-        "companyLogo": "",
-        "title": "",
-        "duration": "",
+        "company": "McDonald's",
+        "companyLogo": "https://media.licdn.com/dms/image/v2/C510BAQF7QUwHNmpnyA/company-logo_100_100/company-logo_100_100/0/1630633117296/golden_arches_development_corp_logo?e=1749081600&v=beta&t=KQ0dGi7hWwsUJg4V3ighsivlPYalE_rvb7jbrjINGWU",
+        "title": "Crew Member",
+        "duration": "Jan 2021 - May 2021",
         "bullets": [
-          "",
-          "",
-          ""
-        ]
-      },
-      {
-        "company": "",
-        "companyLogo": "",
-        "title": "",
-        "duration": "",
-        "bullets": [
-          "",
-          "",
-          ""
+          "Assisted in food preparation and customer service.",
+          "Maintained cleanliness and organization of the work area."
         ]
       }
     ],
     "education": [
       {
-        "school": "",
-        "schoolLogo": "",
-        "degree": "",
-        "duration": "",
-        "courses": [
-          "",
-          "",
-          ""
+        "school": "Texas A&M University–Central Texas",
+        "schoolLogo": "https://media.licdn.com/dms/image/v2/C510BAQFzZGRsauw2rQ/company-logo_100_100/company-logo_100_100/0/1630626610515/texas_am_universitycentral_texas_logo?e=1749081600&v=beta&t=55P-ft3ceIXpTMpr7rFuTNav8hVevDpj-rAmX5fjeRI",
+        "degree": "Bachelor's degree, Management",
+        "duration": "May 2024"
+      }
+    ],
+    "skills": [
+      "Customer Service",
+      "Teamwork",
+      "Communication",
+      "Time Management"
+    ]
+  },
+  {
+    "id": "LOW-07",
+    "name": "Emily Bennett",
+    "opentowork": "Yes",
+    "profilePic": "https://i.ibb.co/qY7VvpQL/Emily.jpg",
+    "headline": "Business Student | BS in Management Graduate | Management and Customer Service | Trilingual | Social Media Expert, Marketing, and Strategy",
+    "location": "Killeen, Texas, United States",
+    "connections": 100,
+    "about": "Passionate marketing and sales professional with over four years of experience in digital strategy, branding, and social media marketing. Skilled in creating engaging content, managing ad campaigns, and developing marketing strategies to enhance brand visibility. Proficient in tools like Canva, CapCut, and various social media platforms to drive customer engagement.",
+    "experience": [
+      {
+        "company": "KEK APPLIANCES",
+        "title": "Marketer",
+        "duration": "Oct 2020 - Present",
+        "bullets": [
+          "Publish pictures of new appliances to Google and other social media feeds.",
+          "Handle branding on all platforms as well as email and ad campaigns.",
+          "Collaborate with other businesses and sales teams to increase branding."
+        ]
+      },
+      {
+        "company": "KEK APPLIANCES",
+        "title": "Salesperson",
+        "duration": "Oct 2020 - Present",
+        "bullets": [
+          "Communicate with colleagues on better strategies, sales, and marketing strategies.",
+          "Negotiate terms of sales, prices, and services, as well as financing agreements.",
+          "Maintain a professional and polite customer relationship where it is possible to communicate in three languages."
         ]
       }
     ],
-    "skills": [],
-    "certifications": [
+    "education": [
       {
-        "name": "",
-        "issuer": "",
-        "issueDate": "",
-        "issuerLogo": ""
+        "school": "Collin College",
+        "schoolLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQG_efqBY8CI0g/company-logo_100_100/company-logo_100_100/0/1631307648514?e=1749081600&v=beta&t=CvusdCfMCdc3BwWdx5fw1sa7W44srXRmrLxBuym1-hI",
+        "degree": "Bachelor's degree, Management",
+        "duration": "Jan 2023 - May 2025",
+        "activities": "Club: Young Investors Club"
       },
       {
-        "name": "",
-        "issuer": "",
-        "issueDate": "",
-        "issuerLogo": ""
-      },
-      {
-        "name": "",
-        "issuer": "",
-        "issueDate": "",
-        "issuerLogo": ""
+        "school": "Valencia College",
+        "schoolLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQFVx6cj0kTirA/company-logo_100_100/company-logo_100_100/0/1630526766922/valencia_college_logo?e=1749081600&v=beta&t=7WaykVZAT1Nxpbx3zu5ik9fyvMw0b9LIZeP3GWKDBck",
+        "degree": "Associate of Arts - AA, Business Administration and Management, General",
+        "duration": "Jun 2021 - Dec 2022",
+        "achievements": "Listed on the dean's list and president's list. Graduated with a GPA of 3.75."
       }
     ],
+    "skills": [
+      "Communication",
+      "Negotiation",
+      "Marketing",
+      "Digital Strategy",
+      "Social Media Marketing",
+      "Digital Media",
+      "Marketing Management",
+      "Retail",
+      "Sales",
+      "Management",
+      "Public Speaking",
+      "Time Management",
+      "Team Building",
+      "Leadership"
+    ]
   },
+  {
+    "id": "LOW-08",
+    "name": "Sarah Harrington",
+    "opentowork": "Yes",
+    "profilePic": "https://i.ibb.co/BHTXqYxK/Default-PP.png",
+    "backgroundPic": "https://media.sproutsocial.com/uploads/2c-LinkedIn-Banner-Personal-design-1.png",
+    "headline": "Business Management Graduate From TSU | Former Administration Assistant Intern at Nora Mental Health Care | Aspiring Management Professional",
+    "location": "Corpus Christi, Texas, United States",
+    "connections": 127,
+    "about": "Recent Business Management graduate from Texas Southern University with a passion for organizational leadership and administration. My goal is to contribute to a dynamic company where I can apply my skills in business operations, customer service, and administrative support.",
+    "experience": [
+      {
+        "company": "Nora Mental Health",
+        "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQGPcRhl1HRWbg/company-logo_100_100/company-logo_100_100/0/1731011589120?e=1749081600&v=beta&t=gGstaUH64LNP_yVT-dVK1y1Aj8D98_-3Yhqv_waXZm8",
+        "title": "Administrative Assistant Intern",
+        "duration": "Jun 2024 - Present",
+        "bullets": [
+          "Assisted in administrative tasks to support mental health professionals.",
+          "Managed scheduling and communication with clients.",
+          "Contributed to the organization of office operations."
+        ]
+      },
+      {
+        "company": "Texas Southern University",
+        "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQEmFw3muu01YA/company-logo_100_100/company-logo_100_100/0/1631300782341?e=1749081600&v=beta&t=YrscoC_jTsPQtfKnhQOUs-2BFCIg8uD_rEJa9lJQQDo",
+        "title": "Undergraduate Student",
+        "duration": "Aug 2019 - Present",
+        "bullets": [
+          "Pursuing a Bachelor's degree in Management.",
+          "Engaged in various student organizations to enhance leadership skills.",
+          "Participated in workshops and seminars related to business management."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "school": "Texas Southern University",
+        "schoolLogo": "https://media.licdn.com/dms/image/v2/C560BAQEmFw3muu01YA/company-logo_100_100/company-logo_100_100/0/1631300782341?e=1749081600&v=beta&t=YrscoC_jTsPQtfKnhQOUs-2BFCIg8uD_rEJa9lJQQDo",
+        "degree": "Bachelor's degree, Management",
+        "duration": "Aug 2021 - Aug 2024",
+        "grade": "Senior"
+      }
+    ],
+    "skills": [
+      "Buisness Management",
+      "Administration",
+      "Customer Service",
+      "Organizational Leadership"
+    ]
+  },
+  {
+    "id": "LOW-09",
+    "name": "Rachel Waverly",
+    "opentowork": "Yes",
+    "profilePic": "https://i.ibb.co/BHTXqYxK/Default-PP.png",
+    "backgroundPic": "https://media.licdn.com/dms/image/v2/D4E16AQFiZiwAKjJ0Kw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739225427062?e=1746662400&v=beta&t=cFas-o-nrSCNpabFvw_N1ObAihIvS38jUb01SmHvqyc",
+    "headline": "Student at Texas Southern University",
+    "location": "Houston, Texas, United States",
+    "connections": 144,
+    "about": "Hardworking and motivated, always looking to learn and improve. I have experience in sales, customer service, and working with people in different environments. Graduated from Texas Southern University with a degree in Management. Good at communicating, problem-solving, and working on a team. Excited to find new opportunities and grow my skills.",
+    "experience": [
+      {
+        "company": "Citrus Sitters",
+        "title": "Childcare Provider",
+        "duration": "Dec 2021 - Present",
+        "bullets": [
+          "Provided childcare services for families in need.",
+          "Ensured a safe and nurturing environment for children."
+        ]
+      },
+      {
+        "company": "KemKids Dance Studio",
+        "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQEhN5X9YgcwUg/company-logo_100_100/company-logo_100_100/0/1715311241539?e=1749081600&v=beta&t=2yPtotivfMu83-MsNKxg8CaAeYyNIpuYNBFEMalYHaE", // Placeholder for Company Logo
+        "title": "Dance Instructor",
+        "duration": "Aug 2019 - May 2021",
+        "bullets": [
+          "Facilitated learning and choreographed new dances weekly for groups of 8-15 children ages 4-8.",
+          "Established and maintained relationships with kids and parents.",
+          "Empowered and instilled confidence in kids to create a positive environment for learning, growth, and fun."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "school": "Texas Southern University",
+        "schoolLogo": "https://media.licdn.com/dms/image/v2/C560BAQEmFw3muu01YA/company-logo_100_100/company-logo_100_100/0/1631300782341?e=1749081600&v=beta&t=YrscoC_jTsPQtfKnhQOUs-2BFCIg8uD_rEJa9lJQQDo",
+        "degree": "Bachelor's degree, Management",
+        "duration": "Jun 2020 - May 2024",
+        "grade": "4th Year",
+        "activities": [
+          "TSU Flag Football Club",
+          "Delta Sigma Pi Coed Professional Business Fraternity"
+        ]
+      }
+    ],
+    "skills": [
+      "Customer Service",
+      "High-Pressure Situations",
+      "Creative Problem Solving",
+      "Time Management",
+      "Microsoft Office",
+      "Leadership",
+      "Communication",
+      "Teamwork",
+      "Organization Skills"
+    ]
+  },
+  {
+    "id": "LOW-10",
+    "name": "Brooke Aldridge",
+    "opentowork": "Yes",
+    "headline": "Motivated Recent Graduate with Experience in Customer Service and Sales",
+    "location": "Corpus Christi, Texas, United States",
+    "connections": 120,
+    "profilePic": "https://i.ibb.co/Z1KLL9WC/Brooke.jpg",
+    "backgroundPic": "https://media.sproutsocial.com/uploads/1c-LinkedIn-Banner-Personal-design-1.png",
+    "about": "I am a recent graduate from Del Mar College with a degree in Business Administration. I have a strong background in customer service and sales, and I am passionate about helping customers find the right solutions for their needs. I am eager to apply my skills in a dynamic work environment and continue to grow professionally.",
+    "experience": [
+      {
+        "company": "Walmart",
+        "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQHZkPdlecGssw/company-logo_100_100/company-logo_100_100/0/1736779000209/walmart_logo?e=1749081600&v=beta&t=SfYGHpPDaTN9uF_tiOk4rviNV9rTBWfyVp4a4YC5OKk",
+        "title": "Sales Assistant",
+        "duration": "Jun 2022 - Present",
+        "bullets": [
+          "Provided friendly customer service and assistance.",
+          "Helped customers find products and answered their questions.",
+          "Kept up-to-date with current promotions and store layout."
+        ]
+      },
+      {
+        "company": "Starbucks",
+        "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQEQxk9y2rk7Hw/company-logo_100_100/company-logo_100_100/0/1631316692276?e=1749081600&v=beta&t=l2z-3jGl3YhlU4MiMfQLkhNrIvlkDAoIUczM1RKbxT4",
+        "title": "Barista",
+        "duration": "Jan 2021 - May 2022",
+        "bullets": [
+          "Prepared and served beverages and food items.",
+          "Provided friendly and efficient service to customers.",
+          "Trained new employees on company standards and procedures."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "school": "Del Mar College",
+        "schoolLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQGOm599zcnISA/company-logo_100_100-alternative/company-logo_100_100-alternative/0/1630643733300/del_mar_college_logo?e=1749081600&v=beta&t=17pyB6cVyMGXA_QXJvmsCXhGKGNnhF7bH2KKRIxJqdw",
+        "degree": "Bachelor's degree, Management",
+        "duration": "2019 - 2023"
+      }
+    ],
+    "skills": [
+      "Customer Service",
+      "Sales",
+      "Communication",
+      "Teamwork",
+      "Problem Solving",
+      "Time Management"
+    ]
+  },
+  {
+    "id": "LOW-11",
+    "name": "Kaitlyn Belmont",
+    "opentowork": "Yes",
+    "headline": "Recent Management Graduate with a Passion for Business Development",
+    "location": "San Antonio, Texas, United States",
+    "connections": 50,
+    "profilePic": "https://i.ibb.co/BHTXqYxK/Default-PP.png",
+    "backgroundPic": "https://media.sproutsocial.com/uploads/LinkedIn-Personal1D-Design.jpg", // Placeholder for Background Picture
+    "about": "I am a recent graduate from Collin College with a Bachelor's degree in Management. I have a strong interest in business development and customer relations, and I am eager to apply my skills in a professional setting.",
+    "experience": [
+      {
+        "company": "Target",
+        "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQGUjozudTh0yg/company-logo_100_100/company-logo_100_100/0/1631307593526?e=1748476800&v=beta&t=w0gmQEdfQtZ-5pMmj5rSF6IwZYrY2BoCILl8uXEOfqg",
+        "title": "Sales Associate",
+        "duration": "Jun 2022 - Present",
+        "bullets": [
+          "Provided excellent customer service and support.",
+          "Assisted in inventory management and merchandising.",
+          "Collaborated with team members to achieve sales goals."
+        ]
+      },
+      {
+        "company": "Chick-fil-A",
+        "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQFp7YtVucYbXQ/company-logo_100_100/company-logo_100_100/0/1631324166255?e=1749081600&v=beta&t=_bSFhfBSMKPBOoCuyBXoAlAsfuVjZUMuWwHelnm-ssk",
+        "title": "Team Member",
+        "duration": "Jan 2021 - May 2022",
+        "bullets": [
+          "Delivered exceptional service in a fast-paced environment.",
+          "Trained new employees on operational procedures.",
+          "Maintained cleanliness and organization of the dining area."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "school": "Collin College",
+        "schoolLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQG_efqBY8CI0g/company-logo_100_100/company-logo_100_100/0/1631307648514?e=1749081600&v=beta&t=CvusdCfMCdc3BwWdx5fw1sa7W44srXRmrLxBuym1-hI",
+        "degree": "Bachelor's degree in Management",
+        "duration": "2021 - 2023"
+      }
+    ],
+    "skills": [
+      "Customer Service",
+      "Business Development",
+      "Teamwork",
+      "Communication",
+      "Problem Solving"
+    ]
+  },
+  {
+    "id": "LOW-12",
+    "name": "Sophia Evans",
+    "opentowork": "Yes",
+    "headline": "Recent Management Graduate with a Focus on Customer Service",
+    "location": "Corpus Christi, Texas, United States",
+    "connections": 30,
+    "profilePic": "https://i.ibb.co/BHTXqYxK/Default-PP.png",
+    "backgroundPic": "https://media.sproutsocial.com/uploads/1F-LinkedIn-Personal-Design.png",
+    "about": "I am a recent graduate from Del Mar College with a Bachelor's degree in Management. I am passionate about customer service and eager to contribute to a dynamic team.",
+    "experience": [
+      {
+        "company": "Walmart",
+        "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQHZkPdlecGssw/company-logo_100_100/company-logo_100_100/0/1736779000209/walmart_logo?e=1749081600&v=beta&t=SfYGHpPDaTN9uF_tiOk4rviNV9rTBWfyVp4a4YC5OKk",
+        "title": "Customer Service Associate",
+        "duration": "Aug 2022 - Present",
+        "bullets": [
+          "Provided exceptional customer service and support.",
+          "Assisted in inventory management and store organization.",
+          "Collaborated with team members to enhance customer satisfaction."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "school": "Del Mar College",
+        "schoolLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQG_efqBY8CI0g/company-logo_100_100/company-logo_100_100/0/1631307648514?e=1749081600&v=beta&t=CvusdCfMCdc3BwWdx5fw1sa7W44srXRmrLxBuym1-hI",
+        "degree": "Bachelor's degree in Management",
+        "duration": "2020 - 2024"
+      }
+    ],
+    "certifications": [
+      {
+        "name": "Communication Foundations",
+        "issuer": "LinkedIn",
+        "issueDate": "Sep 2021",
+        "issuerLogo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=1749081600&v=beta&t=lCMZmx-E2v1gJXD_vjHGoTp_0oj2IyFVFcQ_8udsvbI"
+      }
+      
+    ],
+    "skills": [
+      "Customer Service",
+      "Teamwork",
+      "Communication",
+      "Problem Solving"
+    ]
+  },
+
 ];
 
 export default lowProfileData;
