@@ -2,6 +2,7 @@ const midProfileData = [
   {
     "id": "MID-01",
     "name": "Robert Sinclair",
+    "opentowork":"Yes",
     "headline": "Management Graduate | Customer Service Professional",
     "location": "Denton, Texas, United States",
     "connections": 200,
@@ -110,6 +111,7 @@ const midProfileData = [
   {
     "id": "MID-03",
     "name": "Joseph Whitaker",
+        "opentowork":"Yes",
     "headline": "Business Development Professional with Diverse Industry Experience",
     "location": "San Antonio, Texas, United States",
     "connections": 200,
@@ -336,6 +338,8 @@ const midProfileData = [
   {
     "id": "MID-06",
     "name": "Samuel Whitman",
+        "opentowork":"Yes",
+
     "headline": "Business Major with Extensive Customer Service Experience",
     "location": "Austin, Texas, United States",
     "connections": 180,
@@ -515,6 +519,8 @@ const midProfileData = [
   {
     "id": "MID-08",
     "name": "Amanda Whitmore",
+        "opentowork":"Yes",
+
     "headline": "Aspiring Marketing Professional | Creative Thinker",
     "location": "Denton, Texas, United States",
     "connections": 324,
@@ -652,6 +658,8 @@ const midProfileData = [
 {
   "id":"MID-10",
   "name": "Ashley Merritt",
+      "opentowork":"Yes",
+
   "headline": "Recent Management Graduate with Experience in Marketing and Coaching",
   "location": "Dallas, Texas, United States",
   "connections": 221, // Placeholder for Connections
