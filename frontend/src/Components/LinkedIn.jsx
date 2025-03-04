@@ -52,7 +52,9 @@ const LinkedInProfile = ({ profileData }) => {
       {profileData.about && (
         <div className="section">
           <h2 className="section-title">About</h2>
-          <p className="about-text">{profileData.about}</p>
+          {profileData.about.split('\n').map((paragraph, index) => (
+            <p key={index} className="about-text">{paragraph}</p>
+          ))}
         </div>
       )}
       <div className="section-break" />
