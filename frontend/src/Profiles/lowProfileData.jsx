@@ -168,6 +168,124 @@ const lowProfileData = [
     ],
   },
   {
+    "id": "LOW-04",
+    "name": "Lucas Radford",
+    "opentowork": "Yes",
+    "headline": "Recent Management Graduate | Open to Work | Eager to Learn & Grow | Seeking Opportunities in Business & Marketing",
+    "location": "Corpus Christi, Texas, United States",
+    "connections": 144,
+    "profilePic": "https://i.ibb.co/9H0JD5W9/Lucas.jpg", // Placeholder for Profile Picture
+    "backgroundPic": "https://media.licdn.com/dms/image/v2/C4D1BAQFn_T4rzj56CA/company-background_10000/company-background_10000/0/1599844405652/highway_marketing_cover?e=1741651200&v=beta&t=5x3afDlRvgoRPYt0XlNpYNJe5FUdLwQT8ydBkCB7DRA", // Placeholder for Background Picture
+    "about": "Recent Management Graduate eager to learn and grow in the fields of business and marketing.",
+    "experience": [
+      {
+        "company": "Stripes Convenience Stores",
+        "companyLogo":"https://media.licdn.com/dms/image/v2/D560BAQHdKtCYCyHGng/company-logo_100_100/company-logo_100_100/0/1714496874415/stripesconveniencestores_logo?e=1749081600&v=beta&t=IHZPjKzFYUnX-uKeiMm-UtSeCShOLLuzjHljj1ycJWY",
+        "title": "Retail Associate",
+        "duration": "Mar 2023 - Present",
+        "bullets": [
+          "Assisted customers with purchases, providing excellent customer service.",
+          "Managed inventory and restocked products to ensure store organization.",
+          "Processed transactions accurately using the POS system."
+        ]
+      },
+      {
+        "company": "Self-employed",
+        "title": "Freelance Social Media Assistant",
+
+        "duration": "Oct 2022 - Present",
+        "bullets": [
+          "Created social media content for small businesses to enhance their online presence.",
+          "Assisted in scheduling posts and engaging with online audiences.",
+          "Learned basic digital marketing strategies through self-study and trial projects."
+        ]
+      },
+      {
+        "company": "Corpus Business Development Center",
+
+        "title": "Intern",
+        "duration": "Jun 2022 - Aug 2022",
+        "bullets": [
+          "Assisted business advisors with client research and data entry.",
+          "Helped organize workshops and events for local entrepreneurs.",
+          "Gained exposure to small business operations and administrative tasks."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "school": "Del Mar College",
+        "schoolLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQGOm599zcnISA/company-logo_100_100-alternative/company-logo_100_100-alternative/0/1630643733300/del_mar_college_logo?e=1749081600&v=beta&t=17pyB6cVyMGXA_QXJvmsCXhGKGNnhF7bH2KKRIxJqdw", // Placeholder for School Logo
+        "degree": "Bachelor's degree, Management",
+        "duration": "Jan 2020 - Dec 2023"
+      }
+    ],
+    "skills": [
+      "Industry Knowledge",
+      "Planning & Scheduling",
+      "Problem Solving",
+      "Adaptability & Willingness to Learn",
+      "Time Management",
+      "Interpersonal Communication",
+      "Event Assistance",
+      "Inventory Management",
+      "Microsoft Office",
+      "Data Entry & Organization",
+      "Customer Service"
+    ],
+  },
+  {
+    "id": "LOW-05",
+    "name": "Thomas Callahan",
+    "opentowork":"Yes",
+    "profilePic":"https://i.ibb.co/BHTXqYxK/Default-PP.png",
+    "headline": "Aspiring Risk Management Specialist or Sports Management",
+    "location": "Houston, Texas, United States",
+    "connections": 98,
+
+    "backgroundPic": "https://media.licdn.com/dms/image/v2/C561BAQHPOyIr-zra9g/company-background_10000/company-background_10000/0/1595960265866/tamuct_coba_cover?e=1741651200&v=beta&t=aIa66A59fTTVYyF4DXOYPBbNvroS15dAXgAxtO38kXY",
+    "about": "Aspiring Risk Management Analyst or Sports Management. Seeking professional experience in this field. Currently studying Business Management at Texas A&M University - Central Texas and have developed data analysis skills. Sports management minor. On Dean's List.",
+    "experience": [
+      {
+        "company": "Fanatics • Freelance",
+        "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQHEcEUNWZeiNw/company-logo_100_100/company-logo_100_100/0/1677183216422/fanatics_inc__logo?e=1749081600&v=beta&t=m9QPsXMLYZFCf9vlZa0_Kgk867JnFSPmkIAx9XoQBQE",
+        "title": "Independent Contractor",
+        "duration": "Jan 2022 - Jan 2022",
+        "bullets": [
+          "Worked as an independent contractor for Fanatic LLC",
+          "Performed duties in sales and customer service"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "school": "Texas A&M University–Central Texas",
+        "schoolLogo": "https://media.licdn.com/dms/image/v2/C510BAQFzZGRsauw2rQ/company-logo_100_100/company-logo_100_100/0/1630626610515/texas_am_universitycentral_texas_logo?e=1749081600&v=beta&t=55P-ft3ceIXpTMpr7rFuTNav8hVevDpj-rAmX5fjeRI",
+        "degree": "Bachelor's degree, Business Administration and Management, General",
+        "duration": "May 2024",
+        "activities": "Activities and societies: Baseball"
+      },
+      {
+        "school": "Texas A&M University–Central Texas",
+        "schoolLogo": "https://media.licdn.com/dms/image/v2/C510BAQFzZGRsauw2rQ/company-logo_100_100/company-logo_100_100/0/1630626610515/texas_am_universitycentral_texas_logo?e=1749081600&v=beta&t=55P-ft3ceIXpTMpr7rFuTNav8hVevDpj-rAmX5fjeRI",
+        "degree": "Associate of Arts - AA, Business Administration and Management, General",
+        "duration": "Aug 2020 - Dec 2021"
+      }
+    ],
+    "skills": [
+      "Microsoft PowerPoint",
+      "Sports",
+      "Sales",
+      "Management Accounting",
+      "Financial Analysis",
+      "Data Analysis",
+      "Statistical Data Analysis",
+      "Financial Risk Management",
+      "Risk Assessment",
+      "Risk Management"
+    ]
+  },
+  {
     "id": "HIGH-04",
     "name": "Jordan	Kensington",
     "headline": "",
