@@ -1,17 +1,24 @@
 .container {
     max-width: 100%;
     margin: 2% auto;
-    background: #fff;
+
     border-radius: 0.8vw;
-    box-shadow: 0 0.1vw 0.5vw rgba(0,0,0,0.1);
+
     font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto;
   }
   .section-break {
     height: 1vh;
-    background-color: rgb(243, 241, 241);
+    background-color: rgb(207, 207, 207);
     box-shadow: none;
     
   }
+  
+  .card {
+    border-radius: 1.1vw ; /* Adjust the value as needed for desired roundness */
+     /* Adjust the value as needed for desired spacing */
+    background: #fff; /* No background color */
+  }
+  
   /* Logo Containers */
 .company-logo-container,
 .school-logo-container,
