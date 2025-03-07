@@ -14,11 +14,12 @@ function App() {
   const handleSubmissionSuccess = () => {
     // Add current profile to submitted set
     setSubmittedProfiles(prev => new Set([...prev, profileData[activeProfile].id]));
-    
-    // Move to next profile if available
-    if (activeProfile < profileData.length - 1) {
-      setActiveProfile(prev => prev + 1);
-    }
+    // Disable the current profile after submission
+    setProfileData(prevData => 
+      prevData.map((profile, index) => 
+        index === activeProfile ? { ...profile, disabled: true } : profile
+      )
+    );
   };
 
   return (

@@ -264,28 +264,28 @@ const midProfileData = [
     "location": "San Antonio, Texas, United States",
     "connections": 125,
     "profilePic": "https://i.ibb.co/ms0165w/Kevin.jpg",
-    "backgroundPic": "https://media.licdn.com/dms/image/v2/D563DAQGqlii4MUDLew/image-scale_191_1128/image-scale_191_1128/0/1736192379663/the_university_of_texas_at_san_antonio_cover?e=1741291200&v=beta&t=Gm_Me5or2nFsc1Ld0Hi2CXdvHmKsNUIriMCnMrB86lI",
+    "backgroundPic": "https://my.utsa.edu/gateway/backgrounds/images/Monument-0342.jpg",
     "about": "As a proud graduate of the University of Texas at San Antonio with a degree in Management , I am driven by a passion for empowering others and fostering innovation. My educational foundation has equipped me with a versatile skill set that spans strategy, leadership, and creative problem-solving—qualities that I bring to every opportunity. In my current role as a Business Manager, I’ve gained hands-on experience across all facets of business operations, from finance and sales to strategy and process improvement. Collaborating with teams and stakeholders, I strive to identify innovative solutions that drive growth and deliver exceptional results. What motivates me most is the opportunity to inspire others to reach their full potential. I believe that true success comes not only from personal achievements but also from lifting those around you. By fostering collaboration and staying adaptable in a dynamic business landscape, I aim to create positive change and lasting impact in everything I do. Let’s connect! Whether you're seeking a motivated professional to join your network or simply looking to share ideas about driving innovation and growth, I’d love to hear from you.",
     "experience": [
       {
-        "company": "Ferrari of Tampa Bay",
-        "companyLogo": "https://media.licdn.com/dms/image/v2/C510BAQGFckOS7j6GjA/company-logo_100_100/company-logo_100_100/0/1631310142097?e=1748476800&v=beta&t=XTzDl8yovTf1sO9HCT1S3uNViB-EjkZM7elirzi90gU",
+        "company": "Toyota",
+        "companyLogo": "https://media.licdn.com/dms/image/v2/C510BAQG6BUUPIVuQIQ/company-logo_100_100/company-logo_100_100/0/1631431196156/toyota_logo?e=1749686400&v=beta&t=gvgNRrRMcyv_DMkMqS3WhSRlaw4SdcJAw6zUmub888Y",
         "title": "Business Manager",
         "duration": "Jan 2024 - Present",
         "bullets": [
-          "Oversee all business operations and ensure efficiency.",
-          "Collaborate with teams to enhance customer experience.",
-          "Implement strategies to drive growth and improve processes."
+          "Oversee daily operations and ensure basic efficiency.",
+          "Work with teams to maintain customer satisfaction.",
+          "Implement standard strategies to manage growth and processes."
         ]
       },
       {
-        "company": "Ferrari Maserati of Central Florida",
-        "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQH30-nZBoB0qg/company-logo_100_100/company-logo_100_100/0/1631334737079?e=1748476800&v=beta&t=xRb1Jnn7x4TLbicuWeuLdeSu66uHJzUlnTmVW53KLgQ",
-        "title": "Sales Ambassador",
+        "company": "Honda",
+        "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQHNId7SexC_OQ/company-logo_100_100/company-logo_100_100/0/1631325489031?e=1749686400&v=beta&t=XMyK-2778YLP7TkEunilgsDKXBwchDArkHSRPctYkC4",
+        "title": "Sales Associate",
         "duration": "Mar 2023 - Jan 2024",
         "bullets": [
-          "Engaged with clients to understand their needs and provide tailored solutions.",
-          "Achieved sales targets through effective communication and relationship building."
+          "Engaged with customers to understand their needs and provide basic solutions.",
+          "Met sales targets through standard communication and relationship building."
         ]
       },
       {
@@ -293,8 +293,8 @@ const midProfileData = [
         "title": "Marketing Intern",
         "duration": "Oct 2022 - Aug 2023",
         "bullets": [
-          "Assisted in developing marketing strategies to promote services.",
-          "Conducted market research to identify trends and opportunities."
+          "Assisted in creating marketing strategies to promote services.",
+          "Conducted market research to identify basic trends and opportunities."
         ]
       },
       {
