@@ -1,14 +1,14 @@
-import pg from "pg";
-const { Pool } = pg;
+import { createClient } from '@supabase/supabase-js';
 import dotenv from 'dotenv';
 
 dotenv.config();
 
-const pool = new Pool({
-  connectionString: process.env.DATABASE_URL,
-  ssl: {
-    rejectUnauthorized: false
-  }
-});
+const supabaseUrl = process.env.SUPABASE_URL;
+const supabaseKey = process.env.SUPABASE_KEY;
+const supabase = createClient(supabaseUrl, supabaseKey);
 
-export const query = (text, params) => pool.query(text, params);
+export const query = async (text, params) => {
+  const { data, error } = await supabase.rpc(text, params);
+  if (error) throw error;
+  return data;
+};

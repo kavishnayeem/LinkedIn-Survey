@@ -1,49 +1,41 @@
-import express from 'express';
-import { query } from '../config/db.js';
+import express from 'express'
+import supabase from '../supabaseClient.js'
 
-const router = express.Router();
+const router = express.Router()
 
-// Create submission
 router.post('/', async (req, res) => {
-  try {
-    const { userId, profileId, responses } = req.body;
-    
-    const result = await query(
-      `INSERT INTO submissions 
-      (user_id, profile_id, clarity, professionalism, completeness, skills, overall)
-      VALUES ($1, $2, $3, $4, $5, $6, $7)
-      RETURNING *`,
-      [
-        userId,
-        profileId,
-        responses.clarity,
-        responses.professionalism,
-        responses.completeness,
-        responses.skills,
-        responses.overall
-      ]
-    );
+    try {
+      const { userId, profileId, responses } = req.body;
+      
+      // Validate input
+      if (!userId || !profileId || !responses) {
+        return res.status(400).json({ error: 'Missing required fields' });
+      }
+  
+      // Insert submission
+      const { data, error } = await supabase
+        .from('submissions')
+        .insert([{
+          user_id: userId,
+          profile_id: profileId,
+          clarity: responses.clarity,
+          professionalism: responses.professionalism,
+          completeness: responses.completeness,
+          skills: responses.skills,
+          overall: responses.overall
+        }]);
+  
+      if (error) {
+        console.error('Supabase error:', error);
+        return res.status(400).json({ error: error.message });
+      }
+  
+      res.status(201).json(data[0]);
+      
+    } catch (error) {
+      console.error('Server error:', error);
+      res.status(500).json({ error: 'Internal server error' });
+    }
+  });
 
-    res.status(201).json(result.rows[0]);
-  } catch (error) {
-    console.error('Submission error:', error);
-    res.status(500).json({ error: 'Internal server error' });
-  }
-});
-
-// Get submissions by user
-router.get('/:userId', async (req, res) => {
-  try {
-    const { userId } = req.params;
-    const result = await query(
-      'SELECT * FROM submissions WHERE user_id = $1',
-      [userId]
-    );
-    res.json(result.rows);
-  } catch (error) {
-    console.error('Fetch error:', error);
-    res.status(500).json({ error: 'Internal server error' });
-  }
-});
-
-export default router;
+export default router

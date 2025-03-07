@@ -13,7 +13,7 @@ function App() {
 
   const handleSubmissionSuccess = () => {
     // Add current profile to submitted set
-    setSubmittedProfiles(prev => new Set([...prev, profileData[activeProfile].id]));
+    //setSubmittedProfiles(prev => new Set([...prev, profileData[activeProfile].id]));
     // Disable the current profile after submission
     setProfileData(prevData => 
       prevData.map((profile, index) => 

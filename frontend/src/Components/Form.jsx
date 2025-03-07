@@ -46,22 +46,26 @@ class Form extends React.Component {
   handleSubmit = async (event) => {
     event.preventDefault();
     if (this.props.isSubmitted) return;
-
+  
     try {
-      const response = await fetch('http://localhost:5000/api/submissions', {
+      const response = await fetch('http://localhost:5000/api/submit', { // Changed endpoint
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
         },
         body: JSON.stringify({
-          userId: '01',
+          userId: '23918a46',
           profileId: this.props.profileData.id,
           responses: this.state.responses
         }),
       });
-
-      if (!response.ok) throw new Error('Submission failed');
-
+  
+      const data = await response.json(); // Parse response
+      
+      if (!response.ok) {
+        throw new Error(data.error || 'Submission failed');
+      }
+  
       this.resetForm();
       if (this.props.onSubmitSuccess) {
         this.props.onSubmitSuccess();
