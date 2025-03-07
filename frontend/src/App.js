@@ -9,6 +9,17 @@ import lowProfileData from "./Profiles/lowProfileData.jsx"; // Import low profil
 function App() {
   const [activeProfile, setActiveProfile] = useState(0);
   const [profileData, setProfileData] = useState(null); // Start with no profile selected
+  const [submittedProfiles, setSubmittedProfiles] = useState(new Set());
+
+  const handleSubmissionSuccess = () => {
+    // Add current profile to submitted set
+    setSubmittedProfiles(prev => new Set([...prev, profileData[activeProfile].id]));
+    
+    // Move to next profile if available
+    if (activeProfile < profileData.length - 1) {
+      setActiveProfile(prev => prev + 1);
+    }
+  };
 
   return (
     <div className="App">
@@ -65,7 +76,11 @@ function App() {
             <LinkedIn profileData={profileData[activeProfile]} />
           </div>
           <div className="right-pane">
-            <Form activeProfile={activeProfile} />
+            <Form 
+              profileData={profileData[activeProfile]}
+              onSubmitSuccess={handleSubmissionSuccess}
+              isSubmitted={submittedProfiles.has(profileData[activeProfile].id)}
+            />
           </div>
         </div>
       )}

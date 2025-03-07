@@ -11,7 +11,8 @@ class Form extends React.Component {
         completeness: 1,
         skills: 1,
         overall: 1
-      }
+      },
+      isSubmitted: false // New state to track submission
     };
     
     this.questions = [
@@ -42,11 +43,34 @@ class Form extends React.Component {
     }));
   };
 
-  handleSubmit = (event) => {
+  handleSubmit = async (event) => {
     event.preventDefault();
-    console.log(`Evaluation Data for Profile ${this.props.activeProfile}:`, JSON.stringify(this.state, null, 2));
-    alert('Thank you for your professional evaluation!');
-    this.resetForm();
+    if (this.props.isSubmitted) return;
+
+    try {
+      const response = await fetch('http://localhost:5000/api/submissions', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          userId: '01',
+          profileId: this.props.profileData.id,
+          responses: this.state.responses
+        }),
+      });
+
+      if (!response.ok) throw new Error('Submission failed');
+
+      this.resetForm();
+      if (this.props.onSubmitSuccess) {
+        this.props.onSubmitSuccess();
+      }
+      alert("Form submitted successfully!");
+    } catch (error) {
+      console.error('Submission error:', error);
+      alert(error.message || 'Failed to submit. Please try again.');
+    }
   };
 
   resetForm = () => {
@@ -57,7 +81,8 @@ class Form extends React.Component {
         completeness: 1,
         skills: 1,
         overall: 1
-      }
+      },
+      isSubmitted: false // Reset the submission state
     });
   };
 
@@ -104,9 +129,13 @@ class Form extends React.Component {
           {this.questions.map(this.renderQuestionRow)}
 
           <div className="form-actions">
-            <button type="submit" className="submit-button">
-              Submit Evaluation
-            </button>
+          <button 
+              type="submit" 
+              className="submit-button" 
+              disabled={this.props.isSubmitted}
+          >
+          {this.props.isSubmitted ? 'Already Submitted' : 'Submit Evaluation'}
+        </button>
           </div>
         </form>
       </div>
