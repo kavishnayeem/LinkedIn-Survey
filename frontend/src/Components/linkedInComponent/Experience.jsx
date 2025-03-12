@@ -2,7 +2,7 @@ import React from 'react';
 import '../LinkedIn.css';
 
 const Experience = ({ profileData }) => {
-    const defaultImage = 'hhttps://i.ibb.co/FkqsnrLC/Logo.png';
+    const defaultImage = 'https://i.ibb.co/FkqsnrLC/Logo.png';
     return(
         <div className='card'>
         <div className="section">
