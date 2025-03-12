@@ -27,7 +27,7 @@
 
 .question-row {
   margin-bottom: 1.5rem;
-  padding: 1rem;
+  padding: 0.5rem;
   background: #f9fafb;
   border-radius: 0.375rem;
 }
@@ -49,7 +49,7 @@
 
 .value-indicator {
   text-align: right;
-  min-width: 120px;
+  min-width: 20%;
 }
 
 .numeric-value {
@@ -72,6 +72,7 @@
   padding: 0 0.5rem;
   width: 100%;
   box-sizing: border-box;
+  
 }
 
 .professional-slider {
@@ -81,7 +82,7 @@
   appearance: none;
   background: #e0e0e0; /* Track color */
   border-radius: 2px;
-  margin: 1rem 0;
+  
 }
 
 .professional-slider::-webkit-slider-thumb {
@@ -119,18 +120,21 @@
 }
 
 .scale-markers {
-  width: 100%;
+  width:99%;
   display: flex;
-  justify-content: space-between;
-  margin-top: 0.5rem;
+  justify-content:space-between;
+  margin-top: 0.3rem;
+  margin-left: auto;
 }
 
 .scale-marker {
-  font-size: 0.75rem;
+  
+  font-size: 0.7rem;
   color: #666;
-  width: 14.28%;
-  text-align:center;
+  display: inline-block;
+  text-align: center;
   position: relative;
+
 }
 
 .scale-marker::before {

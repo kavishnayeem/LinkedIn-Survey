@@ -66,11 +66,12 @@
 }
 
 .passkey-form {
-  margin: 2rem 0;
+  margin: auto;
+
 }
 
 .passkey-input {
-  width: 100%;
+  width: 93%;
   padding: 1rem;
   border: 2px solid var(--teal);
   border-radius: 5px;

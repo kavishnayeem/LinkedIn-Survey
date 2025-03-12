@@ -82,7 +82,7 @@ const MainApp = () => {
           scrollToTop();
           return newProfile;
         });
-      }, 2000);
+      }, 500);
     } else {
       sessionStorage.removeItem('profileSequence');
       sessionStorage.removeItem('activeProfile');
