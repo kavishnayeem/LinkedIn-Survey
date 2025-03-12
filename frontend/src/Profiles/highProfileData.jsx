@@ -6,12 +6,12 @@ const highProfiles = [
     "location": "Houston, Texas, United States",
     "connections": 327,
     "profilePic": "https://i.ibb.co/xSnnZwYh/William.jpg",
-    "backgroundPic": "https://images.ctfassets.net/wowgx05xsdrr/71GJwg6c1B8UJHGsmMPges/0aa274405f8ddab53bb98d040558e863/4833CD_DigitalExperiencePlatforms-A-HeadeA-1.jpg?fm=webp&w=3840&q=75",
+    "backgroundPic": "https://i.ibb.co/QFp6v8xK/4833-CD-Digital-Experience-Platforms-A-Heade-A-1.jpg",
     "about": "Passionate eCommerce business strategist with a strong track record in driving digital sales, marketplace optimization, and revenue growth. With years of hands-on experience in Amazon Vendor Central and Seller Central, I specialize in scaling online businesses through data-driven strategies, performance marketing, and customer retention techniques. My expertise spans across B2B and B2C sales, product positioning, and financial forecasting, allowing brands to maximize profitability in highly competitive online marketplaces.\n\nI have successfully managed multimillion-dollar eCommerce operations, led high-impact marketing campaigns, and negotiated vendor agreements that significantly boosted margins and sales performance. Skilled in leveraging analytics, SEO, and PPC advertising, I optimize digital storefronts to increase conversion rates and market share.\n\nBeyond eCommerce, I thrive in leadership roles, building cross-functional teams, and fostering strong relationships with stakeholders. My ability to align business objectives with market opportunities ensures long-term growth and sustained competitive advantage.\n\nOutside of work, I’m an avid traveler, having explored over 20 cities across three countries. I also enjoy outdoor activities, attending sporting events, and networking over a good cup of coffee. If you're interested in discussing business opportunities, digital sales strategies, or innovative ways to expand your brand’s presence, feel free to connect!",
     "experience": [
       {
         "company": "Clickstop, Inc.",
-        "companyLogo": "https://clickstop.com/wp-content/uploads/2023/02/cropped-cropped-cropped-cropped-cropped-Clickstop_Logo_Stacked_2Cgray_RGB-191x144.png",
+        "companyLogo": "https://i.ibb.co/bxh7PJz/cropped-cropped-cropped-cropped-cropped-Clickstop-Logo-Stacked-2-Cgray-RGB-191x144.png",
         "title": "Amazon Marketplace Manager",
         "duration": "July 2023 - Present",
         "bullets": [
@@ -24,7 +24,7 @@ const highProfiles = [
       },
       {
         "company": "The AMES Companies, Inc.",
-        "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQHrAlY8Xi-jtQ/company-logo_100_100/company-logo_100_100/0/1630563978631/the_ames_companies_inc_logo?e=1748476800&v=beta&t=W3SQ51YvtzJ1hdxwvEJ5nS_S9-7Shz_AKpJ4h8edFCU",
+        "companyLogo": "https://i.ibb.co/d4BQhP95/the-ames-companies-inc-logo-e-1748476800-v-beta-t-W3-SQ51-Yvtz-J1hdxwv-EJ5n-S-S9-7-Shz-AKp-J4h8ed-FC.jpg",
         "title": "Ecommerce Retail Sales Manager",
         "duration": "April 2021 - July 2023",
         "bullets": [
@@ -37,7 +37,7 @@ const highProfiles = [
   },
       {
         "company": "Bath Trends LLC",
-        "companyLogo": "https://cdn-icons-png.flaticon.com/512/245/245832.png",
+        "companyLogo": "https://i.ibb.co/BVbdtzzS/245832.png",
         "title": "Ecommerce Sales Manager",
         "duration": "January 2016 - March 2021",
         "bullets": [
@@ -50,7 +50,7 @@ const highProfiles = [
       },
       {
         "company": "Bath Trends LLC",
-        "companyLogo": "https://cdn-icons-png.flaticon.com/512/245/245832.png",
+        "companyLogo": "https://i.ibb.co/BVbdtzzS/245832.png",
         "title": "Retail Sales Representative",
         "duration": "October 2014 - January 2016",
         "bullets": [
@@ -64,7 +64,7 @@ const highProfiles = [
     "education": [
       {
         "school": "Texas A&M University",
-        "schoolLogo": "https://media.licdn.com/dms/image/v2/D560BAQHwupMCYi1uFQ/company-logo_100_100/company-logo_100_100/0/1732032436324/texas_am_university_logo?e=1748476800&v=beta&t=A-kActIkw7ljMDQFNyGwTxJx86h0aRXXDyUXK0opYoQ",
+        "schoolLogo": "https://i.ibb.co/VcfZwwFG/texas-am-university-logo-e-1748476800-v-beta-t-A-k-Act-Ikw7lj-MDQFNy-Gw-Tx-Jx86h0a-RXXDy-UXK0op-Yo-Q.jpg",
         "degree": "Bachelor's degree in Management",
         "duration": "2019 - 2023",
         "courses": [
@@ -114,19 +114,19 @@ const highProfiles = [
     "certifications": [
       {
         "name": "Excel Essential Training (Office 365/Microsoft 365)",
-        "issuerLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png",
+        "issuerLogo": "https://i.ibb.co/qMkB6Dth/640px-Linked-In-logo-initials.png",
         "issuer": "LinkedIn",
         "issueDate": "Issued July 2022"
       },
       {
         "name": "Strategic Planning Foundations",
-        "issuerLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png",
+        "issuerLogo": "https://i.ibb.co/qMkB6Dth/640px-Linked-In-logo-initials.png",
         "issuer": "LinkedIn",
         "issueDate": "Issued July 2022"
       },
       {
         "name": "Google Ads Display Certification",
-        "issuerLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_100_100/company-logo_100_100/0/1631311446380?e=1748476800&v=beta&t=XpG5OuBsXyFLAGGsTkRmwqsl4HlNw6hdRxthqm0eI5k",
+        "issuerLogo": "https://i.ibb.co/PsbkNR1b/1631311446380-e-1748476800-v-beta-t-Xp-G5-Ou-Bs-Xy-FLAGGs-Tk-Rmwqsl4-Hl-Nw6hd-Rxthqm0e-I5k.jpg",
         "issuer": "Google",
         "issueDate": "Issued May 2020",
         "expiration": "Expired May 2021",
@@ -134,7 +134,7 @@ const highProfiles = [
       },
       {
         "name": "SEMrush SEO Toolkit",
-        "issuerLogo": "https://media.licdn.com/dms/image/v2/C560BAQGFiT_Ar5CMRw/company-logo_100_100/company-logo_100_100/0/1662557863823/semrush_logo?e=1748476800&v=beta&t=9v_ssZFGp2qgtrOmIutOwd6mi3jScr2JyfQbKZhSMDI",
+        "issuerLogo": "https://i.ibb.co/LdNLk9jH/semrush-logo-e-1748476800-v-beta-t-9v-ss-ZFGp2qgtr-Om-Iut-Owd6mi3j-Scr2-Jyf-Qb-KZh-SMDI.jpg",
         "issuer": "SEMrush",
         "issueDate": "Issued May 2020",
         "expiration": "Expired May 2021",
@@ -142,7 +142,7 @@ const highProfiles = [
       },
       {
         "name": "Inbound Certified",
-        "issuerLogo": "https://media.licdn.com/dms/image/v2/D560BAQFGt4XAU9bF5w/company-logo_100_100/company-logo_100_100/0/1719518128249/hubspot_academy_logo?e=1748476800&v=beta&t=GR0sPB-u8rHykC2c31CTc3CYI-_MYGzOqkBl0xYhq6s",
+        "issuerLogo": "https://i.ibb.co/fYgbByTg/hubspot.jpg",
         "issuer": "HubSpot Academy",
         "issueDate": "Issued August 2019",
         "expiration": "Expired September 2021"
@@ -156,12 +156,12 @@ const highProfiles = [
     "location": "College Station, Texas, United States",
     "connections": 327,
     "profilePic": "https://i.ibb.co/W1cDHL5/Matthew.jpg",
-    "backgroundPic": "https://media.licdn.com/dms/image/v2/D4D16AQHVATYQZmx9-w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1692138187254?e=1746057600&v=beta&t=1_9Vq79jtoYe1833a3aIoh3_zRzX7ktsLY6TNM99bl8",
+    "backgroundPic": "https://i.ibb.co/FQRV9tx/bg5.jpg",
     "about": "Dedicated U.S. Army Ordnance Officer with extensive experience in military logistics, transportation management, and operational strategy. I specialize in overseeing training areas, coordinating convoy missions, and optimizing ammunition forecasting to ensure mission readiness. With a strong background in maintenance operations and supply chain logistics, I have successfully managed multimillion-dollar assets and streamlined procurement processes, resulting in cost savings and increased operational efficiency. \n\nMy leadership experience spans from mentoring platoons to directing high-impact military exercises, always prioritizing the growth and preparedness of my teams. I am passionate about problem-solving, strategic planning, and fostering resilience among service members. Beyond my military career, I have a history of leadership in fitness training, education, and music, reflecting my commitment to personal and professional development.\n\nIf you're interested in discussing military logistics, strategic operations, or leadership development, let’s connect!",
     "experience": [
       {
         "company": "US Army",
-        "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQEp91nGwnXLng/company-logo_100_100/company-logo_100_100/0/1678286107166/us_army_logo?e=1748476800&v=beta&t=zDDlaXvJUKas79ALMGxEeL1U2ny0nZIce1dw-5eL2xQ",
+        "companyLogo": "https://i.ibb.co/sJNzJM6K/us-army-logo-e-1748476800-v-beta-t-z-DDla-Xv-JUKas79-ALMGx-Ee-L1-U2ny0n-ZIce1dw-5e-L2x-Q.jpg",
         "title": "Battalion Operations Officer (Land/Ammo/Ranges)",
         "duration": "August 2024 - Present",
         "bullets": [
@@ -173,7 +173,7 @@ const highProfiles = [
       },
       {
         "company": "US Army",
-        "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQEp91nGwnXLng/company-logo_100_100/company-logo_100_100/0/1678286107166/us_army_logo?e=1748476800&v=beta&t=zDDlaXvJUKas79ALMGxEeL1U2ny0nZIce1dw-5eL2xQ",
+        "companyLogo": "https://i.ibb.co/sJNzJM6K/us-army-logo-e-1748476800-v-beta-t-z-DDla-Xv-JUKas79-ALMGx-Ee-L1-U2ny0n-ZIce1dw-5e-L2x-Q.jpg",
         "title": "Brigade Transportation Officer",
         "duration": "April 2024 - July 2024",
         "bullets": [
@@ -185,7 +185,7 @@ const highProfiles = [
       },
       {
         "company": "US Army",
-        "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQEp91nGwnXLng/company-logo_100_100/company-logo_100_100/0/1678286107166/us_army_logo?e=1748476800&v=beta&t=zDDlaXvJUKas79ALMGxEeL1U2ny0nZIce1dw-5eL2xQ",
+        "companyLogo": "https://i.ibb.co/sJNzJM6K/us-army-logo-e-1748476800-v-beta-t-z-DDla-Xv-JUKas79-ALMGx-Ee-L1-U2ny0n-ZIce1dw-5e-L2x-Q.jpg",
         "title": "Platoon Leader",
         "duration": "April 2024 - July 2024",
         "bullets": [
@@ -197,7 +197,7 @@ const highProfiles = [
       },
       {
         "company": "US Army",
-        "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQEp91nGwnXLng/company-logo_100_100/company-logo_100_100/0/1678286107166/us_army_logo?e=1748476800&v=beta&t=zDDlaXvJUKas79ALMGxEeL1U2ny0nZIce1dw-5eL2xQ",
+        "companyLogo": "https://i.ibb.co/sJNzJM6K/us-army-logo-e-1748476800-v-beta-t-z-DDla-Xv-JUKas79-ALMGx-Ee-L1-U2ny0n-ZIce1dw-5e-L2x-Q.jpg",
         "title": "Brigade Maintenance Officer",
         "duration": "July 2023 - April 2024",
         "bullets": [
@@ -209,7 +209,7 @@ const highProfiles = [
       },
       {
         "company": "Loyal Source Government Services",
-        "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQEm0Ht69YreQQ/company-logo_100_100/company-logo_100_100/0/1635769478010/loyalsource_logo?e=1748476800&v=beta&t=tVoEObXYXf3WbC4Qr40XjzJ5464IGOrp24__p8jx4HQ",
+        "companyLogo": "https://i.ibb.co/1fXmMh0f/loyalsource-logo-e-1748476800-v-beta-t-t-Vo-EOb-XYXf3-Wb-C4-Qr40-Xjz-J5464-IGOrp24-p8jx4-HQ.jpg",
         "title": "Government Healthcare Recruiter",
         "duration": "May 2022 - July 2022",
         "location": "Orlando, Florida, United States",
@@ -219,7 +219,7 @@ const highProfiles = [
       },
       {
         "company": "Texas A&M University",
-        "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQHwupMCYi1uFQ/company-logo_100_100/company-logo_100_100/0/1732032436324/texas_am_university_logo?e=1748476800&v=beta&t=A-kActIkw7ljMDQFNyGwTxJx86h0aRXXDyUXK0opYoQ",
+        "companyLogo": "https://i.ibb.co/VcfZwwFG/texas-am-university-logo-e-1748476800-v-beta-t-A-k-Act-Ikw7lj-MDQFNy-Gw-Tx-Jx86h0a-RXXDy-UXK0op-Yo-Q.jpg",
         "title": "Founder of Jam Session @TAMU Music Student Organization",
         "duration": "January 2019 - May 2022",
         "location": "College Station, Texas, United States",
@@ -231,7 +231,7 @@ const highProfiles = [
       },
       {
         "company": "Faith Christian Academy & Preschool",
-        "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQHNPcyycoIQQA/company-logo_100_100/company-logo_100_100/0/1705082491711/faith_christian_academy_orlando_fl__logo?e=1748476800&v=beta&t=Clg7NaWBTM-DzgPuJ_vui02I_tCLjeu_8R98hwNpcik",
+        "companyLogo": "https://i.ibb.co/8nszJSqz/faith-christian-academy-orlando-fl-logo-e-1748476800-v-beta-t-Clg7-Na-WBTM-Dzg-Pu-J-vui02-I-t-CLjeu.jpg",
         "title": "Summer Camp Counselor",
         "duration": "May 2019 - July 2019",
         "location": "Orlando, Florida, United States",
@@ -241,7 +241,7 @@ const highProfiles = [
       },
       {
         "company": "United States Air Force",
-        "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQEiOtYxa4RriA/company-logo_100_100/company-logo_100_100/0/1631346343093?e=1748476800&v=beta&t=kxvoy3npf_KkwjNw1J3Cf8xgp8fnaxNMiAUM0sEaq5M",
+        "companyLogo": "https://i.ibb.co/JWQCcZ4v/1631346343093-e-1748476800-v-beta-t-kxvoy3npf-Kkwj-Nw1-J3-Cf8xgp8fnax-NMi-AUM0s-Eaq5-M.jpg",
         "title": "Officer Candidate",
         "duration": "August 2018 - June 2019",
         "location": "Orlando, Florida, United States",
@@ -253,7 +253,7 @@ const highProfiles = [
     "volunteering": [
       {
         "company": "AdventHealth",
-        "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQHxSnTcYNG0ag/company-logo_100_100/company-logo_100_100/0/1630583371153/adventhealth_logo?e=1748476800&v=beta&t=GAMiI0ES33lZtJaLioZmciwsnCzHzyK8bgj3AhI6V8A", // Add the logo URL here
+        "companyLogo": "https://i.ibb.co/LdycCzrk/adventhealth-logo-e-1748476800-v-beta-t-GAMi-I0-ES33l-Zt-Ja-Lio-Zmciwsn-Cz-Hzy-K8bgj3-Ah-I6-V8-A.jpg", // Add the logo URL here
         "title": "Student Volunteer",
         "duration": "Jun 2016 - Aug 2016 · 3 mos",
         "bullets": [
@@ -264,28 +264,28 @@ const highProfiles = [
       },
       {
         "company": "Clean the World",
-        "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQHsjjVedH-FJg/company-logo_100_100/company-logo_100_100/0/1706796384578/cleantheworldglobal_logo?e=1748476800&v=beta&t=6fI5lSjOsEY7V5cUbJ5Q7ggJ-69BWX7JaQDYUQc0cM0", // Add the logo URL here
+        "companyLogo": "https://i.ibb.co/Z129rbLj/cleantheworldglobal-logo-e-1748476800-v-beta-t-6f-I5l-Sj-Os-EY7-V5c-Ub-J5-Q7gg-J-69-BWX7-Ja-QDYUQc0c.jpg", // Add the logo URL here
         "title": "Community Volunteer",
         "duration": "Nov 2016 · 1 mo",
         
       },
       {
         "company": "Second Harvest Food Bank of Central Florida",
-        "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQGnMC2tmYnSjg/company-logo_100_100/company-logo_100_100/0/1631368709788?e=1748476800&v=beta&t=eoAbPGqPz5NMI-QZ6JydUjlL0xO7WVQ7LRfRxwBKJX4", // Add the logo URL here
+        "companyLogo": "https://i.ibb.co/0jZyM8wt/1631368709788-e-1748476800-v-beta-t-eo-Ab-PGq-Pz5-NMI-QZ6-Jyd-Ujl-L0x-O7-WVQ7-LRf-Rxw-BKJX4.jpg", // Add the logo URL here
         "title": "Community Volunteer",
         "duration": "Oct 2019 · 1 mo",
         
       },
       {
         "company": "Special Olympics Florida",
-        "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQG_LXFl5sulog/company-logo_100_100/company-logo_100_100/0/1631317759049?e=1748476800&v=beta&t=isTEFJSilygKPAbwGR94wi77OV5G9sm7YAtkDtlOET0", // Add the logo URL here
+        "companyLogo": "https://i.ibb.co/mCN6XQKX/1631317759049-e-1748476800-v-beta-t-is-TEFJSilyg-KPAbw-GR94wi77-OV5-G9sm7-YAtk-Dtl-OET0.jpg", // Add the logo URL here
         "title": "Volunteer Staff",
         "duration": "Oct 2019 · 1 mo",
         
       },
       {
         "company": "CORA Physical Therapy",
-        "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQEU4ejF4JmkUw/company-logo_100_100/company-logo_100_100/0/1630496928536/coraphysicaltherapy_logo?e=1748476800&v=beta&t=NPCMzVEdCJQPSBUdz5n_bW-h8V3IObfmq6q65YGS3Gg", // Add the logo URL here
+        "companyLogo": "https://i.ibb.co/6JV03hZR/coraphysicaltherapy-logo-e-1748476800-v-beta-t-NPCMz-VEd-CJQPSBUdz5n-b-W-h8-V3-IObfmq6q65-YGS3-Gg.jpg", // Add the logo URL here
         "title": "Physical Therapy Intern",
         "duration": "Oct 2020 - Nov 2020 · 2 mo",
         "bullets": [
@@ -295,7 +295,7 @@ const highProfiles = [
       },
       {
         "company": "TRIPT, LLC",
-        "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQGgmh5uS-f30g/company-logo_100_100/company-logo_100_100/0/1661386936729?e=1748476800&v=beta&t=m-kHLWaVcCMtMgzOzaEpuEkfsg7A_SH8b3sSIaGYMSE", // Add the logo URL here
+        "companyLogo": "https://i.ibb.co/GQw0KchK/xx.jpg", // Add the logo URL here
         "title": "Physical Therapy Intern",
         "duration": "Sep 2019 - Oct 2019 · 2 mos",
         "bullets": [
@@ -305,7 +305,7 @@ const highProfiles = [
       },
       {
         "company": "Travis Air Force Base",
-        "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQEV7HwvCaHp8A/company-logo_100_100/company-logo_100_100/0/1630569659581?e=1748476800&v=beta&t=jTP7XvRwBgUpH8kOF3JsI1Zrk7Tsn6jRLL9Q5OCcer0", // Add the logo URL here
+        "companyLogo": "https://i.ibb.co/W40gkHYB/1630569659581-e-1748476800-v-beta-t-j-TP7-Xv-Rw-Bg-Up-H8k-OF3-Js-I1-Zrk7-Tsn6j-RLL9-Q5-OCcer0.jpg", // Add the logo URL here
         "title": "Physical Therapy Intern",
         "duration": "May 2019 · 1 mo",
         "bullets": [
@@ -317,7 +317,7 @@ const highProfiles = [
     "education": [
       {
         "school": "Texas A&M University",
-        "schoolLogo": "https://media.licdn.com/dms/image/v2/D560BAQHwupMCYi1uFQ/company-logo_100_100/company-logo_100_100/0/1732032436324/texas_am_university_logo?e=1748476800&v=beta&t=A-kActIkw7ljMDQFNyGwTxJx86h0aRXXDyUXK0opYoQ",
+        "schoolLogo": "https://i.ibb.co/VcfZwwFG/texas-am-university-logo-e-1748476800-v-beta-t-A-k-Act-Ikw7lj-MDQFNy-Gw-Tx-Jx86h0a-RXXDy-UXK0op-Yo-Q.jpg",
         "degree": "Bachelor's degree in Management",
         "duration": "2022 - 2024",
         "courses": [
@@ -348,7 +348,7 @@ const highProfiles = [
     "certifications": [
       {
         "name": "Certified Personal Trainer (NASM-CPT)",
-        "issuerLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQFa_3ye-RtC9g/company-logo_100_100/company-logo_100_100/0/1733165584773/national_academy_of_sports_medicine_nasm__logo?e=1748476800&v=beta&t=yqx0hFEHtoZhzthktsUSfjUiq_u38GgMk2OMTaXAXaA",
+        "issuerLogo": "https://i.ibb.co/Ng0ByRVb/nasm.jpg",
         "issuer": "NASM",
         "issueDate": "Issued May 2021",
         "expiration": "Expired May 2023",
@@ -356,7 +356,7 @@ const highProfiles = [
       },
       {
         "name": "Adult First Aid/CPR/AED",
-        "issuerLogo": "https://media.licdn.com/dms/image/v2/C560BAQHUWIQmmDRJOw/company-logo_100_100/company-logo_100_100/0/1656603670184/american_red_cross_logo?e=1748476800&v=beta&t=Qk2uNq4y8izg0lhKKGLcWdXcr48sVPotqmDVDgx7kgo",
+        "issuerLogo": "https://i.ibb.co/MDqkP3BY/american-red-cross-logo-e-1749081600-v-beta-t-R7xz-NRhh-DZ00n-PBLr-Iz-L1-YCcskvul0w-An-Enm15-EW2-N8.jpg",
         "issuer": "American Red Cross",
         "issueDate": "Issued Jun 2019",
         "expiration": "Expired May 2023",
@@ -365,7 +365,7 @@ const highProfiles = [
 
       {
         "name": "Human Subjects Research - Social/Behavioral Research Investigators and Key Personnel",
-        "issuerLogo": "https://media.licdn.com/dms/image/v2/C560BAQF0C3CTnjBm2w/company-logo_100_100/company-logo_100_100/0/1631314320914?e=1748476800&v=beta&t=LtBFOrPT8hUmX1CBEhW73PxW7Rpc5pE1rFR3Qz1nJe4",
+        "issuerLogo": "https://i.ibb.co/zhj3m7DW/1631314320914-e-1748476800-v-beta-t-Lt-BFOr-PT8h-Um-X1-CBEh-W73-Px-W7-Rpc5p-E1r-FR3-Qz1n-Je4.jpg",
         "issuer": "CITI Program",
         "issueDate": "Issued May 2021",
         "expiration": "Expired May 2024",
@@ -380,12 +380,12 @@ const highProfiles = [
       "location": "Austin, Texas, United States",
       "connections": 390,
       "profilePic": "https://i.ibb.co/0RQ8BLjR/Nathan.jpg", // Placeholder for profile picture
-      "backgroundPic": "https://i.pinimg.com/474x/c1/72/d1/c172d13967c87b0e1a175a20d9e53d3f.jpg", // Placeholder for background picture
+      "backgroundPic": "https://i.ibb.co/vrkv10T/c172d13967c87b0e1a175a20d9e53d3f.jpg", // Placeholder for background picture
       "about": "I am currently pursuing a bachelor's degree in Management with a minor in International Business at the University of Texas at Austin. I work at the College of Business as a study abroad advisor, assisting students interested in studying abroad and connecting them with the many resources UT Austin offers to help them gain global experiences. Additionally, I am the Founder and President of UT Austin's first international business club, the International Business Alliance (IBA). This organization is dedicated to helping students—regardless of their major—achieve their goals of studying or working abroad by increasing awareness of the vast opportunities available at UT Austin. I aspire to leverage my academic and professional experiences to become a foreign diplomat for the U.S. Embassy, focusing on the Middle East and Asia. As a Gilman Scholar Recipient, my experiences studying abroad in Germany, Spain, and South Korea will support me in pursuing this career path.",
       "experience": [
         {
           "company": "Habitat for Humanity Greater Orlando & Osceola County",
-          "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQED9iy3s9mEeQ/company-logo_100_100/company-logo_100_100/0/1653491474311/habitat_orlando_osceola_logo?e=1748476800&v=beta&t=GhDdLuNJQ4otWfbZThh7aRVPtWYHKxjaygFdKDVgPYc", // Placeholder for company logo
+          "companyLogo": "https://i.ibb.co/99nwbQ77/habitat-orlando-osceola-logo-e-1748476800-v-beta-t-Gh-Dd-Lu-NJQ4ot-Wfb-ZThh7a-RVPt-WYHKxjayg-Fd-KDVg.jpg", // Placeholder for company logo
           "title": "Crew Leader Volunteer",
           "duration": "October 2023 - Present",
           "bullets": [
@@ -396,7 +396,7 @@ const highProfiles = [
         },
         {
           "company": "Mentor Collective Program",
-          "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQHj-0WlD8pHaA/company-logo_100_100/company-logo_100_100/0/1630648561495/department_of_computer_science_the_university_of_texas_at_austin_logo?e=1748476800&v=beta&t=nGIPh7kYMORzn7Be6IjckBylIA0VdQL0S9P6AiF3POo", // Placeholder for company logo
+          "companyLogo": "https://i.ibb.co/HpNd8bmg/department-of-computer-science-the-university-of-texas-at-austin-logo-e-1748476800-v-beta-t-n-GIPh7k.jpg", // Placeholder for company logo
           "title": "Peer Mentor",
           "duration": "January 2023 - Present",
           "bullets": [
@@ -407,7 +407,7 @@ const highProfiles = [
         },
         {
           "company": "International Business Alliance (IBA) at UT Austin",
-          "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQHdueKxiBgihw/company-logo_100_100/company-logo_100_100/0/1661536531771?e=1748476800&v=beta&t=q7KEXRXDSrvar1OsHHwLCpkcsQORLHfuJzla0Wrlmac", // Placeholder for company logo
+          "companyLogo": "https://i.ibb.co/TqMDQ1Yw/int.jpg", // Placeholder for company logo
           "title": "Founder & President",
           "duration": "June 2022 - Present",
           "bullets": [
@@ -417,7 +417,7 @@ const highProfiles = [
         },
         {
           "company": "UT Austin College of Business",
-          "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQHj-0WlD8pHaA/company-logo_100_100/company-logo_100_100/0/1630648561495/department_of_computer_science_the_university_of_texas_at_austin_logo?e=1748476800&v=beta&t=nGIPh7kYMORzn7Be6IjckBylIA0VdQL0S9P6AiF3POo", // Placeholder for company logo
+          "companyLogo": "https://i.ibb.co/HpNd8bmg/department-of-computer-science-the-university-of-texas-at-austin-logo-e-1748476800-v-beta-t-n-GIPh7k.jpg", // Placeholder for company logo
           "title": "Study Abroad Advisor",
           "duration": "April 2022 - Present",
           "bullets": [
@@ -443,7 +443,7 @@ const highProfiles = [
         },
         {
           "company": "Slapfish Restaurant Group",
-          "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQH3EPXMngP-4Q/company-logo_100_100/company-logo_100_100/0/1631378488529?e=1748476800&v=beta&t=ma5-7Y6YT-qutr5NUzl8Rj2yT24KiuykjuLc7NnQ4tY", // Placeholder for company logo
+          "companyLogo": "https://i.ibb.co/6JJsWMzy/1631378488529-e-1748476800-v-beta-t-ma5-7-Y6-YT-qutr5-NUzl8-Rj2y-T24-Kiuykju-Lc7-Nn-Q4t-Y.jpg", // Placeholder for company logo
           "title": "Chef",
           "duration": "December 2019 - December 2020",
           "bullets": []
@@ -458,7 +458,7 @@ const highProfiles = [
         },
         {
           "company": "JMJ Pregnancy Center",
-          "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQGyuQW57jJcfA/company-logo_100_100/company-logo_100_100/0/1631327999008?e=1748476800&v=beta&t=DkcRT5Jo03k46EX3F-v61TZhzcbOporGLWBVgOtC5nE",
+          "companyLogo": "https://i.ibb.co/7JRQZc13/jmj.jpg",
           "title": "Volunteer",
           "duration": "September 2022 - September 2023",
           "bullets": [
@@ -471,13 +471,13 @@ const highProfiles = [
           "school": "University of Texas at Austin",
           "degree": "Bachelor's degree in Management",
           "duration": "August 2018 - June 2024",
-          "schoolLogo": "https://media.licdn.com/dms/image/v2/C560BAQHj-0WlD8pHaA/company-logo_100_100/company-logo_100_100/0/1630648561495/department_of_computer_science_the_university_of_texas_at_austin_logo?e=1748476800&v=beta&t=nGIPh7kYMORzn7Be6IjckBylIA0VdQL0S9P6AiF3POo" // Placeholder for school logo
+          "schoolLogo": "https://i.ibb.co/HpNd8bmg/department-of-computer-science-the-university-of-texas-at-austin-logo-e-1748476800-v-beta-t-n-GIPh7k.jpg" // Placeholder for school logo
         },
         {
           "school": "University of Seoul",
           "degree": "International Business",
           "duration": "March 2023 - June 2023",
-          "schoolLogo": "https://media.licdn.com/dms/image/v2/C560BAQGIxgIWW1MZfg/company-logo_100_100/company-logo_100_100/0/1657678022025?e=1748476800&v=beta&t=okqe3X8YgZH8Hdo151mRqOeq0ADZ3JEWXYSOwdYp7W8" // Placeholder for school logo
+          "schoolLogo": "https://i.ibb.co/yccLc969/1657678022025-e-1748476800-v-beta-t-okqe3-X8-Yg-ZH8-Hdo151m-Rq-Oeq0-ADZ3-JEWXYSOwd-Yp7-W8.jpg" // Placeholder for school logo
         },
         {
           "school": "Camino Barcelona",
@@ -489,7 +489,7 @@ const highProfiles = [
           "school": "The Berlin School of Economics and Law",
           "degree": "Entrepreneurship/Entrepreneurial Studies",
           "duration": "June 2019 - July 2019",
-          "schoolLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQGybdZ3PfRZQQ/company-logo_100_100/company-logo_100_100/0/1631354071461?e=1748476800&v=beta&t=9tX8gngOKX2qVL1KKsavYGbEONmbwnZm4uMbVZzD7Ow" // Placeholder for school logo
+          "schoolLogo": "https://i.ibb.co/Lz4snGRK/1631354071461-e-1748476800-v-beta-t-9t-X8gng-OKX2q-VL1-KKsav-YGb-EONmbwn-Zm4u-Mb-VZz-D7-Ow.jpg" // Placeholder for school logo
         }
       ],
       "skills": [
@@ -529,31 +529,31 @@ const highProfiles = [
           "name": "Teacher Of English To Speakers Of Other Languages (TEFL)",
           "issuer": "Ninja Teacher TEFL Academy",
           "issueDate": "Issued Oct 2023",
-          "issuerLogo": "https://media.licdn.com/dms/image/v2/C560BAQF0yajV8Wfa9Q/company-logo_100_100/company-logo_100_100/0/1655729511428/ninja_teacher_logo?e=1748476800&v=beta&t=jKVfZngvoGzEmrVoc1P14MiExpseZDx17E2SRrsC3Sw" // Placeholder for issuer logo
+          "issuerLogo": "https://i.ibb.co/hRx8skYL/ninja-teacher-logo-e-1748476800-v-beta-t-j-KVf-Zngvo-Gz-Emr-Voc1-P14-Mi-Expse-ZDx17-E2-SRrs-C3-Sw.jpg" // Placeholder for issuer logo
         },
         {
           "name": "Adult First Aid/CPR/AED",
           "issuer": "American Red Cross",
           "issueDate": "Issued Sep 2023",
-          "issuerLogo": "https://media.licdn.com/dms/image/v2/C560BAQHUWIQmmDRJOw/company-logo_100_100/company-logo_100_100/0/1656603670184/american_red_cross_logo?e=1748476800&v=beta&t=Qk2uNq4y8izg0lhKKGLcWdXcr48sVPotqmDVDgx7kgo" // Placeholder for issuer logo
+          "issuerLogo": "https://i.ibb.co/MDqkP3BY/american-red-cross-logo-e-1749081600-v-beta-t-R7xz-NRhh-DZ00n-PBLr-Iz-L1-YCcskvul0w-An-Enm15-EW2-N8.jpg" // Placeholder for issuer logo
         },
         {
           "name": "Expert Tips for Answering Common Interview Questions",
           "issuer": "LinkedIn",
           "issueDate": "Issued Apr 2022",
-          "issuerLogo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=mQ2dbRmB-ho0Q7eN9wDRaxicSVOnh1QdZadDTkKWe7E" // Placeholder for issuer logo
+          "issuerLogo": "" // Placeholder for issuer logo
         },
         {
           "name": "Marketing Tools: Social Media",
           "issuer": "LinkedIn",
           "issueDate": "Issued Apr 2022",
-          "issuerLogo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=mQ2dbRmB-ho0Q7eN9wDRaxicSVOnh1QdZadDTkKWe7E" // Placeholder for issuer logo
+          "issuerLogo": "https://i.ibb.co/qMkB6Dth/640px-Linked-In-logo-initials.png" // Placeholder for issuer logo
         },
         {
           "name": "Microsoft Certifications: Exams, Paths, Certifications, and Resources",
           "issuer": "LinkedIn",
           "issueDate": "Issued Apr 2022",
-          "issuerLogo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=mQ2dbRmB-ho0Q7eN9wDRaxicSVOnh1QdZadDTkKWe7E" // Placeholder for issuer logo
+          "issuerLogo": "https://i.ibb.co/qMkB6Dth/640px-Linked-In-logo-initials.png" // Placeholder for issuer logo
         }
       ]
     },
@@ -564,12 +564,12 @@ const highProfiles = [
       "location": "Texas, United States",
       "connections": 500,
       "profilePic": "https://i.ibb.co/274LZbt1/Jordan1.jpg",
-      "backgroundPic": "https://static.vecteezy.com/system/resources/previews/013/882/359/non_2x/inscription-risk-management-on-abstract-double-exposure-business-mixed-media-background-photo.jpg",
+      "backgroundPic": "https://i.ibb.co/9HW7Wb18/inscription-risk-management-on-abstract-double-exposure-business-mixed-media-background-photo.jpg",
       "about": "Hello everyone, I am a Texas A&M University graduate with a Bachelor's degree in Management. With over seven years of experience in customer service and financial operations, I am constantly looking for new opportunities to grow professionally. Currently, I work as a Lead Analyst in Market/Client Risk Management at BNY Mellon, where I specialize in risk assessment and transaction analysis. Previously, I served as a Financial Counselor at Orlando Health, where I honed my problem-solving and communication skills. I am passionate about continuous learning and professional development, always striving to enhance my expertise in business strategy, leadership, and risk management.",
       "experience": [
         {
           "company": "BNY Mellon",
-          "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQE72gHn5DlpMw/company-logo_100_100/company-logo_100_100/0/1719256014898/bny_mellon_logo?e=1748476800&v=beta&t=QuLpGsdDK5kHgpjNcHjr52WApT5fsFPl3mdIspZ88BM",
+          "companyLogo": "https://i.ibb.co/sdBz0Pg5/bny-mellon-logo-e-1748476800-v-beta-t-Qu-Lp-Gsd-DK5k-Hgpj-Nc-Hjr52-WAp-T5fs-FPl3md-Isp-Z88-BM.jpg",
           "title": "Lead Analyst, Market/Client Risk Management",
           "duration": "April 2023 - Present",
           "bullets": [
@@ -580,7 +580,7 @@ const highProfiles = [
         },
         {
           "company": "Orlando Health",
-          "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQHH8cCmWNIASg/company-logo_100_100/company-logo_100_100/0/1651702105323/orlando_health_logo?e=1748476800&v=beta&t=kTlqzgKHd7jX15-NjJB0ymzadjrhUWJSBtUUdP6N5rE",
+          "companyLogo": "https://i.ibb.co/Vc34Nw8P/orlando-health-logo-e-1748476800-v-beta-t-k-Tlqzg-KHd7j-X15-Nj-JB0ymzadjrh-UWJSBt-UUd-P6-N5r-E.jpg",
           "title": "Financial Counselor",
           "duration": "October 2018 - April 2023",
           "bullets": [
@@ -591,7 +591,6 @@ const highProfiles = [
         },
         {
           "company": "Bravo Supermarkets Inc",
-          "companyLogo": "",
           "title": "Cashier, Fulfillment Specialist, General Merchandise",
           "duration": "August 2016 - August 2018",
           "bullets": [
@@ -604,7 +603,7 @@ const highProfiles = [
       "education": [
         {
           "school": "Texas A&M University",
-          "schoolLogo": "https://media.licdn.com/dms/image/v2/D560BAQHwupMCYi1uFQ/company-logo_100_100/company-logo_100_100/0/1732032436324/texas_am_university_logo?e=1748476800&v=beta&t=A-kActIkw7ljMDQFNyGwTxJx86h0aRXXDyUXK0opYoQ",
+          "schoolLogo": "https://i.ibb.co/VcfZwwFG/texas-am-university-logo-e-1748476800-v-beta-t-A-k-Act-Ikw7lj-MDQFNy-Gw-Tx-Jx86h0a-RXXDy-UXK0op-Yo-Q.jpg",
           "degree": "Bachelor's Degree in Management",
           "duration": "2019 - 2023",
           "courses": [
@@ -639,25 +638,25 @@ const highProfiles = [
           "name": "Word 2019 Essential Training",
           "issuer": "Microsoft",
           "issueDate": "September 2021",
-          "issuerLogo": "https://media.licdn.com/dms/image/v2/C560BAQE88xCsONDULQ/company-logo_100_100/company-logo_100_100/0/1630652622688/microsoft_logo?e=1748476800&v=beta&t=dUKu-TGEtkXXJlRWkIFBYhE1kb7JVzO5iaM-4L9VFIc"
+          "issuerLogo": "https://i.ibb.co/PZ9ShhGq/microsoft-logo-e-1748476800-v-beta-t-d-UKu-TGEtk-XXJl-RWk-IFBYh-E1kb7-JVz-O5ia-M-4-L9-VFIc.jpg"
         },
         {
           "name": "Learning Excel Desktop (Office 365/Microsoft 365)",
           "issuer": "Microsoft",
           "issueDate": "March 2021",
-          "issuerLogo": "https://media.licdn.com/dms/image/v2/C560BAQE88xCsONDULQ/company-logo_100_100/company-logo_100_100/0/1630652622688/microsoft_logo?e=1748476800&v=beta&t=dUKu-TGEtkXXJlRWkIFBYhE1kb7JVzO5iaM-4L9VFIc"
+          "issuerLogo": "https://i.ibb.co/PZ9ShhGq/microsoft-logo-e-1748476800-v-beta-t-d-UKu-TGEtk-XXJl-RWk-IFBYh-E1kb7-JVz-O5ia-M-4-L9-VFIc.jpg"
         },
         {
           "name": "Learning Excel 2019",
           "issuer": "Microsoft",
           "issueDate": "January 2021",
-          "issuerLogo": "https://media.licdn.com/dms/image/v2/C560BAQE88xCsONDULQ/company-logo_100_100/company-logo_100_100/0/1630652622688/microsoft_logo?e=1748476800&v=beta&t=dUKu-TGEtkXXJlRWkIFBYhE1kb7JVzO5iaM-4L9VFIc"
+          "issuerLogo": "https://i.ibb.co/PZ9ShhGq/microsoft-logo-e-1748476800-v-beta-t-d-UKu-TGEtk-XXJl-RWk-IFBYh-E1kb7-JVz-O5ia-M-4-L9-VFIc.jpg"
         }
       ],
       "volunteering": [
         {
           "company": "Habitat for Humanity",
-          "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQED9iy3s9mEeQ/company-logo_100_100/company-logo_100_100/0/1653491474311/habitat_orlando_osceola_logo?e=1748476800&v=beta&t=GhDdLuNJQ4otWfbZThh7aRVPtWYHKxjaygFdKDVgPYc",
+          "companyLogo": "https://i.ibb.co/99nwbQ77/habitat-orlando-osceola-logo-e-1748476800-v-beta-t-Gh-Dd-Lu-NJQ4ot-Wfb-ZThh7a-RVPt-WYHKxjayg-Fd-KDVg.jpg",
           "title": "Volunteer",
           "duration": "June 2022 - Present",
           "bullets": [
@@ -670,18 +669,18 @@ const highProfiles = [
       ]
     }, 
     {
-      "id": "HIGH-04",
+      "id": "HIGH-05",
       "name": "Ethan Carter",
       "headline": "Business Operations Specialist | Process Optimization | Baylor University Graduate",
       "location": "Waco, Texas, United States",
       "connections": 385,
       "profilePic": "https://i.ibb.co/Qj7hk8MC/Ethan.jpg",
-      "backgroundPic": "https://kaiz-in.com/wp-content/uploads/elementor/thumbs/Operations-LinkedIn-Cover-Banner-4-qx2x86z0x3cqkle6ucnupsr914tos9apexxx6uz248.webp",
+      "backgroundPic": "https://i.ibb.co/1G6W4h0P/Operations-Linked-In-Cover-Banner-4-qx2x86z0x3cqkle6ucnupsr914tos9apexxx6uz248.webp",
       "about": "Driven business operations professional with a Bachelor's in Management from Baylor University (Class of 2025). Specializing in streamlining processes and improving operational efficiency through data-driven strategies. Currently contributing to supply chain optimizations at a major Texas manufacturing firm while developing expertise in lean methodologies and ERP system implementations.\n\nMy academic projects include leading a cross-functional team to redesign inventory management processes, resulting in a 25% reduction in stock discrepancies. Passionate about bridging theoretical knowledge with practical applications in operations management. Seeking opportunities to leverage my analytical skills and process improvement experience in dynamic business environments.\n\nOpen to connecting with professionals in operations management, supply chain optimization, and business strategy roles!",
       "experience": [
         {
           "company": "Lone Star Manufacturing Co.",
-          "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQFvfFBJ5rastQ/company-logo_100_100/company-logo_100_100/0/1739373098071/energy_manufacturing_and_trades_management_at_lone_star_college_logo?e=1748476800&v=beta&t=6_ENWHJYSOsNUxr27LVQ9HF9RYiNs8rk673kUDwkPok",
+          "companyLogo": "https://i.ibb.co/kVvGNfm3/energy-manufacturing-and-trades-management-at-lone-star-college-logo-e-1748476800-v-beta-t-6-ENWHJYS.jpg",
           "title": "Operations Intern",
           "duration": "June 2024 - Present",
           "bullets": [
@@ -693,7 +692,7 @@ const highProfiles = [
         },
         {
           "company": "Baylor University Student Enterprises",
-          "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQF3xVYhJ9wlNg/company-logo_100_100/company-logo_100_100/0/1630603832938/baylor_university_logo?e=1748476800&v=beta&t=XwGqdS6NLhHAnIF1iwoMRRcHNCkk2Ddgx5WYeVj2ohY",
+          "companyLogo": "https://i.ibb.co/6RG6zstk/baylor-university-logo-e-1748476800-v-beta-t-Xw-Gqd-S6-NLh-HAn-IF1iwo-MRRc-HNCkk2-Ddgx5-WYe-Vj2oh-Y.jpg",
           "title": "Business Strategy Assistant",
           "duration": "August 2023 - May 2024",
           "bullets": [
@@ -707,7 +706,7 @@ const highProfiles = [
       "education": [
         {
           "school": "Baylor University",
-          "schoolLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQF3xVYhJ9wlNg/company-logo_100_100/company-logo_100_100/0/1630603832938/baylor_university_logo?e=1748476800&v=beta&t=XwGqdS6NLhHAnIF1iwoMRRcHNCkk2Ddgx5WYeVj2ohY",
+          "schoolLogo": "https://i.ibb.co/6RG6zstk/baylor-university-logo-e-1748476800-v-beta-t-Xw-Gqd-S6-NLh-HAn-IF1iwo-MRRc-HNCkk2-Ddgx5-WYe-Vj2oh-Y.jpg",
           "degree": "Bachelor of Business Administration in Management",
           "duration": "2023 - 2025",
           "courses": [
@@ -739,13 +738,13 @@ const highProfiles = [
       "certifications": [
         {
           "name": "Lean Six Sigma White Belt Certification",
-          "issuerLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQF3xVYhJ9wlNg/company-logo_100_100/company-logo_100_100/0/1630603832938/baylor_university_logo?e=1748476800&v=beta&t=XwGqdS6NLhHAnIF1iwoMRRcHNCkk2Ddgx5WYeVj2ohY",
+          "issuerLogo": "https://i.ibb.co/6RG6zstk/baylor-university-logo-e-1748476800-v-beta-t-Xw-Gqd-S6-NLh-HAn-IF1iwo-MRRc-HNCkk2-Ddgx5-WYe-Vj2oh-Y.jpg",
           "issuer": "Baylor University",
           "issueDate": "Issued 2024"
         },
         {
           "name": "Excel for Business Analysis",
-          "issuerLogo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=1748476800&v=beta&t=mQ2dbRmB-ho0Q7eN9wDRaxicSVOnh1QdZadDTkKWe7E",
+          "issuerLogo": "https://i.ibb.co/qMkB6Dth/640px-Linked-In-logo-initials.png",
           "issuer": "LinkedIn Learning",
           "issueDate": "Issued 2023"
         }
@@ -753,7 +752,7 @@ const highProfiles = [
       "volunteering": [
         {
           "company": "Central Texas Food Bank",
-          "companyLogo":"https://media.licdn.com/dms/image/v2/D560BAQHzr9tMHYsvIQ/company-logo_100_100/company-logo_100_100/0/1731951415917/centraltexasfoodbank_logo?e=1748476800&v=beta&t=M_t-ZfnIO408ILYaMQBC445bNj-Vq6q9rFYoG-SwqmQ",
+          "companyLogo":"https://i.ibb.co/h1Rhp4QT/centraltexasfoodbank-logo-e-1748476800-v-beta-t-M-t-Zfn-IO408-ILYa-MQBC445b-Nj-Vq6q9r-FYo-G-Swqm-Q.jpg",
           "title": "Food Distribution Volunteer",
           "duration": "January 2021 - May 2022",
           "bullets": [
@@ -768,28 +767,28 @@ const highProfiles = [
     {
       "id": "HIGH-06",
       "name": "Charles Beaumont",
-      "headline": "Nonprofit Operations Manager | Community Development | Baylor University Honors Graduate",
+      "headline": "Operations Manager @ Ferrari | Community Development | Baylor University Honors Graduate",
       "location": "Austin, Texas, United States",
       "connections": 412,
       "profilePic": "https://i.ibb.co/yF8f9rrv/Charles.jpg",
-      "backgroundPic": "https://kaiz-in.com/wp-content/uploads/elementor/thumbs/Consulting-LinkedIn-Cover-Banner-3-qx2xbjad7vxfuojfbso3kye92gco5ikcjhg2ma0nzs.webp",
-      "about": "Driven nonprofit professional with a Bachelor's in Management from Baylor University (Class of 2025), combining operational expertise with a passion for community service. Currently managing volunteer operations for Austin's largest food bank while coordinating youth mentorship programs. \n\nMy academic focus on social enterprise management has been enhanced through practical experience in program development and donor relations. Led a university initiative that increased community pantry access by 40% through strategic partnerships. Seeking to leverage my dual expertise in business operations and social impact to drive sustainable community development initiatives.\n\nOpen to connecting with professionals in nonprofit management, corporate social responsibility, and social enterprise development!",
+      "backgroundPic": "https://i.ibb.co/Mybdzh5b/Consulting-Linked-In-Cover-Banner-3-qx2xbjad7vxfuojfbso3kye92gco5ikcjhg2ma0nzs.webp",
+      "about": "Results-oriented operations coordinator with a BBA in Management from Baylor University (Class of 2025), specializing in enhancing organizational efficiency and community engagement. Currently overseeing operations at Ferrari, where I implement training programs and streamline supply chain processes to ensure high-quality standards. \n\nMy academic background in social enterprise management, combined with hands-on experience in program development and community service, has equipped me with the skills to drive impactful initiatives. I successfully directed student-led projects that served over 5,000 residents and secured significant funding for community programs. Passionate about leveraging my operational expertise to foster sustainable development and community impact.\n\nEager to connect with professionals in operations management, community development, and nonprofit sectors!",
       "experience": [
         {
-          "company": "Central Texas Food Bank",
-          "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQGnMC2tmYnSjg/company-logo_100_100/company-logo_100_100/0/1631368709788?e=1748476800&v=beta&t=eoAbPGqPz5NMI-QZ6JydUjlL0xO7WVQ7LRfRxwBKJX4",
-          "title": "Volunteer Operations Coordinator",
+          "company": "Ferrari",
+          "companyLogo": "https://i.ibb.co/ny9dy00/ferrari-logo-e-1749686400-v-beta-t-J9g-QGy-QS3dvpl-Z0m-Jh1-Dv-KNon-STq-M5g-ICT-m6x-H1ht4.jpg",
+          "title": "Operations Coordinator",
           "duration": "June 2024 - Present",
           "bullets": [
-            "Manage daily operations for 200+ volunteers across 5 distribution centers",
-            "Develop training programs that increased volunteer retention by 35%",
-            "Coordinate with corporate partners to optimize food distribution logistics",
-            "Implement tracking system that reduced food waste by 22%"
+            "Oversee daily operations to ensure optimal efficiency in production and logistics, directly contributing to the timely delivery of high-performance vehicles.",
+            "Develop and implement comprehensive training programs for new employees, focusing on enhancing team performance and ensuring adherence to Ferrari's quality standards.",
+            "Collaborate with suppliers and vendors to streamline supply chain processes, negotiating contracts that improve cost efficiency and reduce lead times.",
+            "Monitor and analyze operational metrics, utilizing data-driven insights to drive continuous improvement initiatives that enhance productivity and reduce waste."
           ]
         },
         {
           "company": "Baylor Community Impact Initiative",
-          "companyLogo": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/311818372_482919990545046_4794290172742803430_n.png?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=p5NBP-NZCUcQ7kNvgEXksZ1&_nc_oc=Adh8BhLw6f_x48rha3gt7NWPmCyPIy40xMZhuaqcs5j8wickqDW7ZLBw_LuwPK6-D6Gq3V5wIHy0REYps95toZef&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=AgQCdqUI2Tfzw8RXatSVYPU&oh=00_AYD5ErF_6g5rUXUOYLDNj2mkuNFQsWZDV-X8OsdIE6IHfA&oe=67C553FD",
+          "companyLogo": "https://i.ibb.co/6RG6zstk/baylor-university-logo-e-1748476800-v-beta-t-Xw-Gqd-S6-NLh-HAn-IF1iwo-MRRc-HNCkk2-Ddgx5-WYe-Vj2oh-Y.jpg",
           "title": "Student Program Manager",
           "duration": "August 2023 - May 2024",
           "bullets": [
@@ -814,7 +813,7 @@ const highProfiles = [
       "volunteering": [
         {
           "company": "Habitat for Humanity Central Texas",
-          "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQED9iy3s9mEeQ/company-logo_100_100/company-logo_100_100/0/1653491474311/habitat_orlando_osceola_logo?e=1748476800&v=beta&t=GhDdLuNJQ4otWfbZThh7aRVPtWYHKxjaygFdKDVgPYc",
+          "companyLogo": "https://i.ibb.co/99nwbQ77/habitat-orlando-osceola-logo-e-1748476800-v-beta-t-Gh-Dd-Lu-NJQ4ot-Wfb-ZThh7a-RVPt-WYHKxjayg-Fd-KDVg.jpg",
           "title": "Construction Volunteer Lead",
           "duration": "September 2022 - Present",
           "bullets": [
@@ -825,7 +824,7 @@ const highProfiles = [
         },
         {
           "company": "Big Brothers Big Sisters of Central Texas",
-          "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQF0C3CTnjBm2w/company-logo_100_100/company-logo_100_100/0/1631314320914?e=1748476800&v=beta&t=LtBFOrPT8hUmX1CBEhW73PxW7Rpc5pE1rFR3Qz1nJe4",
+          "companyLogo": "https://i.ibb.co/zhj3m7DW/1631314320914-e-1748476800-v-beta-t-Lt-BFOr-PT8h-Um-X1-CBEh-W73-Px-W7-Rpc5p-E1r-FR3-Qz1n-Je4.jpg",
           "title": "Youth Mentor",
           "duration": "January 2022 - Present",
           "bullets": [
@@ -838,7 +837,7 @@ const highProfiles = [
       "education": [
         {
           "school": "Baylor University",
-          "schoolLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQF3xVYhJ9wlNg/company-logo_100_100/company-logo_100_100/0/1630603832938/baylor_university_logo?e=1748476800&v=beta&t=XwGqdS6NLhHAnIF1iwoMRRcHNCkk2Ddgx5WYeVj2ohY",
+          "schoolLogo": "https://i.ibb.co/6RG6zstk/baylor-university-logo-e-1748476800-v-beta-t-Xw-Gqd-S6-NLh-HAn-IF1iwo-MRRc-HNCkk2-Ddgx5-WYe-Vj2oh-Y.jpg",
           "degree": "BBA in Management with Social Enterprise Focus",
           "duration": "2021 - 2025",
           "courses": [
@@ -870,13 +869,12 @@ const highProfiles = [
       "certifications": [
         {
           "name": "Certified Nonprofit Professional (CNP)",
-          "issuerLogo": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/311818372_482919990545046_4794290172742803430_n.png?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=p5NBP-NZCUcQ7kNvgEXksZ1&_nc_oc=Adh8BhLw6f_x48rha3gt7NWPmCyPIy40xMZhuaqcs5j8wickqDW7ZLBw_LuwPK6-D6Gq3V5wIHy0REYps95toZef&_nc_zt=23&_nc_ht=scontent-dfw5-1.xx&_nc_gid=AgQCdqUI2Tfzw8RXatSVYPU&oh=00_AYD5ErF_6g5rUXUOYLDNj2mkuNFQsWZDV-X8OsdIE6IHfA&oe=67C553FD",
           "issuer": "Baylor Social Innovation Collaborative",
           "issueDate": "Issued 2024"
         },
         {
           "name": "Google Data Analytics Professional Certificate",
-          "issuerLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_100_100/company-logo_100_100/0/1631311446380?e=1748476800&v=beta&t=XpG5OuBsXyFLAGGsTkRmwqsl4HlNw6hdRxthqm0eI5k",
+          "issuerLogo": "https://i.ibb.co/PsbkNR1b/1631311446380-e-1748476800-v-beta-t-Xp-G5-Ou-Bs-Xy-FLAGGs-Tk-Rmwqsl4-Hl-Nw6hd-Rxthqm0e-I5k.jpg",
           "issuer": "Google",
           "issueDate": "Issued 2023"
         }
@@ -889,12 +887,12 @@ const highProfiles = [
       "location": "Austin, Texas, United States",
       "connections": 450,
       "profilePic": "https://i.ibb.co/MFsGK9G/Danielle.jpg",
-      "backgroundPic": "https://kaiz-in.com/wp-content/uploads/elementor/thumbs/Sales-Business-Development-LinkedIn-Cover-Banner-4-1-qyadbanfxdj59q6pwwmqmebf5wa9hjl8l811j5ved4.webp",
+      "backgroundPic": "https://i.ibb.co/nqPjfRgQ/Sales-Business-Development-Linked-In-Cover-Banner-4-1-qyadbanfxdj59q6pwwmqmebf5wa9hjl8l811j5ved4.webp",
       "about": "Results-driven business professional with a Bachelor's in Management from the University of Texas at Austin (Class of 2023). Combines strong analytical skills with legal acumen to optimize business processes and drive operational efficiency. Currently excelling as a Business Analyst at Molina Healthcare, where I spearhead process improvements impacting multi-million dollar healthcare operations.\n\nMy UT Austin education emphasized strategic decision-making and legal compliance, providing a strong foundation for analyzing complex business workflows. Led a capstone project redesigning inventory management systems that reduced operational costs by 18% for campus enterprises. Passionate about leveraging data-driven insights to solve operational challenges while ensuring regulatory compliance.\n\nSeeking opportunities to apply my unique blend of business analysis skills and legal knowledge in dynamic corporate environments. Open to connecting with professionals in healthcare operations, contract management, and process optimization!",
       "experience": [
         {
           "company": "Molina Healthcare",
-          "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQF7hNebLf_Cdg/company-logo_100_100/company-logo_100_100/0/1630550437351/molina_healthcare_logo?e=1748476800&v=beta&t=F4cEC6VUlRckxlWIw5QTyBBAlmqQs0zjyr8os3Zqigg",
+          "companyLogo": "https://i.ibb.co/R4NwGqVD/molina-healthcare-logo-e-1748476800-v-beta-t-F4c-EC6-VUl-Rckxl-WIw5-QTy-BBAlmq-Qs0zjyr8os3-Zqigg.jpg",
           "title": "Business Analyst",
           "duration": "Nov 2022 - Present",
           "bullets": [
@@ -906,7 +904,7 @@ const highProfiles = [
         },
         {
           "company": "Abercrombie & Fitch Co.",
-          "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQEt4kh-rJLf-Q/company-logo_100_100/company-logo_100_100/0/1681931571824/abercrombie__fitch_logo?e=1748476800&v=beta&t=C0NLIxkPtk8rIsh8fuxSghv81siHBBSBTc8btFLRt9I",
+          "companyLogo": "https://i.ibb.co/cK5XVN3r/abercrombie-fitch-logo-e-1748476800-v-beta-t-C0-NLIxk-Ptk8r-Ish8fux-Sghv81si-HBBSBTc8bt-FLRt9-I.jpg",
           "title": "Procurement Intern",
           "duration": "Jun 2021 - Aug 2021",
           "bullets": [
@@ -917,7 +915,7 @@ const highProfiles = [
         },
         {
           "company": "UT Austin McCombs School of Business",
-          "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQHj-0WlD8pHaA/company-logo_100_100/company-logo_100_100/0/1630648561495/department_of_computer_science_the_university_of_texas_at_austin_logo?e=1748476800&v=beta&t=nGIPh7kYMORzn7Be6IjckBylIA0VdQL0S9P6AiF3POo",
+          "companyLogo": "https://i.ibb.co/HpNd8bmg/department-of-computer-science-the-university-of-texas-at-austin-logo-e-1748476800-v-beta-t-n-GIPh7k.jpg",
           "title": "Business Law Teaching Assistant",
           "duration": "Aug 2020 - May 2022",
           "bullets": [
@@ -930,7 +928,7 @@ const highProfiles = [
       "volunteering": [
         {
           "company": "Feeding Children Everywhere",
-          "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQFQrOIEuZ6BdA/company-logo_100_100/company-logo_100_100/0/1630661332154/feeding_children_everywhere_logo?e=1748476800&v=beta&t=X2By84EuGbeq_FGoOx_Wrwuhux04YIplFFX6oyAZKhk",
+          "companyLogo": "https://i.ibb.co/kV6tqWHF/feeding-children-everywhere-logo-e-1748476800-v-beta-t-X2-By84-Eu-Gbeq-FGo-Ox-Wrwuhux04-YIpl-FFX6oy.jpg",
           "title": "Program Coordinator",
           "duration": "Jun 2020 - Present",
           "bullets": [
@@ -941,7 +939,7 @@ const highProfiles = [
         },
         {
           "company": "Court Appointed Special Advocates of Orange County (CASA-OC)",
-          "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQFaJOIHGBa_5Q/company-logo_100_100/company-logo_100_100/0/1649257612546/casa_oc_logo?e=1748476800&v=beta&t=_WXJMhg3to1q7mIbjbHV5whuEtjZDrfEX8thVvWl8WI",
+          "companyLogo": "https://i.ibb.co/GvsbhBJ5/casa-oc-logo-e-1748476800-v-beta-t-WXJMhg3to1q7m-Ibjb-HV5whu-Etj-ZDrf-EX8th-Vv-Wl8-WI.jpg",
           "title": "Youth Advocate",
           "duration": "Jan 2021 - Present",
           "bullets": [
@@ -954,7 +952,7 @@ const highProfiles = [
       "education": [
         {
           "school": "University of Texas at Austin",
-          "schoolLogo": "https://media.licdn.com/dms/image/v2/C560BAQHj-0WlD8pHaA/company-logo_100_100/company-logo_100_100/0/1630648561495/department_of_computer_science_the_university_of_texas_at_austin_logo?e=1748476800&v=beta&t=nGIPh7kYMORzn7Be6IjckBylIA0VdQL0S9P6AiF3POo",
+          "schoolLogo": "https://i.ibb.co/HpNd8bmg/department-of-computer-science-the-university-of-texas-at-austin-logo-e-1748476800-v-beta-t-n-GIPh7k.jpg",
           "degree": "BBA in Management",
           "duration": "2019 - 2023",
           "courses": [
@@ -993,7 +991,7 @@ const highProfiles = [
           "name": "Certified Business Analysis Professional (CBAP)",
           "issuer": "IIBA",
           "issueDate": "2023",
-          "issuerLogo": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-1/352539752_3899564327031353_2048081479970521616_n.png?_nc_cat=103&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=Vj35oHewkJ4Q7kNvgE-1osH&_nc_oc=AdhzRtRhZZd_wLAU8b1LB2R6fQvbN1WisgiXj3JhfjrKVq7D-gLJlJJ_-CDYwEpWq3UMzifBpw7kPzDfjMokSfF9&_nc_zt=24&_nc_ht=scontent-dfw5-1.xx&_nc_gid=AexYCP1RVpLrW87PYKCWEaZ&oh=00_AYDuvXBtqEIVhj4pC43JBi4fH6Q8t18H1Obnsm4i2N_gsw&oe=67C56398"
+          "issuerLogo": "https://i.ibb.co/d0GRgsbp/iiba-logo-e-1749686400-v-beta-t-Xyvwo-JSIzj-ZUj-ERSrpjv-WQEr-IRx-Vb0-B2-L7-Hu-D1-K2-JJs.jpg"
         },
         {
           "name": "Lean Six Sigma Green Belt",
@@ -1009,12 +1007,12 @@ const highProfiles = [
       "location": "Dallas, Texas, United States",
       "connections": 850,
       "profilePic": "https://i.ibb.co/WWsKLxQt/Venessa.jpg",
-      "backgroundPic": "https://images.squarespace-cdn.com/content/v1/5f08ee653a28cd44b4213ced/ce1fe42d-bc90-4def-b868-28c53a477dac/IH-1.jpg?format=1500w",
+      "backgroundPic": "https://i.ibb.co/gLHBWnmm/IH-1.jpg",
       "about": "Dynamic sports marketing specialist with 4+ years of experience driving revenue growth and brand engagement in professional hockey and baseball organizations. Baylor University graduate (BBA in Management, 2022) combining strategic sales acumen with digital marketing expertise to deliver record-breaking ticket sales and community impact. \n\nCurrently driving game attendance growth as Account Executive for the Iowa Heartlanders (ECHL), leveraging data-driven strategies that increased group ticket sales by 35% in debut season. Former marketing team leader for multiple minor league franchises, developing innovative campaigns that boosted social media engagement by 150% across platforms.\n\nCertified in ethical leadership and Microsoft Office Suite, with proven ability to merge analytical skills with creative problem-solving. Proud Delta Zeta alumna applying sorority leadership experience to community outreach initiatives and corporate partnerships.",
       "experience": [
         {
           "company": "Iowa Heartlanders (ECHL)",
-          "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQH5IZ7VejCyYA/company-logo_100_100/company-logo_100_100/0/1630546908896/iowa_echl_logo?e=1748476800&v=beta&t=hpv1NScr-7-QU-u7JHaBA51aRrl48wuK_gh8AgXyryU",
+          "companyLogo": "https://i.ibb.co/RML2tPh/iowa-echl-logo-e-1748476800-v-beta-t-hpv1-NScr-7-QU-u7-JHa-BA51a-Rrl48wu-K-gh8-Ag-Xyry-U.jpg",
           "title": "Account Executive, Group & Ticket Sales",
           "duration": "Jul 2024 - Present",
           "bullets": [
@@ -1025,7 +1023,7 @@ const highProfiles = [
         },
         {
           "company": "WRBL News 3",
-          "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQFgnE-9lYuZoQ/company-logo_100_100/company-logo_100_100/0/1630669344371/wrbl_logo?e=1748476800&v=beta&t=OEytnkrPwKqvzp6CrmX5anhAMhDOMK_1PDJQqLanPtk",
+          "companyLogo": "https://i.ibb.co/C5sryrm3/wrbl-logo-e-1748476800-v-beta-t-OEytnkr-Pw-Kqvzp6-Crm-X5anh-AMh-DOMK-1-PDJQq-Lan-Ptk.jpg",
           "title": "Marketing Account Executive",
           "duration": "May 2024 - Jul 2024",
           "bullets": [
@@ -1036,7 +1034,7 @@ const highProfiles = [
         },
         {
           "company": "Baylor University Athletics",
-          "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQF3xVYhJ9wlNg/company-logo_100_100/company-logo_100_100/0/1630603832938/baylor_university_logo?e=1748476800&v=beta&t=XwGqdS6NLhHAnIF1iwoMRRcHNCkk2Ddgx5WYeVj2ohY",
+          "companyLogo": "https://i.ibb.co/6RG6zstk/baylor-university-logo-e-1748476800-v-beta-t-Xw-Gqd-S6-NLh-HAn-IF1iwo-MRRc-HNCkk2-Ddgx5-WYe-Vj2oh-Y.jpg",
           "title": "Marketing Team Lead",
           "duration": "Aug 2022 - Jul 2023",
           "bullets": [
@@ -1049,7 +1047,7 @@ const highProfiles = [
       "education": [
         {
           "school": "Baylor University",
-          "schoolLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQF3xVYhJ9wlNg/company-logo_100_100/company-logo_100_100/0/1630603832938/baylor_university_logo?e=1748476800&v=beta&t=XwGqdS6NLhHAnIF1iwoMRRcHNCkk2Ddgx5WYeVj2ohY",
+          "schoolLogo": "https://i.ibb.co/6RG6zstk/baylor-university-logo-e-1748476800-v-beta-t-Xw-Gqd-S6-NLh-HAn-IF1iwo-MRRc-HNCkk2-Ddgx5-WYe-Vj2oh-Y.jpg",
           "degree": "BBA in Marketing Management",
           "duration": "2019 - 2022",
           "courses": [
@@ -1065,19 +1063,19 @@ const highProfiles = [
         {
           "name": "NASBA Ethical Leadership Certification",
           "issuer": "National Association of State Boards of Accountancy",
-          "issuerLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQEvm2QP5s8sZA/company-logo_100_100/company-logo_100_100/0/1681968383806?e=1748476800&v=beta&t=qNnDuxTIzD6Mq8wH0ydZcsU8J_jldVuwPpP5vtwsMrI",
+          "issuerLogo": "https://i.ibb.co/GQbHKXKL/1681968383806-e-1748476800-v-beta-t-q-Nn-Dux-TIz-D6-Mq8w-H0yd-Zcs-U8-J-jld-Vuw-Pp-P5vtws-Mr-I.jpg",
           "issueDate": "2022"
         },
         {
           "name": "Microsoft Office Specialist Expert",
           "issuer": "Microsoft",
-          "issuerLogo": "https://media.licdn.com/dms/image/v2/C560BAQE88xCsONDULQ/company-logo_100_100/company-logo_100_100/0/1630652622688/microsoft_logo?e=1748476800&v=beta&t=dUKu-TGEtkXXJlRWkIFBYhE1kb7JVzO5iaM-4L9VFIc",
+          "issuerLogo": "https://i.ibb.co/PZ9ShhGq/microsoft-logo-e-1748476800-v-beta-t-d-UKu-TGEtk-XXJl-RWk-IFBYh-E1kb7-JVz-O5ia-M-4-L9-VFIc.jpg",
           "issueDate": "2021"
         },
         {
           "name": "Social Media Marketing Professional Certificate",
           "issuer": "HubSpot Academy",
-          "issuerLogo": "https://media.licdn.com/dms/image/v2/D560BAQFGt4XAU9bF5w/company-logo_100_100/company-logo_100_100/0/1719518128249/hubspot_academy_logo?e=1748476800&v=beta&t=GR0sPB-u8rHykC2c31CTc3CYI-_MYGzOqkBl0xYhq6s",
+          "issuerLogo": "https://i.ibb.co/fYgbByTg/hubspot.jpg",
           "issueDate": "2023"
         }
       ],
@@ -1096,7 +1094,7 @@ const highProfiles = [
       "volunteering": [
         {
           "company": "Baylor Community Outreach",
-          "companyLogo":"https://media.licdn.com/dms/image/v2/C4E0BAQF3xVYhJ9wlNg/company-logo_100_100/company-logo_100_100/0/1630603832938/baylor_university_logo?e=1748476800&v=beta&t=XwGqdS6NLhHAnIF1iwoMRRcHNCkk2Ddgx5WYeVj2ohY",
+          "companyLogo":"https://i.ibb.co/6RG6zstk/baylor-university-logo-e-1748476800-v-beta-t-Xw-Gqd-S6-NLh-HAn-IF1iwo-MRRc-HNCkk2-Ddgx5-WYe-Vj2oh-Y.jpg",
           "title": "Youth Sports Mentor",
           "duration": "2020 - 2022",
           "bullets": [
@@ -1107,18 +1105,18 @@ const highProfiles = [
       ]
     },
     {
-      "id": "HIGH-10",
+      "id": "HIGH-09",
       "name": "Jennifer Langston",
       "headline": "Marketing Strategist | Brand Development Specialist | Texas A&M Alumni",
       "location": "Austin, Texas, United States",
       "connections": 650,
       "profilePic": "https://i.ibb.co/C5ZrD0B3/Jennifer.jpg",
-      "backgroundPic": "https://kaiz-in.com/wp-content/uploads/elementor/thumbs/HR-LinkedIn-Cover-Banner-1-qx2x99iepathslu7lbbk2115dxjqjujp88otv7dx14.webp",
+      "backgroundPic": "https://i.ibb.co/7JZM4JYC/HR-Linked-In-Cover-Banner-1-qx2x99iepathslu7lbbk2115dxjqjujp88otv7dx14.webp",
       "about": "Dynamic marketing professional with a BBA in Management from Texas A&M University (Class of 2023). Combines creative campaign development with data-driven strategies to build authentic brand communities. Passionate about sustainable business practices and innovative marketing solutions that align organizational values with consumer expectations.\n\nAs a proud Aggie, I honed my skills through Texas A&M's renowned business program, leading cross-functional teams in real-world marketing projects for local enterprises. Currently driving brand growth at Austin's premier marketing agency, where I've increased client engagement metrics by an average of 45% through integrated digital strategies.\n\nCertified in marketing analytics and sustainability management, with proven success in transforming brand narratives into measurable business outcomes. Let's connect to discuss innovative approaches to community-driven marketing!",
       "experience": [
         {
           "company": "Priority Marketing",
-          "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQHYBOulzObYpw/company-logo_100_100/company-logo_100_100/0/1680621595550/priority_marketing_logo?e=1748476800&v=beta&t=oUV2_mMhKTJDO8dpQ75vu9Me6iFafmiRYN2EUzAPivs",
+          "companyLogo": "https://i.ibb.co/JFMcVTLd/priority-marketing-logo-e-1748476800-v-beta-t-o-UV2-m-Mh-KTJDO8dp-Q75vu9-Me6i-Fafmi-RYN2-EUz-APivs.jpg",
           "title": "Marketing Project Lead",
           "duration": "Dec 2023 - Present",
           "bullets": [
@@ -1129,7 +1127,7 @@ const highProfiles = [
         },
         {
           "company": "Gingras Global",
-          "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQHMPCqxrzOMYQ/company-logo_100_100/company-logo_100_100/0/1630580480927/gingras_global_logo?e=1748476800&v=beta&t=qj9iIzGAR_khiEc3TFzZ2lJ5d0fegBMLgyLjbtChLkY",
+          "companyLogo": "https://i.ibb.co/ynxzMSGx/gingras-global-logo-e-1748476800-v-beta-t-qj9i-Iz-GAR-khi-Ec3-TFz-Z2l-J5d0feg-BMLgy-Ljbt-Ch-Lk-Y.jpg",
           "title": "Digital Marketing Specialist",
           "duration": "Sep 2023 - Dec 2023",
           "bullets": [
@@ -1140,7 +1138,7 @@ const highProfiles = [
         },
         {
           "company": "Texas A&M Business Development Center",
-          "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQHwupMCYi1uFQ/company-logo_100_100/company-logo_100_100/0/1732032436324/texas_am_university_logo?e=1748476800&v=beta&t=A-kActIkw7ljMDQFNyGwTxJx86h0aRXXDyUXK0opYoQ",
+          "companyLogo": "https://i.ibb.co/VcfZwwFG/texas-am-university-logo-e-1748476800-v-beta-t-A-k-Act-Ikw7lj-MDQFNy-Gw-Tx-Jx86h0a-RXXDy-UXK0op-Yo-Q.jpg",
           "title": "Marketing Strategy Intern",
           "duration": "Jun 2021 - Aug 2023",
           "bullets": [
@@ -1153,7 +1151,7 @@ const highProfiles = [
       "education": [
         {
           "school": "Texas A&M University",
-          "schoolLogo": "https://media.licdn.com/dms/image/v2/D560BAQHwupMCYi1uFQ/company-logo_100_100/company-logo_100_100/0/1732032436324/texas_am_university_logo?e=1748476800&v=beta&t=A-kActIkw7ljMDQFNyGwTxJx86h0aRXXDyUXK0opYoQ",
+          "schoolLogo": "https://i.ibb.co/VcfZwwFG/texas-am-university-logo-e-1748476800-v-beta-t-A-k-Act-Ikw7lj-MDQFNy-Gw-Tx-Jx86h0a-RXXDy-UXK0op-Yo-Q.jpg",
           "degree": "BBA in Marketing Management",
           "duration": "2019 - 2023",
           "courses": [
@@ -1168,13 +1166,13 @@ const highProfiles = [
       "certifications": [
         {
           "name": "Google Analytics Professional Certification",
-          "issuerLogo":"https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_200_200/company-logo_200_200/0/1631311446380?e=2147483647&v=beta&t=fnMgfquTmN5LLPDz_pQ3ABlHsrgISwU9CQS35ol7QpE",
+          "issuerLogo":"https://i.ibb.co/PsbkNR1b/1631311446380-e-1748476800-v-beta-t-Xp-G5-Ou-Bs-Xy-FLAGGs-Tk-Rmwqsl4-Hl-Nw6hd-Rxthqm0e-I5k.jpg",
           "issuer": "Google",
           "issueDate": "2023"
         },
         {
           "name": "Sustainability Marketing Strategies",
-          "issuerLogo": "https://media.licdn.com/dms/image/v2/D560BAQHwupMCYi1uFQ/company-logo_100_100/company-logo_100_100/0/1732032436324/texas_am_university_logo?e=1748476800&v=beta&t=A-kActIkw7ljMDQFNyGwTxJx86h0aRXXDyUXK0opYoQ",
+          "issuerLogo": "https://i.ibb.co/VcfZwwFG/texas-am-university-logo-e-1748476800-v-beta-t-A-k-Act-Ikw7lj-MDQFNy-Gw-Tx-Jx86h0a-RXXDy-UXK0op-Yo-Q.jpg",
           "issuer": "Texas A&M Executive Education",
           "issueDate": "2022"
         }
@@ -1201,7 +1199,7 @@ const highProfiles = [
       "volunteering": [
         {
           "company": "Aggies for Sustainable Business",
-          "companyLogo":"https://media.licdn.com/dms/image/v2/D560BAQHwupMCYi1uFQ/company-logo_100_100/company-logo_100_100/0/1732032436324/texas_am_university_logo?e=1748476800&v=beta&t=A-kActIkw7ljMDQFNyGwTxJx86h0aRXXDyUXK0opYoQ",
+          "companyLogo":"https://i.ibb.co/VcfZwwFG/texas-am-university-logo-e-1748476800-v-beta-t-A-k-Act-Ikw7lj-MDQFNy-Gw-Tx-Jx86h0a-RXXDy-UXK0op-Yo-Q.jpg",
           "title": "Program Coordinator",
           "duration": "2020 - 2023",
           "bullets": [
@@ -1218,13 +1216,13 @@ const highProfiles = [
       "location": "Houston, Texas, United States",
       "connections": 850,
       "profilePic": "https://i.ibb.co/XkKG45nM/Stephanie.jpg",
-      "backgroundPic": "https://kaiz-in.com/wp-content/uploads/elementor/thumbs/Marketing-LinkedIn-Cover-Banner-5-qx2x7yih7l15o3qh7r07lcw3onzduzd4ds2jvdblo8.webp",
+      "backgroundPic": "https://i.ibb.co/S4jF52tj/Marketing-Linked-In-Cover-Banner-5-qx2x7yih7l15o3qh7r07lcw3onzduzd4ds2jvdblo8.webp",
       "about": "Driven business executive with a BBA in Management from Texas A&M University (Class of 2024), combining operational excellence with global business acumen. Currently making waves at ADP as the youngest District Manager in company history, achieving 100% Club qualification within first quarter FY25. \n\nLeveraged Aggie leadership training to deliver record-breaking performance - exceeding sales quotas by 545% and securing promotion 7 months ahead of schedule. International experience includes intensive global business program at ESADE Barcelona, developing cross-cultural negotiation skills while leading teams with language barriers. \n\nCertified in Six Sigma and Salesforce administration, with proven ability to transform operational strategies into measurable business outcomes. Passionate about mentoring next-gen business leaders through Texas A&M's Management Development Program.",
     
       "experience": [
         {
           "company": "ADP",
-          "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQGNdd1vJP5Dfg/company-logo_100_100/company-logo_100_100/0/1731510860636/adp_logo?e=1748476800&v=beta&t=SQrK-2nLwBAOzPEmzB5XtoC-R1i4-sOVci0T8oE51Xc",
+          "companyLogo": "https://i.ibb.co/PsSD126D/adp-logo-e-1748476800-v-beta-t-SQr-K-2n-Lw-BAOz-PEmz-B5-Xto-C-R1i4-s-OVci0-T8o-E51-Xc.jpg",
           "title": "District Manager",
           "duration": "Jan 2025 - Present",
           "bullets": [
@@ -1235,7 +1233,7 @@ const highProfiles = [
         },
         {
           "company": "ADP",
-          "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQGNdd1vJP5Dfg/company-logo_100_100/company-logo_100_100/0/1731510860636/adp_logo?e=1748476800&v=beta&t=SQrK-2nLwBAOzPEmzB5XtoC-R1i4-sOVci0T8oE51Xc",
+          "companyLogo": "https://i.ibb.co/PsSD126D/adp-logo-e-1748476800-v-beta-t-SQr-K-2n-Lw-BAOz-PEmz-B5-Xto-C-R1i4-s-OVci0-T8o-E51-Xc.jpg",
           "title": "Associate District Manager",
           "duration": "Jul 2024 - Jan 2025",
           "bullets": [
@@ -1246,7 +1244,7 @@ const highProfiles = [
         },
         {
           "company": "Prime Time Business Network",
-          "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQHYBN9EZveMWg/company-logo_100_100/company-logo_100_100/0/1630632912394?e=1748476800&v=beta&t=HYEn0K24Pc3vu5my_FZPnb7DCYeEEcBrnIudfmCHn6k",
+          "companyLogo": "https://i.ibb.co/zTVr0b5Y/1630632912394-e-1748476800-v-beta-t-HYEn0-K24-Pc3vu5my-FZPnb7-DCYe-EEc-Brn-Iudfm-CHn6k.jpg",
           "title": "Guest Relations Strategist",
           "duration": "Jan 2025 - Present",
           "bullets": [
@@ -1260,7 +1258,7 @@ const highProfiles = [
       "education": [
         {
           "school": "Texas A&M University - Mays Business School",
-          "schoolLogo": "https://media.licdn.com/dms/image/v2/D560BAQHwupMCYi1uFQ/company-logo_100_100/company-logo_100_100/0/1732032436324/texas_am_university_logo?e=1748476800&v=beta&t=A-kActIkw7ljMDQFNyGwTxJx86h0aRXXDyUXK0opYoQ",
+          "schoolLogo": "https://i.ibb.co/VcfZwwFG/texas-am-university-logo-e-1748476800-v-beta-t-A-k-Act-Ikw7lj-MDQFNy-Gw-Tx-Jx86h0a-RXXDy-UXK0op-Yo-Q.jpg",
           "degree": "BBA in Management",
           "duration": "2020 - 2024",
           "courses": [
@@ -1272,7 +1270,7 @@ const highProfiles = [
         },
         {
           "school": "ESADE Business School",
-          "schoolLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQEY0Fxl_fxVLA/company-logo_100_100/company-logo_100_100/0/1630513728749/esade_logo?e=1748476800&v=beta&t=WBSYIC4zs48tSOnRxa-betfWThbo04X9VMdMHK4FJ7s",
+          "schoolLogo": "https://i.ibb.co/nsh0JvRT/esade-logo-e-1748476800-v-beta-t-WBSYIC4zs48t-SOn-Rxa-betf-WThbo04-X9-VMd-MHK4-FJ7s.jpg",
           "degree": "International Business Intensive",
           "duration": "May 2022 - Jun 2022"
         }
@@ -1282,14 +1280,14 @@ const highProfiles = [
         {
           "name": "Six Sigma Green Belt",
           "issuer": "Texas A&M Engineering Extension",
-          "issuerLogo": "https://media.licdn.com/dms/image/v2/D560BAQHwupMCYi1uFQ/company-logo_100_100/company-logo_100_100/0/1732032436324/texas_am_university_logo?e=1748476800&v=beta&t=A-kActIkw7ljMDQFNyGwTxJx86h0aRXXDyUXK0opYoQ",
+          "issuerLogo": "https://i.ibb.co/VcfZwwFG/texas-am-university-logo-e-1748476800-v-beta-t-A-k-Act-Ikw7lj-MDQFNy-Gw-Tx-Jx86h0a-RXXDy-UXK0op-Yo-Q.jpg",
           "issueDate": "2023",
           "credentialId": "SSGB-234TX"
         },
         {
           "name": "Salesforce Certified Administrator",
           "issuer": "Salesforce",
-          "issuerLogo": "https://media.licdn.com/dms/image/v2/C560BAQHZ9xYomLW7zg/company-logo_100_100/company-logo_100_100/0/1630658255326/salesforce_logo?e=1748476800&v=beta&t=IMSWZToYSptHtfLRWUB3O2IHCR7SXmld-NKgR8qmEn8",
+          "issuerLogo": "https://i.ibb.co/nsh9R85m/salesforce-logo-e-1748476800-v-beta-t-IMSWZTo-YSpt-Htf-LRWUB3-O2-IHCR7-SXmld-NKg-R8qm-En8.jpg",
           "issueDate": "2024",
           "credentialId": "SFCA-5678"
         }
@@ -1321,7 +1319,7 @@ const highProfiles = [
       "volunteering": [
         {
           "company": "Texas A&M Young Alumni Council",
-          "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQHwupMCYi1uFQ/company-logo_100_100/company-logo_100_100/0/1732032436324/texas_am_university_logo?e=1748476800&v=beta&t=A-kActIkw7ljMDQFNyGwTxJx86h0aRXXDyUXK0opYoQ",
+          "companyLogo": "https://i.ibb.co/VcfZwwFG/texas-am-university-logo-e-1748476800-v-beta-t-A-k-Act-Ikw7lj-MDQFNy-Gw-Tx-Jx86h0a-RXXDy-UXK0op-Yo-Q.jpg",
           "title": "Career Development Mentor",
           "duration": "2022 - Present",
           "bullets": [
@@ -1339,12 +1337,12 @@ const highProfiles = [
       "location": "Austin, Texas, United States",
       "connections": 300,
       "profilePic": "https://i.ibb.co/b5WC8r8j/Lauren.jpg", // Placeholder for profile picture
-      "backgroundPic": "https://kaiz-in.com/wp-content/uploads/elementor/thumbs/Sales-Business-Development-LinkedIn-Cover-Banner-5-1-qyadbbla47kflc5crf1d6w2vra5mp8oyxcoj0fu06w.webp", // Placeholder for background picture
+      "backgroundPic": "https://i.ibb.co/HLzKyTrJ/Sales-Business-Development-Linked-In-Cover-Banner-5-1-qyadbbla47kflc5crf1d6w2vra5mp8oyxcoj0fu06w.webp", // Placeholder for background picture
       "about": "I am an ambitious and results-driven business professional with a BBA in Management from the prestigious University of Texas at Austin, where I graduated with honors. My academic journey has equipped me with a solid foundation in business strategy, organizational behavior, and financial management, which I have effectively applied in real-world scenarios.My fervor lies in harnessing advanced analytical skills and strategic foresight to propel organizational success.\n\nWith a robust background in project management and team leadership, I have successfully led cross-functional teams in various projects, optimizing operational efficiency and ensuring exceptional client satisfaction.My experience as a Business Analyst at Deloitte has further honed my ability to conduct in-depth market research and analysis, enabling me to support strategic planning initiatives that drive growth.\n\nI am eager to engage in transformative projects that challenge conventional paradigms and foster innovative solutions in a consulting capacity, leveraging my skills to create impactful change.",
       "experience": [
         {
           "company": "Deloitte",
-          "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQGNtpblgQpJoQ/company-logo_100_100/company-logo_100_100/0/1662120928214/deloitte_logo?e=1748476800&v=beta&t=t5QGTriClXmjU9rlcPjvB9oKoyieSwXjkb7RA08Y8oA",
+          "companyLogo": "https://i.ibb.co/JjF472GL/deloitte-logo-e-1748476800-v-beta-t-t5-QGTri-Cl-Xmj-U9rlc-Pjv-B9o-Koyie-Sw-Xjkb7-RA08-Y8o-A.jpg",
           "title": "Business Analyst",
           "duration": "June 2023 - Present",
           "bullets": [
@@ -1355,7 +1353,7 @@ const highProfiles = [
         },
         {
           "company": "UT Austin McCombs School of Business",
-          "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQHj-0WlD8pHaA/company-logo_100_100/company-logo_100_100/0/1630648561495/department_of_computer_science_the_university_of_texas_at_austin_logo?e=1748476800&v=beta&t=nGIPh7kYMORzn7Be6IjckBylIA0VdQL0S9P6AiF3POo",
+          "companyLogo": "https://i.ibb.co/HpNd8bmg/department-of-computer-science-the-university-of-texas-at-austin-logo-e-1748476800-v-beta-t-n-GIPh7k.jpg",
           "title": "Student Consultant",
           "duration": "Jan 2022 - May 2023",
           "bullets": [
@@ -1366,7 +1364,7 @@ const highProfiles = [
         },
         {
           "company": "Priority Marketing",
-          "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQHYBOulzObYpw/company-logo_100_100/company-logo_100_100/0/1680621595550/priority_marketing_logo?e=1748476800&v=beta&t=oUV2_mMhKTJDO8dpQ75vu9Me6iFafmiRYN2EUzAPivs",
+          "companyLogo": "https://i.ibb.co/JFMcVTLd/priority-marketing-logo-e-1748476800-v-beta-t-o-UV2-m-Mh-KTJDO8dp-Q75vu9-Me6i-Fafmi-RYN2-EUz-APivs.jpg",
           "title": "Marketing Intern",
           "duration": "June 2022 - August 2022",
           "bullets": [
@@ -1380,7 +1378,7 @@ const highProfiles = [
       "education": [
         {
           "school": "University of Texas at Austin",
-          "schoolLogo": "https://media.licdn.com/dms/image/v2/C560BAQHj-0WlD8pHaA/company-logo_100_100/company-logo_100_100/0/1630648561495/department_of_computer_science_the_university_of_texas_at_austin_logo?e=1748476800&v=beta&t=nGIPh7kYMORzn7Be6IjckBylIA0VdQL0S9P6AiF3POo",
+          "schoolLogo": "https://i.ibb.co/HpNd8bmg/department-of-computer-science-the-university-of-texas-at-austin-logo-e-1748476800-v-beta-t-n-GIPh7k.jpg",
           "degree": "BBA in Management",
           "duration": "2019 - 2023",
           "courses": [
@@ -1418,14 +1416,14 @@ const highProfiles = [
         {
           "name": "Certified Business Analysis Professional (CBAP)",
           "issuer": "International Institute of Business Analysis",
-          "issuerLogo": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-1/352539752_3899564327031353_2048081479970521616_n.png?_nc_cat=103&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=Vj35oHewkJ4Q7kNvgE-1osH&_nc_oc=AdhzRtRhZZd_wLAU8b1LB2R6fQvbN1WisgiXj3JhfjrKVq7D-gLJlJJ_-CDYwEpWq3UMzifBpw7kPzDfjMokSfF9&_nc_zt=24&_nc_ht=scontent-dfw5-1.xx&_nc_gid=AexYCP1RVpLrW87PYKCWEaZ&oh=00_AYDuvXBtqEIVhj4pC43JBi4fH6Q8t18H1Obnsm4i2N_gsw&oe=67C56398",
+          "issuerLogo": "https://i.ibb.co/d0GRgsbp/iiba-logo-e-1749686400-v-beta-t-Xyvwo-JSIzj-ZUj-ERSrpjv-WQEr-IRx-Vb0-B2-L7-Hu-D1-K2-JJs.jpg",
           "issueDate": "2024"
         }
       ],
       "volunteering": [
         {
           "company": "Austin Habitat for Humanity",
-          "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQEBuZANgRsdRA/company-logo_100_100/company-logo_100_100/0/1715969840068/austin_habitat_for_humanity_logo?e=1748476800&v=beta&t=yEHgMII87w_XQ1zM5SSj1IXjCajEcwtOKQ_pw8BoN1w",
+          "companyLogo": "https://i.ibb.co/Mx0MnrFZ/austin-habitat-for-humanity-logo-e-1748476800-v-beta-t-y-EHg-MII87w-XQ1z-M5-SSj1-IXj-Caj-Ecwt-OKQ-pw.jpg",
           "title": "Volunteer Coordinator",
           "duration": "2021 - Present",
           "bullets": [
@@ -1443,12 +1441,12 @@ const highProfiles = [
       "location": "Waco, Texas, United States",
       "connections": 150,
       "profilePic": "https://i.ibb.co/fzxxmntF/Megan.jpg",
-      "backgroundPic": "https://media.licdn.com/dms/image/v2/C4D16AQFPGjwzAr7QjA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1624004951937?e=1746057600&v=beta&t=fo-5ZdEdjy5JX9wtkh2QWMMbXI8TQGzf7MNC-1IsEJ8",
+      "backgroundPic": "https://i.ibb.co/XfgfLfsk/g.jpg",
       "about": "Results-oriented marketing analyst with a Bachelor of Business Administration in Management from Baylor University, recognized for driving impactful marketing strategies at Google. Successfully led a project that increased user engagement by 30% through data-driven insights and innovative campaign designs. Demonstrated expertise in project management by coordinating cross-functional teams to launch five major marketing initiatives, resulting in a 25% boost in digital platform interactions. Committed to community engagement, I have organized outreach programs that raised awareness about social issues, reflecting my dedication to making a positive impact. Eager to leverage my analytical skills and proven track record in dynamic business environments to foster growth and innovation.",
       "experience": [  
         {
           "company": "Google",
-          "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_100_100/company-logo_100_100/0/1631311446380?e=1748476800&v=beta&t=XpG5OuBsXyFLAGGsTkRmwqsl4HlNw6hdRxthqm0eI5k",
+          "companyLogo": "https://i.ibb.co/PsbkNR1b/1631311446380-e-1748476800-v-beta-t-Xp-G5-Ou-Bs-Xy-FLAGGs-Tk-Rmwqsl4-Hl-Nw6hd-Rxthqm0e-I5k.jpg",
           "title": "Marketing Analyst",
           "duration": "Jan 2023 - Present",
           "bullets": [
@@ -1459,7 +1457,7 @@ const highProfiles = [
         },
         {
           "company": "Baylor University",
-          "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQF3xVYhJ9wlNg/company-logo_100_100/company-logo_100_100/0/1630603832938/baylor_university_logo?e=1748476800&v=beta&t=XwGqdS6NLhHAnIF1iwoMRRcHNCkk2Ddgx5WYeVj2ohY",
+          "companyLogo": "https://i.ibb.co/6RG6zstk/baylor-university-logo-e-1748476800-v-beta-t-Xw-Gqd-S6-NLh-HAn-IF1iwo-MRRc-HNCkk2-Ddgx5-WYe-Vj2oh-Y.jpg",
           "title": "Teaching Assistant",
           "duration": "Sep 2022 - Dec 2022",
           "bullets": [
@@ -1470,7 +1468,7 @@ const highProfiles = [
         },
         {
           "company": "Deloitte",
-          "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQGNtpblgQpJoQ/company-logo_100_100/company-logo_100_100/0/1662120928214/deloitte_logo?e=1748476800&v=beta&t=t5QGTriClXmjU9rlcPjvB9oKoyieSwXjkb7RA08Y8oA",
+          "companyLogo": "https://i.ibb.co/JjF472GL/deloitte-logo-e-1748476800-v-beta-t-t5-QGTri-Cl-Xmj-U9rlc-Pjv-B9o-Koyie-Sw-Xjkb7-RA08-Y8o-A.jpg",
           "title": "Intern",
           "duration": "Jun 2022 - Aug 2022",
           "bullets": [
@@ -1483,7 +1481,7 @@ const highProfiles = [
       "education": [
         {
           "school": "Baylor University",
-          "schoolLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQF3xVYhJ9wlNg/company-logo_100_100/company-logo_100_100/0/1630603832938/baylor_university_logo?e=1748476800&v=beta&t=XwGqdS6NLhHAnIF1iwoMRRcHNCkk2Ddgx5WYeVj2ohY",
+          "schoolLogo": "https://i.ibb.co/6RG6zstk/baylor-university-logo-e-1748476800-v-beta-t-Xw-Gqd-S6-NLh-HAn-IF1iwo-MRRc-HNCkk2-Ddgx5-WYe-Vj2oh-Y.jpg",
           "degree": "BBA in Management",
           "duration": "2019 - 2023",
           "courses": [
@@ -1518,13 +1516,13 @@ const highProfiles = [
           "name": "Certified Associate in Project Management (CAPM)",
           "issuer": "Project Management Institute",
           "issueDate": "2023",
-          "issuerLogo": "https://media.licdn.com/dms/image/v2/D560BAQGBUnG7d24FmQ/company-logo_100_100/company-logo_100_100/0/1683043765295?e=1748476800&v=beta&t=QPwXlpoDM83RRsh7m_9K60VV2Ek3FmdAgMZAqqk5UPg"
+          "issuerLogo": "https://i.ibb.co/6MjXgx7/1683043765295-e-1748476800-v-beta-t-QPw-Xlpo-DM83-RRsh7m-9-K60-VV2-Ek3-Fmd-Ag-MZAqqk5-UPg.jpg"
         }
       ],
       "volunteering": [
         {
           "company": "Baylor University Community Service",
-          "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQF3xVYhJ9wlNg/company-logo_100_100/company-logo_100_100/0/1630603832938/baylor_university_logo?e=1748476800&v=beta&t=XwGqdS6NLhHAnIF1iwoMRRcHNCkk2Ddgx5WYeVj2ohY",
+          "companyLogo": "https://i.ibb.co/6RG6zstk/baylor-university-logo-e-1748476800-v-beta-t-Xw-Gqd-S6-NLh-HAn-IF1iwo-MRRc-HNCkk2-Ddgx5-WYe-Vj2oh-Y.jpg",
           "title": "Volunteer Coordinator",
           "duration": "2021 - Present",
           "bullets": [
