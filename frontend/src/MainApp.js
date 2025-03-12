@@ -1,19 +1,25 @@
-import './App.css';
-
+import "./App.css";
+import { useEffect, useState, useRef } from 'react';
+import { useParams, useNavigate } from 'react-router-dom';
 import LinkedIn from './Components/LinkedIn.jsx';
 import Form from './Components/Form.jsx';
 import midProfileData from "./Profiles/midProfileData.jsx";
 import highProfileData from "./Profiles/highProfileData.jsx";
-import lowProfileData from "./Profiles/lowProfileData.jsx"; // Import low profile data
-
-import { useEffect, useState } from 'react';
-import { useParams, useNavigate } from 'react-router-dom';
+import lowProfileData from "./Profiles/lowProfileData.jsx";
 
 const MainApp = () => {
   const { userId } = useParams();
   const navigate = useNavigate();
-  const [activeProfile, setActiveProfile] = useState(0);
-  const [profileSequence, setProfileSequence] = useState([]);
+  const leftPaneRef = useRef(null);
+  const rightPaneRef = useRef(null);
+  const [activeProfile, setActiveProfile] = useState(() => {
+    const storedActiveProfile = sessionStorage.getItem('activeProfile');
+    return storedActiveProfile ? parseInt(storedActiveProfile) : 0;
+  });
+  const [profileSequence, setProfileSequence] = useState(() => {
+    const storedSequence = sessionStorage.getItem('profileSequence');
+    return storedSequence ? JSON.parse(storedSequence) : [];
+  });
   const [userQuality, setUserQuality] = useState(null);
 
   useEffect(() => {
@@ -24,17 +30,19 @@ const MainApp = () => {
     }
     
     setUserQuality(userData.quality);
-    generateProfileSequence(userData.quality);
+    
+    if (profileSequence.length === 0) {
+      generateProfileSequence(userData.quality);
+    } else {
+      const storedActiveProfile = sessionStorage.getItem('activeProfile');
+      if (storedActiveProfile) {
+        setActiveProfile(parseInt(storedActiveProfile));
+      }
+    }
   }, []);
 
   const generateProfileSequence = (quality) => {
     let sequence = [];
-    const getRandomProfiles = (type, count) => {
-      const source = type === 'high' ? highProfileData :
-                     type === 'mid' ? midProfileData : lowProfileData;
-      return [...source].sort(() => 0.5 - Math.random()).slice(0, count);
-    };
-
     const getUniqueProfiles = (type, count) => {
       const source = type === 'high' ? highProfileData :
                      type === 'mid' ? midProfileData : lowProfileData;
@@ -43,59 +51,68 @@ const MainApp = () => {
     };
 
     switch(quality) {
-      case 1: // High quality
-        sequence = [
-          ...getUniqueProfiles('mid', 1),
-          ...getUniqueProfiles('high', 6),
-          ...getUniqueProfiles('mid', 1)
-        ];
+      case 1:
+        sequence = [...getUniqueProfiles('mid', 1), ...getUniqueProfiles('high', 6), ...getUniqueProfiles('mid', 1)];
         break;
-      case 2: // Mid quality
+      case 2:
         sequence = getUniqueProfiles('mid', 8);
         break;
-      case 3: // Low quality
-        sequence = [
-          ...getUniqueProfiles('mid', 1),
-          ...getUniqueProfiles('low', 6),
-          ...getUniqueProfiles('mid', 1)
-        ];
+      case 3:
+        sequence = [...getUniqueProfiles('mid', 1), ...getUniqueProfiles('low', 6), ...getUniqueProfiles('mid', 1)];
         break;
       default:
         navigate('/login');
     }
     
     setProfileSequence(sequence);
+    sessionStorage.setItem('profileSequence', JSON.stringify(sequence));
+  };
+
+  const scrollToTop = () => {
+    leftPaneRef.current?.scrollTo(0, 0);
+    rightPaneRef.current?.scrollTo(0, 0);
   };
 
   const handleSubmissionSuccess = () => {
     if (activeProfile < profileSequence.length - 1) {
-      setTimeout(() => setActiveProfile(prev => prev + 1), 2000);
+      setTimeout(() => {
+        setActiveProfile(prev => {
+          const newProfile = prev + 1;
+          sessionStorage.setItem('activeProfile', newProfile);
+          scrollToTop();
+          return newProfile;
+        });
+      }, 2000);
     } else {
-      alert('All profiles submitted!');
+      sessionStorage.removeItem('profileSequence');
+      sessionStorage.removeItem('activeProfile');
+      navigate('/thank-you', { replace: true });
     }
   };
 
-  if (!profileSequence.length) return <div>Loading profiles...</div>;
+  if (!profileSequence.length) return <div className="loading">Loading profiles...</div>;
 
   return (
     <div className="App">
-      <div className="profile-switcher">
+      <div className="progress-indicator">
         {profileSequence.map((_, index) => (
-          <button
+          <div 
             key={index}
-            className={`switch-btn ${index === activeProfile ? 'active' : ''}`}
-            disabled
+            className={`progress-dot ${
+              index < activeProfile ? 'completed' : 
+              index === activeProfile ? 'current' : ''
+            }`}
           >
-            {index + 1}
-          </button>
+            {index < activeProfile }
+          </div>
         ))}
       </div>
       
       <div className="split-view">
-        <div className="left-pane">
+        <div className="left-pane" ref={leftPaneRef}>
           <LinkedIn profileData={profileSequence[activeProfile]} />
         </div>
-        <div className="right-pane">
+        <div className="right-pane" ref={rightPaneRef}>
           <Form 
             profileData={profileSequence[activeProfile]}
             onSubmitSuccess={handleSubmissionSuccess}
