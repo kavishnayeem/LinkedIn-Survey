@@ -19,7 +19,10 @@ const Login = () => {
       if (!response.ok) throw new Error('Invalid passkey');
       
       const result = await response.json();
+      localStorage.setItem('valid', "true");
       localStorage.setItem('userData', JSON.stringify(result.user));
+      localStorage.setItem('quality', result.user.quality);
+
       navigate(`/app/${result.user.user_id}`);
       
     } catch (err) {
