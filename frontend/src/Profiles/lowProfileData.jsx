@@ -14,7 +14,7 @@ const lowProfileData = [
       {
         "company": "Texas Roadhouse",
         "title": "Server",
-        "companyLogo":"https://media.licdn.com/dms/image/v2/C510BAQHHwFoD1l664w/company-logo_100_100/company-logo_100_100/0/1631311482229?e=1749081600&v=beta&t=hJOuEpbVLOQ7hysPNTp7RmONdAV1nQUsiiWkwyarI_I",
+        "companyLogo":"https://i.ibb.co/mFFgxgmC/1631311482229-e-1749081600-v-beta-t-h-JOu-Epb-VLOQ7hys-PNTp7-Rm-ONd-AV1n-QUsii-Wkwyar-I-I.jpg",
         "duration": "Jun 2024 - Present",
         "bullets": [
           "Serve food and drinks to customers.",
@@ -43,7 +43,7 @@ const lowProfileData = [
     "education": [
       {
         "school": "Texas Southern University",
-        "schoolLogo":"https://media.licdn.com/dms/image/v2/C560BAQEmFw3muu01YA/company-logo_100_100/company-logo_100_100/0/1631300782341?e=1749081600&v=beta&t=YrscoC_jTsPQtfKnhQOUs-2BFCIg8uD_rEJa9lJQQDo",
+        "schoolLogo":"https://i.ibb.co/XZfV9FtV/1631300782341-e-1749081600-v-beta-t-Yrsco-C-j-Ts-PQtf-Knh-QOUs-2-BFCIg8u-D-r-EJa9l-JQQDo.jpg",
         "degree": "Bachelor's degree, Management",
         "duration": "Aug 2019 - Aug 2023"
       },
@@ -80,7 +80,7 @@ const lowProfileData = [
     "experience": [
       {
         "company": "Vector Marketing • Contract",
-        "companyLogo":"https://media.licdn.com/dms/image/v2/C4D0BAQEiffJLo1hovg/company-logo_100_100/company-logo_100_100/0/1630521333812/vector_marketing_logo?e=1749081600&v=beta&t=8Tu7iBLedpA5wMIPCWg1Ja4EhP7dqMdJ5GosPk3KaGw",
+        "companyLogo":"https://i.ibb.co/FZbh9fJ/vector-marketing-logo-e-1749081600-v-beta-t-8-Tu7i-BLedp-A5w-MIPCWg1-Ja4-Eh-P7dq-Md-J5-Gos-Pk3-Ka-Gw.jpg",
         "title": "Advanced Sales Representative",
         "duration": "May 2020 - Jun 2020",
         "bullets": [
@@ -92,13 +92,13 @@ const lowProfileData = [
     "education": [
       {
         "school": "Texas Southern University",
-        "schoolLogo":"https://media.licdn.com/dms/image/v2/C560BAQEmFw3muu01YA/company-logo_100_100/company-logo_100_100/0/1631300782341?e=1749081600&v=beta&t=YrscoC_jTsPQtfKnhQOUs-2BFCIg8uD_rEJa9lJQQDo",
+        "schoolLogo":"https://i.ibb.co/XZfV9FtV/1631300782341-e-1749081600-v-beta-t-Yrsco-C-j-Ts-PQtf-Knh-QOUs-2-BFCIg8u-D-r-EJa9l-JQQDo.jpg",
         "degree": "Bachelor's degree, Business Administration and Management",
         "duration": "Aug 2016 - Aug 2023"
       },
       {
         "school": "Texas State Technical College",
-        "schoolLogo":"https://media.licdn.com/dms/image/v2/C560BAQFu-8aRfoIgVQ/company-logo_100_100/company-logo_100_100/0/1675380870048/texas_state_technical_college_logo?e=1749081600&v=beta&t=ky6vXecLG0zX8JBR_NxVNEIABCvdv3wXHnLEScV8ess",
+        "schoolLogo":"https://i.ibb.co/h1csLZkR/texas-state-technical-college-logo-e-1749081600-v-beta-t-ky6v-Xec-LG0z-X8-JBR-Nx-VNEIABCvdv3w-XHn-LE.jpg",
         "degree": "Associate of Arts - AA, Art/Art Studies",
         "duration": "Aug 2012 - Aug 2016"
       }
@@ -123,7 +123,7 @@ const lowProfileData = [
     "location": "Plano, Texas, United States",
     "connections": 87,
     "profilePic": "https://i.ibb.co/fY6rB44j/John.jpg",
-    "backgroundPic":"https://media.licdn.com/dms/image/v2/D4E16AQHYDTpNBjx47A/profile-displaybackgroundimage-shrink_350_1400/B4EZTyCiflG0AY-/0/1739227539788?e=1746662400&v=beta&t=lRjr9sqQ39L6LwgbHZ2aOAOvCrlKO0dyOvTzysKGD1w",
+    "backgroundPic":"https://i.ibb.co/KpjWLkcD/paint.jpg",
     "about": "Experienced in painting, home remodeling, drywall repair, plumbing, and general handyman work. I take on all kinds of jobs, from small repairs to full remodels. Whether it’s patching drywall, fixing leaks, or painting a home, I always make sure the job is done right. I also do yard clean-ups, demo work, and odd jobs—no job is too small! If you need quality work done in Plano, Texas, give me a call. Hardworking and ready to get the job done!",
     "experience": [
       {
@@ -138,7 +138,7 @@ const lowProfileData = [
     "education": [
       {
         "school": "Collin College",
-        "schoolLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQG_efqBY8CI0g/company-logo_100_100/company-logo_100_100/0/1631307648514?e=1749081600&v=beta&t=CvusdCfMCdc3BwWdx5fw1sa7W44srXRmrLxBuym1-hI",
+        "schoolLogo": "https://i.ibb.co/Q3YkzNYL/1631307648514-e-1749081600-v-beta-t-Cvusd-Cf-MCdc3-Bw-Wdx5fw1sa7-W44sr-XRmr-Lx-Buym1-h-I.jpg",
         "degree": "Bachelor's degree, Management",
         "duration": "Aug 2019 - May 2023"
       }
@@ -175,12 +175,12 @@ const lowProfileData = [
     "location": "Corpus Christi, Texas, United States",
     "connections": 144,
     "profilePic": "https://i.ibb.co/9H0JD5W9/Lucas.jpg", // Placeholder for Profile Picture
-    "backgroundPic": "https://media.licdn.com/dms/image/v2/C4D1BAQFn_T4rzj56CA/company-background_10000/company-background_10000/0/1599844405652/highway_marketing_cover?e=1741651200&v=beta&t=5x3afDlRvgoRPYt0XlNpYNJe5FUdLwQT8ydBkCB7DRA", // Placeholder for Background Picture
+    "backgroundPic": "https://i.ibb.co/fYMsGBYk/beautiful-sun-rising-sky-asphalt-highways-road-rural-sce-scene-use-land-transport-traveling-backgrou.jpg", // Placeholder for Background Picture
     "about": "Recent Management Graduate eager to learn and grow in the fields of business and marketing.",
     "experience": [
       {
         "company": "Stripes Convenience Stores",
-        "companyLogo":"https://media.licdn.com/dms/image/v2/D560BAQHdKtCYCyHGng/company-logo_100_100/company-logo_100_100/0/1714496874415/stripesconveniencestores_logo?e=1749081600&v=beta&t=IHZPjKzFYUnX-uKeiMm-UtSeCShOLLuzjHljj1ycJWY",
+        "companyLogo":"https://i.ibb.co/jPXW2r66/stripes.jpg",
         "title": "Retail Associate",
         "duration": "Mar 2023 - Present",
         "bullets": [
@@ -215,7 +215,7 @@ const lowProfileData = [
     "education": [
       {
         "school": "Del Mar College",
-        "schoolLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQGOm599zcnISA/company-logo_100_100-alternative/company-logo_100_100-alternative/0/1630643733300/del_mar_college_logo?e=1749081600&v=beta&t=17pyB6cVyMGXA_QXJvmsCXhGKGNnhF7bH2KKRIxJqdw", // Placeholder for School Logo
+        "schoolLogo": "https://i.ibb.co/vvq4sDJq/del-mar-college-logo-e-1749081600-v-beta-t-17py-B6c-Vy-MGXA-QXJvms-CXh-GKGNnh-F7b-H2-KKRIx-Jqdw.jpg", // Placeholder for School Logo
         "degree": "Bachelor's degree, Management",
         "duration": "Jan 2020 - Dec 2023"
       }
@@ -243,12 +243,12 @@ const lowProfileData = [
     "location": "Houston, Texas, United States",
     "connections": 98,
 
-    "backgroundPic": "https://media.licdn.com/dms/image/v2/C561BAQHPOyIr-zra9g/company-background_10000/company-background_10000/0/1595960265866/tamuct_coba_cover?e=1741651200&v=beta&t=aIa66A59fTTVYyF4DXOYPBbNvroS15dAXgAxtO38kXY",
+    "backgroundPic": "https://i.ibb.co/mr4RbDB8/inscription-risk-management-on-abstract-double-exposure-business-mixed-media-background-photo.jpg",
     "about": "Aspiring Risk Management Analyst or Sports Management. Seeking professional experience in this field. Currently studying Business Management at Texas A&M University - Central Texas and have developed data analysis skills. Sports management minor. On Dean's List.",
     "experience": [
       {
         "company": "Fanatics • Freelance",
-        "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQHEcEUNWZeiNw/company-logo_100_100/company-logo_100_100/0/1677183216422/fanatics_inc__logo?e=1749081600&v=beta&t=m9QPsXMLYZFCf9vlZa0_Kgk867JnFSPmkIAx9XoQBQE",
+        "companyLogo": "https://i.ibb.co/mrLYHdPf/fanatics-inc-logo-e-1749081600-v-beta-t-m9-QPs-XMLYZFCf9vl-Za0-Kgk867-Jn-FSPmk-IAx9-Xo-QBQE.jpg",
         "title": "Independent Contractor",
         "duration": "Jan 2022 - Jan 2022",
         "bullets": [
@@ -260,14 +260,14 @@ const lowProfileData = [
     "education": [
       {
         "school": "Texas A&M University–Central Texas",
-        "schoolLogo": "https://media.licdn.com/dms/image/v2/C510BAQFzZGRsauw2rQ/company-logo_100_100/company-logo_100_100/0/1630626610515/texas_am_universitycentral_texas_logo?e=1749081600&v=beta&t=55P-ft3ceIXpTMpr7rFuTNav8hVevDpj-rAmX5fjeRI",
+        "schoolLogo": "https://i.ibb.co/bRJZWZhN/texas-am-universitycentral-texas-logo-e-1749081600-v-beta-t-55-P-ft3ce-IXp-TMpr7r-Fu-TNav8h-Vev-Dpj.jpg",
         "degree": "Bachelor's degree, Business Administration and Management, General",
         "duration": "May 2024",
         "activities": "Activities and societies: Baseball"
       },
       {
         "school": "Texas A&M University–Central Texas",
-        "schoolLogo": "https://media.licdn.com/dms/image/v2/C510BAQFzZGRsauw2rQ/company-logo_100_100/company-logo_100_100/0/1630626610515/texas_am_universitycentral_texas_logo?e=1749081600&v=beta&t=55P-ft3ceIXpTMpr7rFuTNav8hVevDpj-rAmX5fjeRI",
+        "schoolLogo": "https://i.ibb.co/bRJZWZhN/texas-am-universitycentral-texas-logo-e-1749081600-v-beta-t-55-P-ft3ce-IXp-TMpr7r-Fu-TNav8h-Vev-Dpj.jpg",
         "degree": "Associate of Arts - AA, Business Administration and Management, General",
         "duration": "Aug 2020 - Dec 2021"
       }
@@ -293,12 +293,12 @@ const lowProfileData = [
     "headline": "Eager to Start My Career in Business Management - Bachelor's degree in Management from Texas A&M University–Central Texas",
     "location": "Killeen, Texas, United States",
     "connections": 56,
-    "backgroundPic": "https://media.sproutsocial.com/uploads/LinkedIn-Personal3B-Design.jpg",
+    "backgroundPic": "https://i.ibb.co/zT2fQK81/Linked-In-Personal3-B-Design.jpg",
     "about": "Recent graduate from Texas A&M University - Central Texas. Eager to gain experience in the business field. Currently seeking entry-level positions.",
     "experience": [
       {
         "company": "Starbucks",
-        "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQEQxk9y2rk7Hw/company-logo_100_100/company-logo_100_100/0/1631316692276?e=1749081600&v=beta&t=l2z-3jGl3YhlU4MiMfQLkhNrIvlkDAoIUczM1RKbxT4",
+        "companyLogo": "https://i.ibb.co/Hf2cwv57/1631316692276-e-1749081600-v-beta-t-l2z-3j-Gl3-Yhl-U4-Mi-Mf-QLkh-Nr-Ivlk-DAo-IUcz-M1-RKbx-T4.jpg",
         "title": "Barista",
         "duration": "Jun 2022 - Aug 2022",
         "bullets": [
@@ -308,7 +308,7 @@ const lowProfileData = [
       },
       {
         "company": "McDonald's",
-        "companyLogo": "https://media.licdn.com/dms/image/v2/C510BAQF7QUwHNmpnyA/company-logo_100_100/company-logo_100_100/0/1630633117296/golden_arches_development_corp_logo?e=1749081600&v=beta&t=KQ0dGi7hWwsUJg4V3ighsivlPYalE_rvb7jbrjINGWU",
+        "companyLogo": "https://i.ibb.co/VYSSwkXm/golden-arches-development-corp-logo-e-1749081600-v-beta-t-KQ0d-Gi7h-Wws-UJg4-V3ighsivl-PYal-E-rvb7jb.jpg",
         "title": "Crew Member",
         "duration": "Jan 2021 - May 2021",
         "bullets": [
@@ -320,7 +320,7 @@ const lowProfileData = [
     "education": [
       {
         "school": "Texas A&M University–Central Texas",
-        "schoolLogo": "https://media.licdn.com/dms/image/v2/C510BAQFzZGRsauw2rQ/company-logo_100_100/company-logo_100_100/0/1630626610515/texas_am_universitycentral_texas_logo?e=1749081600&v=beta&t=55P-ft3ceIXpTMpr7rFuTNav8hVevDpj-rAmX5fjeRI",
+        "schoolLogo": "https://i.ibb.co/bRJZWZhN/texas-am-universitycentral-texas-logo-e-1749081600-v-beta-t-55-P-ft3ce-IXp-TMpr7r-Fu-TNav8h-Vev-Dpj.jpg",
         "degree": "Bachelor's degree, Management",
         "duration": "May 2024"
       }
@@ -366,14 +366,14 @@ const lowProfileData = [
     "education": [
       {
         "school": "Collin College",
-        "schoolLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQG_efqBY8CI0g/company-logo_100_100/company-logo_100_100/0/1631307648514?e=1749081600&v=beta&t=CvusdCfMCdc3BwWdx5fw1sa7W44srXRmrLxBuym1-hI",
+        "schoolLogo": "https://i.ibb.co/Q3YkzNYL/1631307648514-e-1749081600-v-beta-t-Cvusd-Cf-MCdc3-Bw-Wdx5fw1sa7-W44sr-XRmr-Lx-Buym1-h-I.jpg",
         "degree": "Bachelor's degree, Management",
         "duration": "Jan 2023 - May 2025",
         "activities": "Club: Young Investors Club"
       },
       {
         "school": "Valencia College",
-        "schoolLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQFVx6cj0kTirA/company-logo_100_100/company-logo_100_100/0/1630526766922/valencia_college_logo?e=1749081600&v=beta&t=7WaykVZAT1Nxpbx3zu5ik9fyvMw0b9LIZeP3GWKDBck",
+        "schoolLogo": "https://i.ibb.co/qLNC61W9/valencia-college-logo-e-1749081600-v-beta-t-7-Wayk-VZAT1-Nxpbx3zu5ik9fyv-Mw0b9-LIZe-P3-GWKDBck.jpg",
         "degree": "Associate of Arts - AA, Business Administration and Management, General",
         "duration": "Jun 2021 - Dec 2022",
         "achievements": "Listed on the dean's list and president's list. Graduated with a GPA of 3.75."
@@ -401,7 +401,7 @@ const lowProfileData = [
     "name": "Sarah Harrington",
     "opentowork": "Yes",
     "profilePic": "https://i.ibb.co/BHTXqYxK/Default-PP.png",
-    "backgroundPic": "https://media.sproutsocial.com/uploads/2c-LinkedIn-Banner-Personal-design-1.png",
+    "backgroundPic": "https://i.ibb.co/VcDbsSFP/2c-Linked-In-Banner-Personal-design-1.png",
     "headline": "Business Management Graduate From TSU | Former Administration Assistant Intern at Nora Mental Health Care | Aspiring Management Professional",
     "location": "Corpus Christi, Texas, United States",
     "connections": 127,
@@ -409,7 +409,7 @@ const lowProfileData = [
     "experience": [
       {
         "company": "Nora Mental Health",
-        "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQGPcRhl1HRWbg/company-logo_100_100/company-logo_100_100/0/1731011589120?e=1749081600&v=beta&t=gGstaUH64LNP_yVT-dVK1y1Aj8D98_-3Yhqv_waXZm8",
+        "companyLogo": "https://i.ibb.co/ZpFrPgtH/nnora.jpg",
         "title": "Administrative Assistant Intern",
         "duration": "Jun 2024 - Present",
         "bullets": [
@@ -420,7 +420,7 @@ const lowProfileData = [
       },
       {
         "company": "Texas Southern University",
-        "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQEmFw3muu01YA/company-logo_100_100/company-logo_100_100/0/1631300782341?e=1749081600&v=beta&t=YrscoC_jTsPQtfKnhQOUs-2BFCIg8uD_rEJa9lJQQDo",
+        "companyLogo":"https://i.ibb.co/XZfV9FtV/1631300782341-e-1749081600-v-beta-t-Yrsco-C-j-Ts-PQtf-Knh-QOUs-2-BFCIg8u-D-r-EJa9l-JQQDo.jpg",
         "title": "Undergraduate Student",
         "duration": "Aug 2019 - Present",
         "bullets": [
@@ -433,7 +433,7 @@ const lowProfileData = [
     "education": [
       {
         "school": "Texas Southern University",
-        "schoolLogo": "https://media.licdn.com/dms/image/v2/C560BAQEmFw3muu01YA/company-logo_100_100/company-logo_100_100/0/1631300782341?e=1749081600&v=beta&t=YrscoC_jTsPQtfKnhQOUs-2BFCIg8uD_rEJa9lJQQDo",
+        "schoolLogo":"https://i.ibb.co/XZfV9FtV/1631300782341-e-1749081600-v-beta-t-Yrsco-C-j-Ts-PQtf-Knh-QOUs-2-BFCIg8u-D-r-EJa9l-JQQDo.jpg",
         "degree": "Bachelor's degree, Management",
         "duration": "Aug 2021 - Aug 2024",
         "grade": "Senior"
@@ -451,7 +451,7 @@ const lowProfileData = [
     "name": "Rachel Waverly",
     "opentowork": "Yes",
     "profilePic": "https://i.ibb.co/BHTXqYxK/Default-PP.png",
-    "backgroundPic": "https://media.licdn.com/dms/image/v2/D4E16AQFiZiwAKjJ0Kw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739225427062?e=1746662400&v=beta&t=cFas-o-nrSCNpabFvw_N1ObAihIvS38jUb01SmHvqyc",
+    "backgroundPic": "https://i.ibb.co/fYTWNm7n/bg4.jpg",
     "headline": "Student at Texas Southern University",
     "location": "Houston, Texas, United States",
     "connections": 144,
@@ -468,7 +468,7 @@ const lowProfileData = [
       },
       {
         "company": "KemKids Dance Studio",
-        "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQEhN5X9YgcwUg/company-logo_100_100/company-logo_100_100/0/1715311241539?e=1749081600&v=beta&t=2yPtotivfMu83-MsNKxg8CaAeYyNIpuYNBFEMalYHaE", // Placeholder for Company Logo
+        "companyLogo": "https://i.ibb.co/JwbxRnrk/1715311241539-e-1749081600-v-beta-t-2y-Ptotivf-Mu83-Ms-NKxg8-Ca-Ae-Yy-NIpu-YNBFEMal-YHa-E.jpg", // Placeholder for Company Logo
         "title": "Dance Instructor",
         "duration": "Aug 2019 - May 2021",
         "bullets": [
@@ -481,7 +481,7 @@ const lowProfileData = [
     "education": [
       {
         "school": "Texas Southern University",
-        "schoolLogo": "https://media.licdn.com/dms/image/v2/C560BAQEmFw3muu01YA/company-logo_100_100/company-logo_100_100/0/1631300782341?e=1749081600&v=beta&t=YrscoC_jTsPQtfKnhQOUs-2BFCIg8uD_rEJa9lJQQDo",
+        "schoolLogo":"https://i.ibb.co/XZfV9FtV/1631300782341-e-1749081600-v-beta-t-Yrsco-C-j-Ts-PQtf-Knh-QOUs-2-BFCIg8u-D-r-EJa9l-JQQDo.jpg",
         "degree": "Bachelor's degree, Management",
         "duration": "Jun 2020 - May 2024",
         "grade": "4th Year",
@@ -511,12 +511,12 @@ const lowProfileData = [
     "location": "Corpus Christi, Texas, United States",
     "connections": 120,
     "profilePic": "https://i.ibb.co/Z1KLL9WC/Brooke.jpg",
-    "backgroundPic": "https://media.sproutsocial.com/uploads/1c-LinkedIn-Banner-Personal-design-1.png",
+    "backgroundPic": "https://i.ibb.co/FqcSqtkj/1c-Linked-In-Banner-Personal-design-1.png",
     "about": "I am a recent graduate from Del Mar College with a degree in Business Administration. I have a strong background in customer service and sales, and I am passionate about helping customers find the right solutions for their needs. I am eager to apply my skills in a dynamic work environment and continue to grow professionally.",
     "experience": [
       {
         "company": "Walmart",
-        "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQHZkPdlecGssw/company-logo_100_100/company-logo_100_100/0/1736779000209/walmart_logo?e=1749081600&v=beta&t=SfYGHpPDaTN9uF_tiOk4rviNV9rTBWfyVp4a4YC5OKk",
+        "companyLogo": "https://i.ibb.co/nMXdN9gw/walmart-logo-e-1749081600-v-beta-t-Sf-YGHp-PDa-TN9u-F-ti-Ok4rvi-NV9r-TBWfy-Vp4a4-YC5-OKk.jpg",
         "title": "Sales Assistant",
         "duration": "Jun 2022 - Present",
         "bullets": [
@@ -527,7 +527,7 @@ const lowProfileData = [
       },
       {
         "company": "Starbucks",
-        "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQEQxk9y2rk7Hw/company-logo_100_100/company-logo_100_100/0/1631316692276?e=1749081600&v=beta&t=l2z-3jGl3YhlU4MiMfQLkhNrIvlkDAoIUczM1RKbxT4",
+        "companyLogo": "https://i.ibb.co/Hf2cwv57/1631316692276-e-1749081600-v-beta-t-l2z-3j-Gl3-Yhl-U4-Mi-Mf-QLkh-Nr-Ivlk-DAo-IUcz-M1-RKbx-T4.jpg",
         "title": "Barista",
         "duration": "Jan 2021 - May 2022",
         "bullets": [
@@ -540,7 +540,7 @@ const lowProfileData = [
     "education": [
       {
         "school": "Del Mar College",
-        "schoolLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQGOm599zcnISA/company-logo_100_100-alternative/company-logo_100_100-alternative/0/1630643733300/del_mar_college_logo?e=1749081600&v=beta&t=17pyB6cVyMGXA_QXJvmsCXhGKGNnhF7bH2KKRIxJqdw",
+        "schoolLogo": "https://i.ibb.co/vvq4sDJq/del-mar-college-logo-e-1749081600-v-beta-t-17py-B6c-Vy-MGXA-QXJvms-CXh-GKGNnh-F7b-H2-KKRIx-Jqdw.jpg", // Placeholder for School Logo
         "degree": "Bachelor's degree, Management",
         "duration": "2019 - 2023"
       }
@@ -562,12 +562,12 @@ const lowProfileData = [
     "location": "San Antonio, Texas, United States",
     "connections": 50,
     "profilePic": "https://i.ibb.co/BHTXqYxK/Default-PP.png",
-    "backgroundPic": "https://media.sproutsocial.com/uploads/LinkedIn-Personal1D-Design.jpg", // Placeholder for Background Picture
+    "backgroundPic": "https://i.ibb.co/93WJYCSH/Linked-In-Personal1-D-Design.jpg", // Placeholder for Background Picture
     "about": "I am a recent graduate from Collin College with a Bachelor's degree in Management. I have a strong interest in business development and customer relations, and I am eager to apply my skills in a professional setting.",
     "experience": [
       {
         "company": "Target",
-        "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQGUjozudTh0yg/company-logo_100_100/company-logo_100_100/0/1631307593526?e=1748476800&v=beta&t=w0gmQEdfQtZ-5pMmj5rSF6IwZYrY2BoCILl8uXEOfqg",
+        "companyLogo": "https://i.ibb.co/jkYt9FVv/1631307593526-e-1748476800-v-beta-t-w0gm-QEdf-Qt-Z-5p-Mmj5r-SF6-Iw-ZYr-Y2-Bo-CILl8u-XEOfqg.jpg",
         "title": "Sales Associate",
         "duration": "Jun 2022 - Present",
         "bullets": [
@@ -578,7 +578,7 @@ const lowProfileData = [
       },
       {
         "company": "Chick-fil-A",
-        "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQFp7YtVucYbXQ/company-logo_100_100/company-logo_100_100/0/1631324166255?e=1749081600&v=beta&t=_bSFhfBSMKPBOoCuyBXoAlAsfuVjZUMuWwHelnm-ssk",
+        "companyLogo": "https://i.ibb.co/mC7k6tDz/1631324166255-e-1749081600-v-beta-t-b-SFhf-BSMKPBOo-Cuy-BXo-Al-Asfu-Vj-ZUMu-Ww-Helnm-ssk.jpg",
         "title": "Team Member",
         "duration": "Jan 2021 - May 2022",
         "bullets": [
@@ -591,7 +591,7 @@ const lowProfileData = [
     "education": [
       {
         "school": "Collin College",
-        "schoolLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQG_efqBY8CI0g/company-logo_100_100/company-logo_100_100/0/1631307648514?e=1749081600&v=beta&t=CvusdCfMCdc3BwWdx5fw1sa7W44srXRmrLxBuym1-hI",
+        "schoolLogo": "https://i.ibb.co/Q3YkzNYL/1631307648514-e-1749081600-v-beta-t-Cvusd-Cf-MCdc3-Bw-Wdx5fw1sa7-W44sr-XRmr-Lx-Buym1-h-I.jpg",
         "degree": "Bachelor's degree in Management",
         "duration": "2021 - 2023"
       }
@@ -612,12 +612,12 @@ const lowProfileData = [
     "location": "Corpus Christi, Texas, United States",
     "connections": 30,
     "profilePic": "https://i.ibb.co/BHTXqYxK/Default-PP.png",
-    "backgroundPic": "https://media.sproutsocial.com/uploads/1F-LinkedIn-Personal-Design.png",
+    "backgroundPic": "https://i.ibb.co/C3wZkLVX/1-F-Linked-In-Personal-Design.png",
     "about": "I am a recent graduate from Del Mar College with a Bachelor's degree in Management. I am passionate about customer service and eager to contribute to a dynamic team.",
     "experience": [
       {
         "company": "Walmart",
-        "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQHZkPdlecGssw/company-logo_100_100/company-logo_100_100/0/1736779000209/walmart_logo?e=1749081600&v=beta&t=SfYGHpPDaTN9uF_tiOk4rviNV9rTBWfyVp4a4YC5OKk",
+        "companyLogo": "https://i.ibb.co/nMXdN9gw/walmart-logo-e-1749081600-v-beta-t-Sf-YGHp-PDa-TN9u-F-ti-Ok4rvi-NV9r-TBWfy-Vp4a4-YC5-OKk.jpg",
         "title": "Customer Service Associate",
         "duration": "Aug 2022 - Present",
         "bullets": [
@@ -630,7 +630,7 @@ const lowProfileData = [
     "education": [
       {
         "school": "Del Mar College",
-        "schoolLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQG_efqBY8CI0g/company-logo_100_100/company-logo_100_100/0/1631307648514?e=1749081600&v=beta&t=CvusdCfMCdc3BwWdx5fw1sa7W44srXRmrLxBuym1-hI",
+        "schoolLogo": "https://i.ibb.co/vvq4sDJq/del-mar-college-logo-e-1749081600-v-beta-t-17py-B6c-Vy-MGXA-QXJvms-CXh-GKGNnh-F7b-H2-KKRIx-Jqdw.jpg", // Placeholder for School Logo
         "degree": "Bachelor's degree in Management",
         "duration": "2020 - 2024"
       }
