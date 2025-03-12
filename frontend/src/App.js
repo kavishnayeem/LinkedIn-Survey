@@ -1,92 +1,21 @@
-import './App.css';
-import { useState } from 'react';
-import LinkedIn from './Components/LinkedIn';
-import Form from './Components/Form.jsx';
-import midProfileData from "./Profiles/midProfileData.jsx";
-import highProfileData from "./Profiles/highProfileData.jsx";
-import lowProfileData from "./Profiles/lowProfileData.jsx"; // Import low profile data
+import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
+import Login from './Login';
+import ProtectedRoute from './ProtectedRoute';
+import MainApp from './MainApp';
 
-function App() {
-  const [activeProfile, setActiveProfile] = useState(0);
-  const [profileData, setProfileData] = useState(null); // Start with no profile selected
-  const [submittedProfiles, setSubmittedProfiles] = useState(new Set());
-
-  const handleSubmissionSuccess = () => {
-    // Add current profile to submitted set
-    //setSubmittedProfiles(prev => new Set([...prev, profileData[activeProfile].id]));
-    // Disable the current profile after submission
-    setProfileData(prevData => 
-      prevData.map((profile, index) => 
-        index === activeProfile ? { ...profile, disabled: true } : profile
-      )
-    );
-  };
-
+function MainRouter() {
   return (
-    <div className="App">
-      <div className="profile-switcher">
-        {!profileData ? (
-          // Show profile type selector initially
-          <>
-            <button
-              onClick={() => {
-                setProfileData(lowProfileData); // Add low profile data option
-                setActiveProfile(0);
-              }}
-              className="switch-btn"
-            >
-              Low Profiles
-            </button>
-            <button
-              onClick={() => {
-                setProfileData(midProfileData);
-                setActiveProfile(0);
-              }}
-              className="switch-btn"
-            >
-              Mid Profiles
-            </button>
-            <button
-              onClick={() => {
-                setProfileData(highProfileData);
-                setActiveProfile(0);
-              }}
-              className="switch-btn"
-            >
-              High Profiles
-            </button>
-
-          </>
-        ) : (
-          // Show profile numbers after type selection
-          profileData.map((_, index) => (
-            <button
-              key={index}
-              onClick={() => setActiveProfile(index)}
-              className={`switch-btn ${index === activeProfile ? 'active' : ''}`}
-            >
-              {index + 1}
-            </button>
-          ))
-        )}
-      </div>
-      
-      {profileData && (
-        <div className="split-view">
-          <div className="left-pane">
-            <LinkedIn profileData={profileData[activeProfile]} />
-          </div>
-          <div className="right-pane">
-            <Form 
-              profileData={profileData[activeProfile]}
-              onSubmitSuccess={handleSubmissionSuccess}
-              isSubmitted={submittedProfiles.has(profileData[activeProfile].id)}
-            />
-          </div>
-        </div>
-      )}
-    </div>
+    <Router>
+      <Routes>
+        <Route path="/login" element={<Login />} />
+        <Route element={<ProtectedRoute />}>
+          {/* Corrected path with colon for dynamic parameter */}
+          <Route path="/app/:userId" element={<MainApp />} />
+        </Route>
+        <Route path="*" element={<Navigate to="/login" replace />} />
+      </Routes>
+    </Router>
   );
 }
 
-export default App;
+export default MainRouter;

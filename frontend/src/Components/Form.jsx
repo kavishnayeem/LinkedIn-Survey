@@ -43,20 +43,41 @@ class Form extends React.Component {
     }));
   };
 
+  showAlert = (message) => {
+    // Function to display alert in HTML format
+    const alertContainer = document.createElement('div');
+    alertContainer.className = 'alert';
+    alertContainer.innerHTML = message;
+    document.body.appendChild(alertContainer);
+    setTimeout(() => {
+      document.body.removeChild(alertContainer);
+    }, 3000); // Remove alert after 3 seconds
+  };
+
   handleSubmit = async (event) => {
     event.preventDefault();
     if (this.props.isSubmitted) return;
   
+    // Calculate quality based on responses (you can adjust the logic as needed)
+    const quality = Object.values(this.state.responses).reduce((a, b) => a + b, 0) / Object.values(this.state.responses).length;
+
+    // Retrieve quality from local storage
+    const storedQuality = localStorage.getItem('quality');
+
     try {
-      const response = await fetch('http://localhost:5000/api/submit', { // Changed endpoint
+      const response = await fetch('http://localhost:5000/api/submit', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
         },
+        
         body: JSON.stringify({
-          userId: '23918a46',
+          userId: this.props.userId,
           profileId: this.props.profileData.id,
-          responses: this.state.responses
+          responses: {
+            ...this.state.responses,
+            quality: storedQuality ? parseInt(storedQuality) : quality // Use stored quality if available
+          }
         }),
       });
   
@@ -70,10 +91,10 @@ class Form extends React.Component {
       if (this.props.onSubmitSuccess) {
         this.props.onSubmitSuccess();
       }
-      alert("Form submitted successfully!");
+      this.showAlert("Form submitted successfully!");
     } catch (error) {
       console.error('Submission error:', error);
-      alert(error.message || 'Failed to submit. Please try again.');
+      this.showAlert(error.message || 'Failed to submit. Please try again.');
     }
   };
 

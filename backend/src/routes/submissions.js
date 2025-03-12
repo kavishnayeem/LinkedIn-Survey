@@ -4,38 +4,36 @@ import supabase from '../supabaseClient.js'
 const router = express.Router()
 
 router.post('/', async (req, res) => {
-    try {
-      const { userId, profileId, responses } = req.body;
+  try {
+    const { userId, profileId, responses } = req.body;
+    const userData = JSON.parse(localStorage.getItem('userData'));
+
+    // Check existing submission
+    const { count } = await supabase
+      .from('submissions')
+      .select('*', { count: 'exact' })
+      .eq('user_id', userId)
+      .eq('profile_id', profileId);
+
+    if (count > 0) return res.status(409).json({ error: 'Already submitted' });
+
+    // Insert new submission with quality
+    const { data, error } = await supabase
+      .from('submissions')
+      .insert([{
+        user_id: userId,
+        profile_id: profileId,
       
-      // Validate input
-      if (!userId || !profileId || !responses) {
-        return res.status(400).json({ error: 'Missing required fields' });
-      }
-  
-      // Insert submission
-      const { data, error } = await supabase
-        .from('submissions')
-        .insert([{
-          user_id: userId,
-          profile_id: profileId,
-          clarity: responses.clarity,
-          professionalism: responses.professionalism,
-          completeness: responses.completeness,
-          skills: responses.skills,
-          overall: responses.overall
-        }]);
-  
-      if (error) {
-        console.error('Supabase error:', error);
-        return res.status(400).json({ error: error.message });
-      }
-  
-      res.status(201).json(data[0]);
-      
-    } catch (error) {
-      console.error('Server error:', error);
-      res.status(500).json({ error: 'Internal server error' });
-    }
-  });
+        ...responses
+      }]);
+
+    if (error) throw error;
+    res.status(201).json(data[0]);
+    
+  } catch (error) {
+    console.error('Submission error:', error);
+    res.status(500).json({ error: 'Internal server error' });
+  }
+});
 
 export default router
