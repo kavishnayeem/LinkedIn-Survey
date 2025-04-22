@@ -8,9 +8,13 @@ dotenv.config();
 
 const app = express();
 
-// Set up CORS
+const allowedOrigins = [
+  'https://linkedin-survey.vercel.app',
+  'http://localhost:3000'
+];
+
 app.use(cors({
-  origin: 'https://linkedin-survey.vercel.app',
+  origin: allowedOrigins,
   methods: ['POST', 'GET'],
   credentials: true
 }));
