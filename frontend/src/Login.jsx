@@ -44,11 +44,7 @@ const Login = () => {
       <main className="content">
         <div className="hero-card">
           <div className="decorative-bar"></div>
-          <h2>Earn Extra Credit While Contributing to Research</h2>
-          <p className="highlight">
-            Participate in a Texas A&M University-Corpus Christi College of Business study 
-            on professional networking practices.
-          </p>
+          <h2>Enter Lab Passkey</h2>
           
           <form onSubmit={handleLogin} className="passkey-form">
             <input
@@ -64,21 +60,6 @@ const Login = () => {
           </form>
           
           {error && <p className="error">{error}</p>}
-
-          <div className="info-grid">
-            <div className="info-item">
-              <div className="icon">⏱️</div>
-              <p>Quick Session</p>
-            </div>
-            <div className="info-item">
-              <div className="icon">🔒</div>
-              <p>Confidential</p>
-            </div>
-            <div className="info-item">
-              <div className="icon">🎓</div>
-              <p>Extra Credit</p>
-            </div>
-          </div>
         </div>
       </main>
 

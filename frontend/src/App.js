@@ -11,7 +11,7 @@ function MainRouter() {
         <Route path="/login" element={<Login />} />
         <Route element={<ProtectedRoute />}>
           <Route path="/app/:userId" element={<MainApp />} />
-          <Route path="/thank-you" element={<ThankYou />} />
+          <Route path="/thank-you/:userId" element={<ThankYou />} />
         </Route>
         <Route path="*" element={<Navigate to="/login" replace />} />
       </Routes>

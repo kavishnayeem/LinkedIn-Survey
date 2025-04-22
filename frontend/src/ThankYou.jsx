@@ -1,9 +1,11 @@
 import React from 'react';
-import { useNavigate } from 'react-router-dom';
+import { useNavigate, useParams } from 'react-router-dom';
 import './ThankYou.css';
 
 const ThankYou = () => {
   const navigate = useNavigate();
+  const { userId } = useParams();
+  const surveyUrl = `https://qualtricsxm3p2n3c7vk.qualtrics.com/jfe/form/SV_eqHmsGXXAcEnnX8?userId=${userId}`;
 
   const handleLogout = () => {
     localStorage.removeItem('valid');
@@ -12,16 +14,15 @@ const ThankYou = () => {
   };
 
   return (
-    <div className="thank-you-container">
-      <div className="thank-you-card">
-        <div className="checkmark">✓</div>
-        <h1>Thank You for Participating!</h1>
-        <p>Your responses have been recorded successfully.</p>
-        <p>We appreciate your time and valuable feedback.</p>
-        <button onClick={handleLogout} className="logout-button">
-          Return to Login
-        </button>
-      </div>
+    <div className="thank-you-container" style={{ height: '100vh' }}>
+      <iframe
+        title="Qualtrics Survey"
+        src={surveyUrl}
+        width="100%"
+        height="100%"
+        style={{ border: 'none' }}
+        key={`${userId}`}
+      />
     </div>
   );
 };
