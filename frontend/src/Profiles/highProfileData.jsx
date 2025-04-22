@@ -4,7 +4,7 @@ const highProfiles = [
     "name": "William Preston",
     "headline": "E-Commerce Growth Strategist | Amazon Marketplace Expert | Digital Sales & Business Management",
     "location": "Houston, Texas, United States",
-    "connections": 327,
+    "connections": 123,
     "profilePic": "https://i.ibb.co/xSnnZwYh/William.jpg",
     "backgroundPic": "https://i.ibb.co/QFp6v8xK/4833-CD-Digital-Experience-Platforms-A-Heade-A-1.jpg",
     "about": "Passionate eCommerce business strategist with a strong track record in driving digital sales, marketplace optimization, and revenue growth. With years of hands-on experience in Amazon Vendor Central and Seller Central, I specialize in scaling online businesses through data-driven strategies, performance marketing, and customer retention techniques. My expertise spans across B2B and B2C sales, product positioning, and financial forecasting, allowing brands to maximize profitability in highly competitive online marketplaces.\n\nI have successfully managed multimillion-dollar eCommerce operations, led high-impact marketing campaigns, and negotiated vendor agreements that significantly boosted margins and sales performance. Skilled in leveraging analytics, SEO, and PPC advertising, I optimize digital storefronts to increase conversion rates and market share.\n\nBeyond eCommerce, I thrive in leadership roles, building cross-functional teams, and fostering strong relationships with stakeholders. My ability to align business objectives with market opportunities ensures long-term growth and sustained competitive advantage.\n\nOutside of work, I’m an avid traveler, having explored over 20 cities across three countries. I also enjoy outdoor activities, attending sporting events, and networking over a good cup of coffee. If you're interested in discussing business opportunities, digital sales strategies, or innovative ways to expand your brand’s presence, feel free to connect!",
@@ -12,7 +12,7 @@ const highProfiles = [
       {
         "company": "Clickstop, Inc.",
         "companyLogo": "https://i.ibb.co/bxh7PJz/cropped-cropped-cropped-cropped-cropped-Clickstop-Logo-Stacked-2-Cgray-RGB-191x144.png",
-        "title": "Amazon Marketplace Manager",
+        "title": "Amazon Marketplace ",
         "duration": "July 2023 - Present",
         "bullets": [
           "Developed and implemented strategies that increased sales on Amazon Marketplace by 30% within the first quarter of launch, resulting in a 15% boost in overall profitability.",
@@ -25,7 +25,7 @@ const highProfiles = [
       {
         "company": "The AMES Companies, Inc.",
         "companyLogo": "https://i.ibb.co/d4BQhP95/the-ames-companies-inc-logo-e-1748476800-v-beta-t-W3-SQ51-Yvtz-J1hdxwv-EJ5n-S-S9-7-Shz-AKp-J4h8ed-FC.jpg",
-        "title": "Ecommerce Retail Sales Manager",
+        "title": "Ecommerce Retail Sales Associate",
         "duration": "April 2021 - July 2023",
         "bullets": [
           "Led eCommerce sales operations, overseeing revenue streams exceeding $5 million annually across Amazon and other major platforms, resulting in a 25% year-over-year growth.",
@@ -38,7 +38,7 @@ const highProfiles = [
       {
         "company": "Bath Trends LLC",
         "companyLogo": "https://i.ibb.co/BVbdtzzS/245832.png",
-        "title": "Ecommerce Sales Manager",
+        "title": "Ecommerce Sales Associate",
         "duration": "January 2016 - March 2021",
         "bullets": [
           "Spearheaded the launch of a B2C eCommerce platform and B2B wholesale distribution network, achieving a 150% increase in online sales within the first year.",
@@ -154,7 +154,7 @@ const highProfiles = [
     "name": "Matthew Sterling",
     "headline": "Military Logistics Specialist | U.S. Army Ordnance Officer | Strategic Operations Leader",
     "location": "College Station, Texas, United States",
-    "connections": 327,
+    "connections": 144,
     "profilePic": "https://i.ibb.co/W1cDHL5/Matthew.jpg",
     "backgroundPic": "https://i.ibb.co/FQRV9tx/bg5.jpg",
     "about": "Dedicated U.S. Army Ordnance Officer with extensive experience in military logistics, transportation management, and operational strategy. I specialize in overseeing training areas, coordinating convoy missions, and optimizing ammunition forecasting to ensure mission readiness. With a strong background in maintenance operations and supply chain logistics, I have successfully managed multimillion-dollar assets and streamlined procurement processes, resulting in cost savings and increased operational efficiency. \n\nMy leadership experience spans from mentoring platoons to directing high-impact military exercises, always prioritizing the growth and preparedness of my teams. I am passionate about problem-solving, strategic planning, and fostering resilience among service members. Beyond my military career, I have a history of leadership in fitness training, education, and music, reflecting my commitment to personal and professional development.\n\nIf you're interested in discussing military logistics, strategic operations, or leadership development, let’s connect!",
@@ -378,7 +378,7 @@ const highProfiles = [
       "name": "Nathan Carrington",
       "headline": "Aspiring Foreign Diplomat | Founder & President of International Business Alliance | Study Abroad Advisor",
       "location": "Austin, Texas, United States",
-      "connections": 390,
+      "connections": 141,
       "profilePic": "https://i.ibb.co/0RQ8BLjR/Nathan.jpg", // Placeholder for profile picture
       "backgroundPic": "https://i.ibb.co/vrkv10T/c172d13967c87b0e1a175a20d9e53d3f.jpg", // Placeholder for background picture
       "about": "I am currently pursuing a bachelor's degree in Management with a minor in International Business at the University of Texas at Austin. I work at the College of Business as a study abroad advisor, assisting students interested in studying abroad and connecting them with the many resources UT Austin offers to help them gain global experiences. Additionally, I am the Founder and President of UT Austin's first international business club, the International Business Alliance (IBA). This organization is dedicated to helping students—regardless of their major—achieve their goals of studying or working abroad by increasing awareness of the vast opportunities available at UT Austin. I aspire to leverage my academic and professional experiences to become a foreign diplomat for the U.S. Embassy, focusing on the Middle East and Asia. As a Gilman Scholar Recipient, my experiences studying abroad in Germany, Spain, and South Korea will support me in pursuing this career path.",
@@ -562,7 +562,7 @@ const highProfiles = [
       "name": "Jordan Kensington",
       "headline": "Lead Analyst | Risk Management | Business Strategy",
       "location": "Texas, United States",
-      "connections": 500,
+      "connections": 121,
       "profilePic": "https://i.ibb.co/274LZbt1/Jordan1.jpg",
       "backgroundPic": "https://i.ibb.co/9HW7Wb18/inscription-risk-management-on-abstract-double-exposure-business-mixed-media-background-photo.jpg",
       "about": "Hello everyone, I am a Texas A&M University Corpus Christi graduate with a Bachelor's degree in Management. With over seven years of experience in customer service and financial operations, I am constantly looking for new opportunities to grow professionally. Currently, I work as a Lead Analyst in Market/Client Risk Management at BNY Mellon, where I specialize in risk assessment and transaction analysis. Previously, I served as a Financial Counselor at Orlando Health, where I honed my problem-solving and communication skills. I am passionate about continuous learning and professional development, always striving to enhance my expertise in business strategy, leadership, and risk management.",
@@ -673,7 +673,7 @@ const highProfiles = [
       "name": "Ethan Carter",
       "headline": "Business Operations Specialist | Process Optimization | Baylor University Graduate",
       "location": "Waco, Texas, United States",
-      "connections": 385,
+      "connections": 122,
       "profilePic": "https://i.ibb.co/Qj7hk8MC/Ethan.jpg",
       "backgroundPic": "https://i.ibb.co/1G6W4h0P/Operations-Linked-In-Cover-Banner-4-qx2x86z0x3cqkle6ucnupsr914tos9apexxx6uz248.webp",
       "about": "Driven business operations professional with a Bachelor's in Management from Baylor University (Class of 2025). Specializing in streamlining processes and improving operational efficiency through data-driven strategies. Currently contributing to supply chain optimizations at a major Texas manufacturing firm while developing expertise in lean methodologies and ERP system implementations.\n\nMy academic projects include leading a cross-functional team to redesign inventory management processes, resulting in a 25% reduction in stock discrepancies. Passionate about bridging theoretical knowledge with practical applications in operations management. Seeking opportunities to leverage my analytical skills and process improvement experience in dynamic business environments.\n\nOpen to connecting with professionals in operations management, supply chain optimization, and business strategy roles!",
@@ -769,7 +769,7 @@ const highProfiles = [
       "name": "Charles Beaumont",
       "headline": "Operations Manager @ Ferrari | Community Development | Texas State University Honors Graduate",
       "location": "Austin, Texas, United States",
-      "connections": 412,
+      "connections": 144,
       "profilePic": "https://i.ibb.co/yF8f9rrv/Charles.jpg",
       "backgroundPic": "https://i.ibb.co/Mybdzh5b/Consulting-Linked-In-Cover-Banner-3-qx2xbjad7vxfuojfbso3kye92gco5ikcjhg2ma0nzs.webp",
       "about": "Results-oriented operations coordinator with a BBA in Management from Texas State (Class of 2025), specializing in enhancing organizational efficiency and community engagement. Currently overseeing operations at Ferrari, where I implement training programs and streamline supply chain processes to ensure high-quality standards. \n\nMy academic background in social enterprise management, combined with hands-on experience in program development and community service, has equipped me with the skills to drive impactful initiatives. I successfully directed student-led projects that served over 5,000 residents and secured significant funding for community programs. Passionate about leveraging my operational expertise to foster sustainable development and community impact.\n\nEager to connect with professionals in operations management, community development, and nonprofit sectors!",
@@ -885,7 +885,7 @@ const highProfiles = [
       "name": "Danielle Fairchild",
       "headline": "Business Analyst | Contract Management Specialist | Rice University Honors Graduate",
       "location": "Austin, Texas, United States",
-      "connections": 450,
+      "connections": 150,
       "profilePic": "https://i.ibb.co/MFsGK9G/Danielle.jpg",
       "backgroundPic": "https://i.ibb.co/nqPjfRgQ/Sales-Business-Development-Linked-In-Cover-Banner-4-1-qyadbanfxdj59q6pwwmqmebf5wa9hjl8l811j5ved4.webp",
       "about": "Results-driven business professional with a Bachelor's in Management from the University of Texas at Austin (Class of 2023). Combines strong analytical skills with legal acumen to optimize business processes and drive operational efficiency. Currently excelling as a Business Analyst at Molina Healthcare, where I spearhead process improvements impacting multi-million dollar healthcare operations.\n\nMy UT Austin education emphasized strategic decision-making and legal compliance, providing a strong foundation for analyzing complex business workflows. Led a capstone project redesigning inventory management systems that reduced operational costs by 18% for campus enterprises. Passionate about leveraging data-driven insights to solve operational challenges while ensuring regulatory compliance.\n\nSeeking opportunities to apply my unique blend of business analysis skills and legal knowledge in dynamic corporate environments. Open to connecting with professionals in healthcare operations, contract management, and process optimization!",
@@ -1005,7 +1005,7 @@ const highProfiles = [
       "name": "Vanessa Loring",
       "headline": "Sports Marketing Professional | Ticket Sales Strategist | Rice University Alumni",
       "location": "Dallas, Texas, United States",
-      "connections": 850,
+      "connections": 133,
       "profilePic": "https://i.ibb.co/WWsKLxQt/Venessa.jpg",
       "backgroundPic": "https://i.ibb.co/gLHBWnmm/IH-1.jpg",
       "about": "Dynamic sports marketing specialist with 4+ years of experience driving revenue growth and brand engagement in professional hockey and baseball organizations. Rice University graduate (BBA in Management, 2022) combining strategic sales acumen with digital marketing expertise to deliver record-breaking ticket sales and community impact. \n\nCurrently driving game attendance growth as Account Executive for the Iowa Heartlanders (ECHL), leveraging data-driven strategies that increased group ticket sales by 35% in debut season. Former marketing team leader for multiple minor league franchises, developing innovative campaigns that boosted social media engagement by 150% across platforms.\n\nCertified in ethical leadership and Microsoft Office Suite, with proven ability to merge analytical skills with creative problem-solving. Proud Delta Zeta alumna applying sorority leadership experience to community outreach initiatives and corporate partnerships.",
@@ -1109,7 +1109,7 @@ const highProfiles = [
       "name": "Jennifer Langston",
       "headline": "Marketing Strategist | Brand Development Specialist | Texas A&M Kingsville Alumni",
       "location": "Austin, Texas, United States",
-      "connections": 650,
+      "connections": 122,
       "profilePic": "https://i.ibb.co/C5ZrD0B3/Jennifer.jpg",
       "backgroundPic": "https://i.ibb.co/7JZM4JYC/HR-Linked-In-Cover-Banner-1-qx2x99iepathslu7lbbk2115dxjqjujp88otv7dx14.webp",
       "about": "Dynamic marketing professional with a BBA in Management from Texas A&M University Kingsville (Class of 2023). Combines creative campaign development with data-driven strategies to build authentic brand communities. Passionate about sustainable business practices and innovative marketing solutions that align organizational values with consumer expectations.\n\nAs a proud Aggie, I honed my skills through Texas A&M's renowned business program, leading cross-functional teams in real-world marketing projects for local enterprises. Currently driving brand growth at Austin's premier marketing agency, where I've increased client engagement metrics by an average of 45% through integrated digital strategies.\n\nCertified in marketing analytics and sustainability management, with proven success in transforming brand narratives into measurable business outcomes. Let's connect to discuss innovative approaches to community-driven marketing!",
@@ -1214,7 +1214,7 @@ const highProfiles = [
       "name": "Stephanie Shepherd",
       "headline": "Strategic Business Leader | Texas A&M Alumni | International Business Specialist",
       "location": "Houston, Texas, United States",
-      "connections": 850,
+      "connections": 124,
       "profilePic": "https://i.ibb.co/XkKG45nM/Stephanie.jpg",
       "backgroundPic": "https://i.ibb.co/S4jF52tj/Marketing-Linked-In-Cover-Banner-5-qx2x7yih7l15o3qh7r07lcw3onzduzd4ds2jvdblo8.webp",
       "about": "Driven business executive with a BBA in Management from Texas A&M University (Class of 2024), combining operational excellence with global business acumen. Currently making waves at ADP as the youngest District Manager in company history, achieving 100% Club qualification within first quarter FY25. \n\nLeveraged Aggie leadership training to deliver record-breaking performance - exceeding sales quotas by 545% and securing promotion 7 months ahead of schedule. International experience includes intensive global business program at ESADE Barcelona, developing cross-cultural negotiation skills while leading teams with language barriers. \n\nCertified in Six Sigma and Salesforce administration, with proven ability to transform operational strategies into measurable business outcomes. Passionate about mentoring next-gen business leaders through Texas A&M's Management Development Program.",
@@ -1223,7 +1223,7 @@ const highProfiles = [
         {
           "company": "ADP",
           "companyLogo": "https://i.ibb.co/PsSD126D/adp-logo-e-1748476800-v-beta-t-SQr-K-2n-Lw-BAOz-PEmz-B5-Xto-C-R1i4-s-OVci0-T8o-E51-Xc.jpg",
-          "title": "District Manager",
+          "title": "District Associate",
           "duration": "Jan 2025 - Present",
           "bullets": [
             "Achieved a #1 national ranking in FY25 Q1 sales performance for the Texas Gulf Coast region, driving a 45% increase in total sales revenue compared to the previous quarter",
@@ -1335,7 +1335,7 @@ const highProfiles = [
       "name": "Lauren Winslow",
       "headline": "BBA in Management | Aspiring Business Consultant | UT Austin Graduate",
       "location": "Austin, Texas, United States",
-      "connections": 300,
+      "connections": 145,
       "profilePic": "https://i.ibb.co/b5WC8r8j/Lauren.jpg", // Placeholder for profile picture
       "backgroundPic": "https://i.ibb.co/HLzKyTrJ/Sales-Business-Development-Linked-In-Cover-Banner-5-1-qyadbbla47kflc5crf1d6w2vra5mp8oyxcoj0fu06w.webp", // Placeholder for background picture
       "about": "I am an ambitious and results-driven business professional with a BBA in Management from the prestigious University of Texas at Austin, where I graduated with honors. My academic journey has equipped me with a solid foundation in business strategy, organizational behavior, and financial management, which I have effectively applied in real-world scenarios.My fervor lies in harnessing advanced analytical skills and strategic foresight to propel organizational success.\n\nWith a robust background in project management and team leadership, I have successfully led cross-functional teams in various projects, optimizing operational efficiency and ensuring exceptional client satisfaction.My experience as a Business Analyst at Deloitte has further honed my ability to conduct in-depth market research and analysis, enabling me to support strategic planning initiatives that drive growth.\n\nI am eager to engage in transformative projects that challenge conventional paradigms and foster innovative solutions in a consulting capacity, leveraging my skills to create impactful change.",
