@@ -1,50 +1,51 @@
 import express from 'express';
 import { createClient } from '@supabase/supabase-js';
-import 'dotenv/config';
 import cors from 'cors';
+import serverless from 'serverless-http';
+import dotenv from 'dotenv';
+
+dotenv.config();
 
 const app = express();
+
+// Set up CORS
 app.use(cors({
-  origin: 'https://linkedin-survey.vercel.app/', // Your frontend URL
+  origin: 'https://linkedin-survey.vercel.app',
   methods: ['POST', 'GET'],
   credentials: true
 }));
-const port = process.env.PORT || 5000;
 
-// Connect to the database using URI
+// Supabase client
 const supabase = createClient(
   process.env.SUPABASE_URL,
   process.env.SUPABASE_KEY
 );
 
+// Middleware
 app.use(express.json());
 
-
-
-// Submission endpoint
+// Routes
 app.post('/api/submit', async (req, res) => {
   const { userId, profileId, responses } = req.body;
+  const { quality, ...otherResponses } = responses;
 
-  // Ensure quality is included in the submission
-  const { quality, ...otherResponses } = responses; // Destructure quality from responses
-
-  // Insert new submission
   const { data, error } = await supabase
     .from('submissions')
     .insert([{
       user_id: userId,
       profile_id: profileId,
-      quality: quality, // Include quality in the insert
-      ...otherResponses // Spread the rest of the responses
+      quality,
+      ...otherResponses
     }]);
 
   if (error) {
     console.error('Database error:', error);
     return res.status(500).json({ error: 'Database error' });
   }
+
   res.json(data);
 });
-// Add login endpoint
+
 app.post('/api/login', async (req, res) => {
   try {
     const { userId } = req.body;
@@ -64,15 +65,14 @@ app.post('/api/login', async (req, res) => {
       valid: true,
       user: {
         user_id: data.user_id,
-        quality: parseInt(data.quality) // Ensure quality is returned as an integer
+        quality: parseInt(data.quality)
       }
     });
-
   } catch (error) {
     console.error('Login error:', error);
     res.status(500).json({ valid: false, error: 'Server error' });
   }
 });
-app.listen(port, () => {
-  console.log(`Server running on port ${port}`);
-});
+
+// 👇 This is what Vercel needs
+export default serverless(app);
