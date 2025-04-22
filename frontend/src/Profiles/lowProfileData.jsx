@@ -6,7 +6,7 @@ const lowProfileData = [
 
     "headline": "Recent Texas State University graduate with a passion for sales, customer service, and business management. Eager to apply my experience in sales and client relations to drive results in a dynamic environment.",
     "location": "Houston, Texas, United States",
-    "connections": 80,
+    "connections": 15,
     "profilePic": "https://i.ibb.co/BHTXqYxK/Default-PP.png",
 
     "about": "Motivated and customer-focused pro with experience in sales, service, and client relations. I just graduated from Texas State University with a Bachelor's in Management. I worked in sales and service jobs, getting good at talking and solving problems. I like making friends, beating goals, and growing in a busy work place. Ready for new challenges and to help a smart team!",
@@ -74,7 +74,7 @@ const lowProfileData = [
 
     "headline": "Graduate From Texas A&M University - Kingsville",
     "location": "Irving, Texas, United States",
-    "connections": 115,
+    "connections": 20,
     "profilePic": "https://i.ibb.co/BHTXqYxK/Default-PP.png",
     "about": "I am a graduate of Texas A&M University - Kingsville with a Bachelor's degree in Business Administration and Management. My goal is to apply my education and skills to secure a role in business operations or management. Throughout my studies, I have gained valuable insights into financial analysis, operational strategies, and business decision-making. I am eager to bring my problem-solving abilities and business knowledge to a dynamic team and contribute to a company's success. Looking forward to new opportunities in the business world!",
     "experience": [
@@ -121,7 +121,7 @@ const lowProfileData = [
     "opentowork":"Yes",
     "headline": "Painter at Expert Painting Services",
     "location": "Plano, Texas, United States",
-    "connections": 87,
+    "connections": 10,
     "profilePic": "https://i.ibb.co/fY6rB44j/John.jpg",
     "backgroundPic":"https://i.ibb.co/KpjWLkcD/paint.jpg",
     "about": "Experienced in painting, home remodeling, drywall repair, plumbing, and general handyman work. I take on all kinds of jobs, from small repairs to full remodels. Whether it’s patching drywall, fixing leaks, or painting a home, I always make sure the job is done right. I also do yard clean-ups, demo work, and odd jobs—no job is too small! If you need quality work done in Plano, Texas, give me a call. Hardworking and ready to get the job done!",
@@ -162,7 +162,7 @@ const lowProfileData = [
     "opentowork": "Yes",
     "headline": "Recent Management Graduate | Open to Work | Eager to Learn & Grow | Seeking Opportunities in Business & Marketing",
     "location": "Corpus Christi, Texas, United States",
-    "connections": 144,
+    "connections": 20,
     "profilePic": "https://i.ibb.co/9H0JD5W9/Lucas.jpg", // Placeholder for Profile Picture
     "backgroundPic": "https://i.ibb.co/fYMsGBYk/beautiful-sun-rising-sky-asphalt-highways-road-rural-sce-scene-use-land-transport-traveling-backgrou.jpg", // Placeholder for Background Picture
     "about": "Recent Management Graduate eager to learn and grow in the fields of business and marketing.",
@@ -230,7 +230,7 @@ const lowProfileData = [
     "profilePic":"https://i.ibb.co/BHTXqYxK/Default-PP.png",
     "headline": "Aspiring Risk Management Specialist or Sports Management",
     "location": "Houston, Texas, United States",
-    "connections": 98,
+    "connections": 20,
 
     "backgroundPic": "https://i.ibb.co/mr4RbDB8/inscription-risk-management-on-abstract-double-exposure-business-mixed-media-background-photo.jpg",
     "about": "Aspiring Risk Management Analyst or Sports Management. Seeking professional experience in this field. Currently studying Business Management at Texas A&M University - Corpus Christi and have developed data analysis skills. Sports management minor. On Dean's List.",
@@ -281,7 +281,7 @@ const lowProfileData = [
     "profilePic": "https://i.ibb.co/BHTXqYxK/Default-PP.png",
     "headline": "Eager to Start My Career in Business Management - Bachelor's degree in Management from Texas A&M University–Corpus Christi",
     "location": "Killeen, Texas, United States",
-    "connections": 56,
+    "connections": 20,
     "backgroundPic": "https://i.ibb.co/zT2fQK81/Linked-In-Personal3-B-Design.jpg",
     "about": "Recent graduate from Texas A&M University - Corpus Christi. Eager to gain experience in the business field. Currently seeking entry-level positions.",
     "experience": [
@@ -326,9 +326,10 @@ const lowProfileData = [
     "name": "Emily Bennett",
     "opentowork": "Yes",
     "profilePic": "https://i.ibb.co/qY7VvpQL/Emily.jpg",
+    "backgroundPic": "https://i.ibb.co/VcDbsSFP/2c-Linked-In-Banner-Personal-design-1.png",
     "headline": "Business Student | BS in Management Graduate | Management and Customer Service | Trilingual | Social Media Expert, Marketing, and Strategy",
     "location": "Killeen, Texas, United States",
-    "connections": 100,
+    "connections": 20,
     "about": "Passionate marketing and sales professional with over four years of experience in digital strategy, branding, and social media marketing. Skilled in creating engaging content, managing ad campaigns, and developing marketing strategies to enhance brand visibility. Proficient in tools like Canva, CapCut, and various social media platforms to drive customer engagement.",
     "experience": [
       {
@@ -393,7 +394,7 @@ const lowProfileData = [
     "backgroundPic": "https://i.ibb.co/VcDbsSFP/2c-Linked-In-Banner-Personal-design-1.png",
     "headline": "Business Management Graduate From TSU | Former Administration Assistant Intern at Nora Mental Health Care | Aspiring Management Professional",
     "location": "Corpus Christi, Texas, United States",
-    "connections": 127,
+    "connections": 20,
     "about": "Recent Business Management graduate from Texas State University with a passion for organizational leadership and administration. My goal is to contribute to a dynamic company where I can apply my skills in business operations, customer service, and administrative support.",
     "experience": [
       {
@@ -443,7 +444,7 @@ const lowProfileData = [
     "backgroundPic": "https://i.ibb.co/fYTWNm7n/bg4.jpg",
     "headline": "Student at Texas State University",
     "location": "Houston, Texas, United States",
-    "connections": 144,
+    "connections": 15,
     "about": "Hardworking and motivated, always looking to learn and improve. I have experience in sales, customer service, and working with people in different environments. Graduated from Texas State University with a degree in Management. Good at communicating, problem-solving, and working on a team. Excited to find new opportunities and grow my skills.",
     "experience": [
       {
@@ -498,7 +499,7 @@ const lowProfileData = [
     "opentowork": "Yes",
     "headline": "Motivated Recent Graduate with Experience in Customer Service and Sales",
     "location": "Corpus Christi, Texas, United States",
-    "connections": 120,
+    "connections": 15,
     "profilePic": "https://i.ibb.co/Z1KLL9WC/Brooke.jpg",
     "backgroundPic": "https://i.ibb.co/FqcSqtkj/1c-Linked-In-Banner-Personal-design-1.png",
     "about": "I am a recent graduate from Del Mar College with a degree in Business Administration. I have a strong background in customer service and sales, and I am passionate about helping customers find the right solutions for their needs. I am eager to apply my skills in a dynamic work environment and continue to grow professionally.",
@@ -549,7 +550,7 @@ const lowProfileData = [
     "opentowork": "Yes",
     "headline": "Recent Management Graduate with a Passion for Business Development",
     "location": "San Antonio, Texas, United States",
-    "connections": 50,
+    "connections": 18,
     "profilePic": "https://i.ibb.co/BHTXqYxK/Default-PP.png",
     "backgroundPic": "https://i.ibb.co/93WJYCSH/Linked-In-Personal1-D-Design.jpg", // Placeholder for Background Picture
     "about": "I am a recent graduate from Collin College with a Bachelor's degree in Management. I have a strong interest in business development and customer relations, and I am eager to apply my skills in a professional setting.",
@@ -599,7 +600,7 @@ const lowProfileData = [
     "opentowork": "Yes",
     "headline": "Recent Management Graduate with a Focus on Customer Service",
     "location": "Corpus Christi, Texas, United States",
-    "connections": 30,
+    "connections": 20,
     "profilePic": "https://i.ibb.co/BHTXqYxK/Default-PP.png",
     "backgroundPic": "https://i.ibb.co/C3wZkLVX/1-F-Linked-In-Personal-Design.png",
     "about": "I am a recent graduate from Del Mar College with a Bachelor's degree in Management. I am passionate about customer service and eager to contribute to a dynamic team.",

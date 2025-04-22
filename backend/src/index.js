@@ -5,7 +5,7 @@ import cors from 'cors';
 
 const app = express();
 app.use(cors({
-  origin: 'http://localhost:3000', // Your frontend URL
+  origin: 'https://linkedin-survey.vercel.app/', // Your frontend URL
   methods: ['POST', 'GET'],
   credentials: true
 }));

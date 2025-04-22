@@ -140,19 +140,7 @@ const MainApp = () => {
       return shuffled.slice(0, count);
     };
 
-    switch(quality) {
-      case 1:
-        sequence = [...getUniqueProfiles('mid', 1), ...getUniqueProfiles('high', 6), ...getUniqueProfiles('mid', 1)];
-        break;
-      case 2:
-        sequence = getUniqueProfiles('mid', 8);
-        break;
-      case 3:
-        sequence = [...getUniqueProfiles('mid', 1), ...getUniqueProfiles('low', 6), ...getUniqueProfiles('mid', 1)];
-        break;
-      default:
-        navigate('/login');
-    }
+    sequence = getUniqueProfiles(quality === 1 ? 'high' : quality === 2 ? 'mid' : quality === 3 ? 'low' : 'mid', 8);
     
     setProfileSequence(sequence);
     sessionStorage.setItem('profileSequence', JSON.stringify(sequence));
