@@ -4,12 +4,12 @@ const lowProfileData = [
     "name": "James Walker",
     "opentowork":"Yes",
 
-    "headline": "Recent Texas Southern University graduate with a passion for sales, customer service, and business management. Eager to apply my experience in sales and client relations to drive results in a dynamic environment.",
+    "headline": "Recent Texas State University graduate with a passion for sales, customer service, and business management. Eager to apply my experience in sales and client relations to drive results in a dynamic environment.",
     "location": "Houston, Texas, United States",
     "connections": 80,
     "profilePic": "https://i.ibb.co/BHTXqYxK/Default-PP.png",
 
-    "about": "Motivated and customer-focused pro with experience in sales, service, and client relations. I just graduated from Texas Southern University with a Bachelor's in Management. I worked in sales and service jobs, getting good at talking and solving problems. I like making friends, beating goals, and growing in a busy work place. Ready for new challenges and to help a smart team!",
+    "about": "Motivated and customer-focused pro with experience in sales, service, and client relations. I just graduated from Texas State University with a Bachelor's in Management. I worked in sales and service jobs, getting good at talking and solving problems. I like making friends, beating goals, and growing in a busy work place. Ready for new challenges and to help a smart team!",
     "experience": [
       {
         "company": "Texas Roadhouse",
@@ -42,8 +42,8 @@ const lowProfileData = [
     ],
     "education": [
       {
-        "school": "Texas Southern University",
-        "schoolLogo":"https://i.ibb.co/XZfV9FtV/1631300782341-e-1749081600-v-beta-t-Yrsco-C-j-Ts-PQtf-Knh-QOUs-2-BFCIg8u-D-r-EJa9l-JQQDo.jpg",
+        "school": "Texas State University",
+        "schoolLogo":"https://media.licdn.com/dms/image/v2/C560BAQGo7TTg-tgkdQ/company-logo_100_100/company-logo_100_100/0/1631300608004?e=1750896000&v=beta&t=aPfWFpyU7vczOcmCSJBW8gjiOg4V1Pb4SrZS7Qc0LMY",
         "degree": "Bachelor's degree, Management",
         "duration": "Aug 2019 - Aug 2023"
       },
@@ -72,11 +72,11 @@ const lowProfileData = [
     "name": "David Chandler",
     "opentowork":"Yes",
 
-    "headline": "Graduate From Texas Southern University",
+    "headline": "Graduate From Texas A&M University - Kingsville",
     "location": "Irving, Texas, United States",
     "connections": 115,
     "profilePic": "https://i.ibb.co/BHTXqYxK/Default-PP.png",
-    "about": "I am a graduate of Texas Southern University with a Bachelor's degree in Business Administration and Management. My goal is to apply my education and skills to secure a role in business operations or management. Throughout my studies, I have gained valuable insights into financial analysis, operational strategies, and business decision-making. I am eager to bring my problem-solving abilities and business knowledge to a dynamic team and contribute to a company's success. Looking forward to new opportunities in the business world!",
+    "about": "I am a graduate of Texas A&M University - Kingsville with a Bachelor's degree in Business Administration and Management. My goal is to apply my education and skills to secure a role in business operations or management. Throughout my studies, I have gained valuable insights into financial analysis, operational strategies, and business decision-making. I am eager to bring my problem-solving abilities and business knowledge to a dynamic team and contribute to a company's success. Looking forward to new opportunities in the business world!",
     "experience": [
       {
         "company": "Vector Marketing • Contract",
@@ -91,8 +91,8 @@ const lowProfileData = [
     ],
     "education": [
       {
-        "school": "Texas Southern University",
-        "schoolLogo":"https://i.ibb.co/XZfV9FtV/1631300782341-e-1749081600-v-beta-t-Yrsco-C-j-Ts-PQtf-Knh-QOUs-2-BFCIg8u-D-r-EJa9l-JQQDo.jpg",
+        "school": "Texas A&M University - Kingsville",
+        "schoolLogo":"https://media.licdn.com/dms/image/v2/D560BAQEFJy7BINk67g/company-logo_100_100/B56ZXxmPZ0GsAQ-/0/1743515089321/javelinanation_logo?e=1750896000&v=beta&t=o-_nwjkZFrAS20ThFmNfoeCoquMaEfoxCZ4FyfhfvH8",
         "degree": "Bachelor's degree, Business Administration and Management",
         "duration": "Aug 2016 - Aug 2023"
       },
@@ -119,7 +119,7 @@ const lowProfileData = [
     "id": "LOW-03",
     "name": "John Harrison",
     "opentowork":"Yes",
-    "headline": "Business Owner at Expert Painting Services",
+    "headline": "Painter at Expert Painting Services",
     "location": "Plano, Texas, United States",
     "connections": 87,
     "profilePic": "https://i.ibb.co/fY6rB44j/John.jpg",
@@ -128,7 +128,7 @@ const lowProfileData = [
     "experience": [
       {
         "company": "Expert Painting Services • Self-employed",
-        "title": "Family Business Owner",
+        "title": "Painter",
         "duration": "Jun 2021 - Present",
         "bullets": [
           "Paint, remodel homes, drywall, patch, texture, hang, finish, screen repair, plumbing, demo, yard clean, odd jobs, custom work."
@@ -149,17 +149,6 @@ const lowProfileData = [
       "Heavy Equipment",
       "Business Planning",
       "Construction Safety",
-      "Business Strategy",
-      "Painting",
-      "Drywall",
-      "Team Building",
-      "Construction",
-      "Management",
-      "Project Planning",
-      "Strategic Planning",
-      "Negotiation",
-      "Sales",
-      "Plumbing",
       "Leadership",
       "Retail",
       "Customer Service",
@@ -244,7 +233,7 @@ const lowProfileData = [
     "connections": 98,
 
     "backgroundPic": "https://i.ibb.co/mr4RbDB8/inscription-risk-management-on-abstract-double-exposure-business-mixed-media-background-photo.jpg",
-    "about": "Aspiring Risk Management Analyst or Sports Management. Seeking professional experience in this field. Currently studying Business Management at Texas A&M University - Central Texas and have developed data analysis skills. Sports management minor. On Dean's List.",
+    "about": "Aspiring Risk Management Analyst or Sports Management. Seeking professional experience in this field. Currently studying Business Management at Texas A&M University - Corpus Christi and have developed data analysis skills. Sports management minor. On Dean's List.",
     "experience": [
       {
         "company": "Fanatics • Freelance",
@@ -259,15 +248,15 @@ const lowProfileData = [
     ],
     "education": [
       {
-        "school": "Texas A&M University–Central Texas",
-        "schoolLogo": "https://i.ibb.co/bRJZWZhN/texas-am-universitycentral-texas-logo-e-1749081600-v-beta-t-55-P-ft3ce-IXp-TMpr7r-Fu-TNav8h-Vev-Dpj.jpg",
+        "school": "Texas A&M University–Corpus Christi",
+        "schoolLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQHYd3BFB1RNoQ/company-logo_100_100/company-logo_100_100/0/1631311060530?e=1750896000&v=beta&t=VkAeoYLS_9yXKSZ7w9HkhVUALyGkPf2v-70M3B9FQOI",
         "degree": "Bachelor's degree, Business Administration and Management, General",
         "duration": "May 2024",
         "activities": "Activities and societies: Baseball"
       },
       {
-        "school": "Texas A&M University–Central Texas",
-        "schoolLogo": "https://i.ibb.co/bRJZWZhN/texas-am-universitycentral-texas-logo-e-1749081600-v-beta-t-55-P-ft3ce-IXp-TMpr7r-Fu-TNav8h-Vev-Dpj.jpg",
+        "school": "Texas A&M University–Corpus Christi",
+        "schoolLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQHYd3BFB1RNoQ/company-logo_100_100/company-logo_100_100/0/1631311060530?e=1750896000&v=beta&t=VkAeoYLS_9yXKSZ7w9HkhVUALyGkPf2v-70M3B9FQOI",
         "degree": "Associate of Arts - AA, Business Administration and Management, General",
         "duration": "Aug 2020 - Dec 2021"
       }
@@ -290,11 +279,11 @@ const lowProfileData = [
     "name": "Ethan Brooks",
     "opentowork": "Yes",
     "profilePic": "https://i.ibb.co/BHTXqYxK/Default-PP.png",
-    "headline": "Eager to Start My Career in Business Management - Bachelor's degree in Management from Texas A&M University–Central Texas",
+    "headline": "Eager to Start My Career in Business Management - Bachelor's degree in Management from Texas A&M University–Corpus Christi",
     "location": "Killeen, Texas, United States",
     "connections": 56,
     "backgroundPic": "https://i.ibb.co/zT2fQK81/Linked-In-Personal3-B-Design.jpg",
-    "about": "Recent graduate from Texas A&M University - Central Texas. Eager to gain experience in the business field. Currently seeking entry-level positions.",
+    "about": "Recent graduate from Texas A&M University - Corpus Christi. Eager to gain experience in the business field. Currently seeking entry-level positions.",
     "experience": [
       {
         "company": "Starbucks",
@@ -319,8 +308,8 @@ const lowProfileData = [
     ],
     "education": [
       {
-        "school": "Texas A&M University–Central Texas",
-        "schoolLogo": "https://i.ibb.co/bRJZWZhN/texas-am-universitycentral-texas-logo-e-1749081600-v-beta-t-55-P-ft3ce-IXp-TMpr7r-Fu-TNav8h-Vev-Dpj.jpg",
+        "school": "Texas A&M University–Corpus Christi",
+        "schoolLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQHYd3BFB1RNoQ/company-logo_100_100/company-logo_100_100/0/1631311060530?e=1750896000&v=beta&t=VkAeoYLS_9yXKSZ7w9HkhVUALyGkPf2v-70M3B9FQOI",
         "degree": "Bachelor's degree, Management",
         "duration": "May 2024"
       }
@@ -405,7 +394,7 @@ const lowProfileData = [
     "headline": "Business Management Graduate From TSU | Former Administration Assistant Intern at Nora Mental Health Care | Aspiring Management Professional",
     "location": "Corpus Christi, Texas, United States",
     "connections": 127,
-    "about": "Recent Business Management graduate from Texas Southern University with a passion for organizational leadership and administration. My goal is to contribute to a dynamic company where I can apply my skills in business operations, customer service, and administrative support.",
+    "about": "Recent Business Management graduate from Texas State University with a passion for organizational leadership and administration. My goal is to contribute to a dynamic company where I can apply my skills in business operations, customer service, and administrative support.",
     "experience": [
       {
         "company": "Nora Mental Health",
@@ -419,8 +408,8 @@ const lowProfileData = [
         ]
       },
       {
-        "company": "Texas Southern University",
-        "companyLogo":"https://i.ibb.co/XZfV9FtV/1631300782341-e-1749081600-v-beta-t-Yrsco-C-j-Ts-PQtf-Knh-QOUs-2-BFCIg8u-D-r-EJa9l-JQQDo.jpg",
+        "company": "Texas State University",
+        "companyLogo":"https://media.licdn.com/dms/image/v2/C560BAQGo7TTg-tgkdQ/company-logo_100_100/company-logo_100_100/0/1631300608004?e=1750896000&v=beta&t=aPfWFpyU7vczOcmCSJBW8gjiOg4V1Pb4SrZS7Qc0LMY",
         "title": "Undergraduate Student",
         "duration": "Aug 2019 - Present",
         "bullets": [
@@ -432,8 +421,8 @@ const lowProfileData = [
     ],
     "education": [
       {
-        "school": "Texas Southern University",
-        "schoolLogo":"https://i.ibb.co/XZfV9FtV/1631300782341-e-1749081600-v-beta-t-Yrsco-C-j-Ts-PQtf-Knh-QOUs-2-BFCIg8u-D-r-EJa9l-JQQDo.jpg",
+        "school": "Texas State University",
+        "schoolLogo":"https://media.licdn.com/dms/image/v2/C560BAQGo7TTg-tgkdQ/company-logo_100_100/company-logo_100_100/0/1631300608004?e=1750896000&v=beta&t=aPfWFpyU7vczOcmCSJBW8gjiOg4V1Pb4SrZS7Qc0LMY",
         "degree": "Bachelor's degree, Management",
         "duration": "Aug 2021 - Aug 2024",
         "grade": "Senior"
@@ -452,10 +441,10 @@ const lowProfileData = [
     "opentowork": "Yes",
     "profilePic": "https://i.ibb.co/BHTXqYxK/Default-PP.png",
     "backgroundPic": "https://i.ibb.co/fYTWNm7n/bg4.jpg",
-    "headline": "Student at Texas Southern University",
+    "headline": "Student at Texas State University",
     "location": "Houston, Texas, United States",
     "connections": 144,
-    "about": "Hardworking and motivated, always looking to learn and improve. I have experience in sales, customer service, and working with people in different environments. Graduated from Texas Southern University with a degree in Management. Good at communicating, problem-solving, and working on a team. Excited to find new opportunities and grow my skills.",
+    "about": "Hardworking and motivated, always looking to learn and improve. I have experience in sales, customer service, and working with people in different environments. Graduated from Texas State University with a degree in Management. Good at communicating, problem-solving, and working on a team. Excited to find new opportunities and grow my skills.",
     "experience": [
       {
         "company": "Citrus Sitters",
@@ -480,8 +469,8 @@ const lowProfileData = [
     ],
     "education": [
       {
-        "school": "Texas Southern University",
-        "schoolLogo":"https://i.ibb.co/XZfV9FtV/1631300782341-e-1749081600-v-beta-t-Yrsco-C-j-Ts-PQtf-Knh-QOUs-2-BFCIg8u-D-r-EJa9l-JQQDo.jpg",
+        "school": "Texas State University",
+        "schoolLogo":"https://media.licdn.com/dms/image/v2/C560BAQGo7TTg-tgkdQ/company-logo_100_100/company-logo_100_100/0/1631300608004?e=1750896000&v=beta&t=aPfWFpyU7vczOcmCSJBW8gjiOg4V1Pb4SrZS7Qc0LMY",
         "degree": "Bachelor's degree, Management",
         "duration": "Jun 2020 - May 2024",
         "grade": "4th Year",

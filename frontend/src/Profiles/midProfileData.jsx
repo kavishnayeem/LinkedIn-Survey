@@ -4,11 +4,11 @@ const midProfileData = [
     "name": "Robert Sinclair",
     "opentowork":"Yes",
     "headline": "Management Graduate | Customer Service Professional",
-    "location": "Denton, Texas, United States",
+    "location": "Corpus Christi, Texas, United States",
     "connections": 200,
     "profilePic": "https://i.ibb.co/Tx9t2JTv/Robert.jpg",
     "backgroundPic": "https://i.ibb.co/Wvy7qXQ6/Real-Estate-Linked-In-Background-Photo.png",
-    "about": "Management graduate from the University of North Texas with over 3 years of customer service experience. I am an outgoing individual who enjoys learning through hands-on experiences and exploring the outdoors.",
+    "about": "Management graduate from the TAMUCC with over 3 years of customer service experience. I am an outgoing individual who enjoys learning through hands-on experiences and exploring the outdoors.",
     "experience": [
         {
             "company": "Little Greek Fresh Grill",
@@ -25,8 +25,8 @@ const midProfileData = [
     ],
     "education": [
       {
-        "school": "University of North Texas",
-        "schoolLogo": "https://i.ibb.co/cKfG8hH6/northtexas-logo-e-1748476800-v-beta-t-o-ZMRUW2-B7-C7-JKh-Sq-Nc-PPx-R7-Sm-Uc5t5b-W1yv48-Oyy9c.jpg",
+        "school": "Texas A&M University - Corpus Christi ",
+        "schoolLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQHYd3BFB1RNoQ/company-logo_100_100/company-logo_100_100/0/1631311060530?e=1750896000&v=beta&t=VkAeoYLS_9yXKSZ7w9HkhVUALyGkPf2v-70M3B9FQOI",
         "degree": "Bachelor's Degree in Management",
         "duration": "2021 - 2024"
       }
@@ -58,7 +58,7 @@ const midProfileData = [
     "connections": 150,
     "profilePic": "https://i.ibb.co/SXM0g7L0/Michael.jpg", // Placeholder image
     "backgroundPic": "https://i.ibb.co/ds6PNRLw/Bg2.jpg",
-    "about": "I am a Management student at the University of North Texas with over 5 years of customer service experience in busy restaurants and retail sales. I know how to use social media management tools and I am skilled at using AI tools like ChatGPT. I have also worked in management in the food industry, where I developed strong skills in training staff and delegating tasks.",
+    "about": "I am a Management student at the Texas State University with over 5 years of customer service experience in busy restaurants and retail sales. I know how to use social media management tools and I am skilled at using AI tools like ChatGPT. I have also worked in management in the food industry, where I developed strong skills in training staff and delegating tasks.",
     "experience": [
       {
         "company": "Ciccio Restaurant Group",
@@ -75,8 +75,8 @@ const midProfileData = [
     ],
     "education": [
       {
-        "school": "University of North Texas",
-        "schoolLogo": "https://i.ibb.co/cKfG8hH6/northtexas-logo-e-1748476800-v-beta-t-o-ZMRUW2-B7-C7-JKh-Sq-Nc-PPx-R7-Sm-Uc5t5b-W1yv48-Oyy9c.jpg",
+        "school": "Texas State University",
+        "schoolLogo": "https://media.licdn.com/dms/image/v2/C560BAQGo7TTg-tgkdQ/company-logo_100_100/company-logo_100_100/0/1631300608004?e=1750896000&v=beta&t=aPfWFpyU7vczOcmCSJBW8gjiOg4V1Pb4SrZS7Qc0LMY",
         "degree": "Bachelor's Degree in Management",
         "duration": "Aug 2019 - Dec 2024"
       }
@@ -162,8 +162,8 @@ const midProfileData = [
     ],
     "education": [
       {
-        "school": "Texas Tech University",
-        "schoolLogo": "https://i.ibb.co/xKYdMFFX/texas-tech-university-logo-e-1748476800-v-beta-t-p-O2-Ug-AWOJHm8crklp-PNBKyd146b5-Fi-SX5-E-n-Cmk2w-K.jpg",
+        "school": "Texas State University",
+        "schoolLogo": "https://media.licdn.com/dms/image/v2/C560BAQGo7TTg-tgkdQ/company-logo_100_100/company-logo_100_100/0/1631300608004?e=1750896000&v=beta&t=aPfWFpyU7vczOcmCSJBW8gjiOg4V1Pb4SrZS7Qc0LMY",
         "degree": "Bachelor's degree in Management",
         "duration": "2021 - 2024"
       }
@@ -184,11 +184,11 @@ const midProfileData = [
     "id": "MID-04",
     "name": "Brian Lancaster",
     "headline": "Full-time Student and Retail Professional",
-    "location": "Austin, Texas, United States",
+    "location": "San Antonio, Texas, United States",
     "connections": 178,
     "profilePic": "https://i.ibb.co/pvkP6ft7/Brian.jpg",
     "backgroundPic": "https://i.ibb.co/VcSspKDq/gb3.jpg",
-    "about": "I have three years of experience working in the retail field. Currently, I am a full-time student at Texas Tech University and am pursuing a degree in Management. I plan to graduate in the fall of 2023.",
+    "about": "I have three years of experience working in the retail field. Currently, I am a full-time student at Texas A&M University - Kingsville and am pursuing a degree in Management. I plan to graduate in the fall of 2023.",
     "experience": [
       {
         "company": "Target",
@@ -213,8 +213,8 @@ const midProfileData = [
     ],
     "education": [
       {
-        "school": "Texas Tech University",
-        "schoolLogo": "https://i.ibb.co/xKYdMFFX/texas-tech-university-logo-e-1748476800-v-beta-t-p-O2-Ug-AWOJHm8crklp-PNBKyd146b5-Fi-SX5-E-n-Cmk2w-K.jpg",
+        "school": "Texas A&M University - Kingsville",
+        "schoolLogo": "https://media.licdn.com/dms/image/v2/D560BAQEFJy7BINk67g/company-logo_100_100/B56ZXxmPZ0GsAQ-/0/1743515089321/javelinanation_logo?e=1750896000&v=beta&t=o-_nwjkZFrAS20ThFmNfoeCoquMaEfoxCZ4FyfhfvH8",
         "degree": "Bachelor of Science in Management",
         "duration": "Jan 2021 - Dec 2023"
       }
@@ -265,7 +265,7 @@ const midProfileData = [
     "connections": 125,
     "profilePic": "https://i.ibb.co/ms0165w/Kevin.jpg",
     "backgroundPic": 'https://i.ibb.co/vCDTNXqZ/19baa44e46d98adf2ab99acc6c424aa5.jpg',
-    "about": "As a proud graduate of the University of Texas at San Antonio with a degree in Management , I am driven by a passion for empowering others and fostering innovation. My educational foundation has equipped me with a versatile skill set that spans strategy, leadership, and creative problem-solving—qualities that I bring to every opportunity. In my current role as a Business Manager, I’ve gained hands-on experience across all facets of business operations, from finance and sales to strategy and process improvement. Collaborating with teams and stakeholders, I strive to identify innovative solutions that drive growth and deliver exceptional results. What motivates me most is the opportunity to inspire others to reach their full potential. I believe that true success comes not only from personal achievements but also from lifting those around you. By fostering collaboration and staying adaptable in a dynamic business landscape, I aim to create positive change and lasting impact in everything I do. Let’s connect! Whether you're seeking a motivated professional to join your network or simply looking to share ideas about driving innovation and growth, I’d love to hear from you.",
+    "about": "As a proud graduate of the TAMUCC with a degree in Management , I am driven by a passion for empowering others and fostering innovation. My educational foundation has equipped me with a versatile skill set that spans strategy, leadership, and creative problem-solving—qualities that I bring to every opportunity. In my current role as a Business Manager, I’ve gained hands-on experience across all facets of business operations, from finance and sales to strategy and process improvement. Collaborating with teams and stakeholders, I strive to identify innovative solutions that drive growth and deliver exceptional results. What motivates me most is the opportunity to inspire others to reach their full potential. I believe that true success comes not only from personal achievements but also from lifting those around you. By fostering collaboration and staying adaptable in a dynamic business landscape, I aim to create positive change and lasting impact in everything I do. Let’s connect! Whether you're seeking a motivated professional to join your network or simply looking to share ideas about driving innovation and growth, I’d love to hear from you.",
     "experience": [
       {
         "company": "Toyota",
@@ -311,8 +311,8 @@ const midProfileData = [
     ],
     "education": [
       {
-        "school": "University of Texas at San Antonio",
-        "schoolLogo": "https://i.ibb.co/DH8K3mtv/the-university-of-texas-at-san-antonio-logo-e-1748476800-v-beta-t-vx-Rdn-Gs-WO44a5-H-n-FCo-Eo3-XNv-P.jpg",
+        "school": "Texas A&M University- Corpus Christi",
+        "schoolLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQHYd3BFB1RNoQ/company-logo_100_100/company-logo_100_100/0/1631311060530?e=1750896000&v=beta&t=VkAeoYLS_9yXKSZ7w9HkhVUALyGkPf2v-70M3B9FQOI",
         "degree": "Bachelor's Degree in Management",
         "duration": "2021 - 2024"
       }
@@ -345,7 +345,7 @@ const midProfileData = [
     "connections": 180,
     "profilePic": "https://i.ibb.co/Q7F03QbX/Sameul.jpg",
     "backgroundPic": "https://i.ibb.co/XPM8KMb/1616872522462-e-1746662400-v-beta-t-Y6v-FHgaa-ZIYJr6t-RDSc-Ed-PYru-Jr-UUy-Xi2-W1l-JFv2-V18.jpg",
-    "about": "Business Major from the University of Texas San Antonio with over 8 years of customer service and sales experience with an ability to deliver profitable solutions. Well-versed in marketing, sales implementation strategies, and basic human resource processes. Success in executing proven business strategies to generate profits.",
+    "about": "Business Major from the Texas A&M University - Kingsville with over 8 years of customer service and sales experience with an ability to deliver profitable solutions. Well-versed in marketing, sales implementation strategies, and basic human resource processes. Success in executing proven business strategies to generate profits.",
     "experience": [
       {
         "company": "Corona Cigar Company",
@@ -389,8 +389,8 @@ const midProfileData = [
     ],
     "education": [
       {
-        "school": "University of Texas at San Antonio",
-        "schoolLogo": "https://i.ibb.co/DH8K3mtv/the-university-of-texas-at-san-antonio-logo-e-1748476800-v-beta-t-vx-Rdn-Gs-WO44a5-H-n-FCo-Eo3-XNv-P.jpg",
+        "school": "Texas A&M University - Kingsville",
+        "schoolLogo": "https://media.licdn.com/dms/image/v2/D560BAQEFJy7BINk67g/company-logo_100_100/B56ZXxmPZ0GsAQ-/0/1743515089321/javelinanation_logo?e=1750896000&v=beta&t=o-_nwjkZFrAS20ThFmNfoeCoquMaEfoxCZ4FyfhfvH8",
         "degree": "Bachelor's Degree in Management",
         "duration": "Jan 2022 - Dec 2023"
       },
@@ -447,11 +447,11 @@ const midProfileData = [
     "id": "MID-07",
     "name": "Elizabeth McAllister",
     "headline": "Management Graduate with Entry-Level Experience in Retail",
-    "location": "Denton, Texas, United States",
+    "location": "Dallas, Texas, United States",
     "connections": 50,
     "profilePic": "https://i.ibb.co/HL2YBJyf/Elizabeth.jpg",
     "backgroundPic": "https://i.ibb.co/PZ07LkRL/Linked-In-Background-Photo-17-1.webp",
-    "about": "Recent Management graduate from the University of North Texas with a passion for retail and customer service. Eager to learn and grow in a professional environment, bringing a positive attitude and a willingness to take on new challenges.",
+    "about": "Recent Management graduate from the Texas State Univeristy with a passion for retail and customer service. Eager to learn and grow in a professional environment, bringing a positive attitude and a willingness to take on new challenges.",
     "experience": [
       {
         "company": "Target",
@@ -480,8 +480,8 @@ const midProfileData = [
     ],
     "education": [
       {
-        "school": "University of North Texas",
-        "schoolLogo": "https://i.ibb.co/cKfG8hH6/northtexas-logo-e-1748476800-v-beta-t-o-ZMRUW2-B7-C7-JKh-Sq-Nc-PPx-R7-Sm-Uc5t5b-W1yv48-Oyy9c.jpg",
+        "school": "Texas State University",
+        "schoolLogo": "https://media.licdn.com/dms/image/v2/C560BAQGo7TTg-tgkdQ/company-logo_100_100/company-logo_100_100/0/1631300608004?e=1750896000&v=beta&t=aPfWFpyU7vczOcmCSJBW8gjiOg4V1Pb4SrZS7Qc0LMY",
         "degree": "Bachelor's Degree in Management",
         "duration": "2019 - 2023"
       }
@@ -526,7 +526,7 @@ const midProfileData = [
     "connections": 324,
     "profilePic": "https://i.ibb.co/fVNkwRQH/Amanda.jpg",
     "backgroundPic": "https://i.ibb.co/F4ZWwzVc/Linked-In-Background-Photo-22-1.webp",
-    "about": "I am a recent graduate from the University of North Texas with a degree in Management. My passion lies in creating innovative marketing strategies that resonate with audiences. I have experience in digital marketing, social media management, and content creation. I am eager to leverage my skills in a dynamic marketing role where I can contribute to brand growth and customer engagement.",
+    "about": "I am a recent graduate from the Texas A&M University - Kingsville with a degree in Management. My passion lies in creating innovative marketing strategies that resonate with audiences. I have experience in digital marketing, social media management, and content creation. I am eager to leverage my skills in a dynamic marketing role where I can contribute to brand growth and customer engagement.",
     "experience": [
       {
         "company": "Midtown Marketing Solutions",
@@ -539,8 +539,8 @@ const midProfileData = [
         ]
       },
       {
-        "company": "University of North Texas",
-        "companyLogo": "https://i.ibb.co/cKfG8hH6/northtexas-logo-e-1748476800-v-beta-t-o-ZMRUW2-B7-C7-JKh-Sq-Nc-PPx-R7-Sm-Uc5t5b-W1yv48-Oyy9c.jpg",
+        "company": "Texas A&M University - Kingsville",
+        "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQEFJy7BINk67g/company-logo_100_100/B56ZXxmPZ0GsAQ-/0/1743515089321/javelinanation_logo?e=1750896000&v=beta&t=o-_nwjkZFrAS20ThFmNfoeCoquMaEfoxCZ4FyfhfvH8",
         "title": "Social Media Coordinator",
         "duration": "Sep 2021 - Dec 2022",
         "bullets": [
@@ -552,8 +552,8 @@ const midProfileData = [
     ],
     "education": [
       {
-        "school": "University of North Texas",
-        "schoolLogo": "https://i.ibb.co/cKfG8hH6/northtexas-logo-e-1748476800-v-beta-t-o-ZMRUW2-B7-C7-JKh-Sq-Nc-PPx-R7-Sm-Uc5t5b-W1yv48-Oyy9c.jpg",
+        "school": "Texas A&M University - Kingsville",
+        "schoolLogo": "https://media.licdn.com/dms/image/v2/D560BAQEFJy7BINk67g/company-logo_100_100/B56ZXxmPZ0GsAQ-/0/1743515089321/javelinanation_logo?e=1750896000&v=beta&t=o-_nwjkZFrAS20ThFmNfoeCoquMaEfoxCZ4FyfhfvH8",
         "degree": "Bachelor's Degree in Management",
         "duration": "2019 - 2023"
       }
@@ -589,7 +589,7 @@ const midProfileData = [
     "id": "MID-09",
     "name": "Melanie Eastwood",
     "headline": "Experienced Finance Analyst",
-    "location": "Orlando, Florida, United States",
+    "location": "Corpus Christi, Texas, United States",
     "connections": 235,
     "profilePic": "https://i.ibb.co/YM4N2Tw/Melanie.jpg",
     "backgroundPic": "https://i.ibb.co/jPkj9Kxx/Linked-In-Background-Photo-102-1.webp",
@@ -622,8 +622,8 @@ const midProfileData = [
     ],
     "education": [
       {
-        "school": "Texas Tech University",
-        "schoolLogo": "https://i.ibb.co/xKYdMFFX/texas-tech-university-logo-e-1748476800-v-beta-t-p-O2-Ug-AWOJHm8crklp-PNBKyd146b5-Fi-SX5-E-n-Cmk2w-K.jpg",
+        "school": "Texas A&M University - Corpus Christi",
+        "schoolLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQHYd3BFB1RNoQ/company-logo_100_100/company-logo_100_100/0/1631311060530?e=1750896000&v=beta&t=VkAeoYLS_9yXKSZ7w9HkhVUALyGkPf2v-70M3B9FQOI",
         "degree": "Bachelor's degree in Management",
         "duration": "2019 - 2023"
       }
@@ -665,7 +665,7 @@ const midProfileData = [
   "connections": 221, // Placeholder for Connections
   "profilePic": "https://i.ibb.co/RkWvrhyt/Ashley.jpg", // Placeholder for Profile Picture
   "backgroundPic": "https://i.ibb.co/C3xL5pbR/240-F-1264607127-Dc9m-Ya-Ke1-Pk-QUYN2-IRiacw5foe8s-Tc-SP.jpg", // Placeholder for Background Picture
-  "about": "Hi, my name is Ashley Merritt, and I recently graduated from Texas Tech University with a Bachelor's degree in Management. I’m passionate about social media, marketing, management, and real estate, and I aim to help businesses effectively promote their goods and services through innovative marketing strategies. I completed a seven-month internship at Mechanical One as a marketing intern, where I learned how to use Photoshop and WordPress, conducted market research, managed social media accounts, created marketing materials, and assisted on set for filming commercials. Additionally, I have worked as a lifeguard and swim coach at my local country club, which has helped me develop essential skills in communication, leadership, and responsibility. I’m proficient in Microsoft Word, PowerPoint, Excel, Photoshop, and Adobe Illustrator, and I have a basic working knowledge of Spanish. Now that I have graduated, I’m eager to find a fulfilling job and eventually pursue a Master’s degree.",
+  "about": "Hi, my name is Ashley Merritt, and I recently graduated from Texas State University with a Bachelor's degree in Management. I’m passionate about social media, marketing, management, and real estate, and I aim to help businesses effectively promote their goods and services through innovative marketing strategies. I completed a seven-month internship at Mechanical One as a marketing intern, where I learned how to use Photoshop and WordPress, conducted market research, managed social media accounts, created marketing materials, and assisted on set for filming commercials. Additionally, I have worked as a lifeguard and swim coach at my local country club, which has helped me develop essential skills in communication, leadership, and responsibility. I’m proficient in Microsoft Word, PowerPoint, Excel, Photoshop, and Adobe Illustrator, and I have a basic working knowledge of Spanish. Now that I have graduated, I’m eager to find a fulfilling job and eventually pursue a Master’s degree.",
   "experience": [
     {
       "company": "Heathrow Country Club",
@@ -701,8 +701,8 @@ const midProfileData = [
   ],
   "education": [
     {
-      "school": "Texas Tech University",
-      "schoolLogo": "https://i.ibb.co/xKYdMFFX/texas-tech-university-logo-e-1748476800-v-beta-t-p-O2-Ug-AWOJHm8crklp-PNBKyd146b5-Fi-SX5-E-n-Cmk2w-K.jpg",
+      "school": "Texas State University",
+      "schoolLogo": "https://media.licdn.com/dms/image/v2/C560BAQGo7TTg-tgkdQ/company-logo_100_100/company-logo_100_100/0/1631300608004?e=1750896000&v=beta&t=aPfWFpyU7vczOcmCSJBW8gjiOg4V1Pb4SrZS7Qc0LMY",
       "degree": "Bachelor's degree in Management",
       "duration": "Aug 2022 - May 2024"
     },
@@ -764,7 +764,7 @@ const midProfileData = [
   "connections": 147,
   "profilePic": "https://i.ibb.co/pjdfkzDd/Lauren.jpg", // Placeholder for Profile Picture
   "backgroundPic": "https://i.ibb.co/ds6PNRLw/Bg2.jpg", // Placeholder for Background Picture
-  "about": "Recent graduate from the University of Texas at San Antonio with a Bachelor's degree in Management. I have experience working in a mid-level company and am eager to apply my skills in a dynamic environment.",
+  "about": "Recent graduate from the Texas A&M University - Kingsville with a Bachelor's degree in Management. I have experience working in a mid-level company and am eager to apply my skills in a dynamic environment.",
   "experience": [
     {
       "company": "HubSpot",
@@ -790,8 +790,8 @@ const midProfileData = [
   ],
   "education": [
     {
-      "school": "University of Texas at San Antonio",
-      "schoolLogo": "https://i.ibb.co/DH8K3mtv/the-university-of-texas-at-san-antonio-logo-e-1748476800-v-beta-t-vx-Rdn-Gs-WO44a5-H-n-FCo-Eo3-XNv-P.jpg",
+      "school": "Texas A&M University - Kingsville",
+      "schoolLogo": "https://media.licdn.com/dms/image/v2/D560BAQEFJy7BINk67g/company-logo_100_100/B56ZXxmPZ0GsAQ-/0/1743515089321/javelinanation_logo?e=1750896000&v=beta&t=o-_nwjkZFrAS20ThFmNfoeCoquMaEfoxCZ4FyfhfvH8",
       "degree": "Bachelor's Degree in Management",
       "duration": "2021 - 2024"
     }
@@ -828,7 +828,7 @@ const midProfileData = [
   "connections": 150,
   "profilePic": "https://i.ibb.co/WvnmwJw2/Megan.jpg",
   "backgroundPic": "https://i.ibb.co/yxCxWtz/AAYABATz-AAg-AAQAAAAAAAL2-POOu6t-Jz-RZet-YZPBibw5z-A.jpg",
-  "about": "Management graduate from the University of Texas at San Antonio with experience in retail management. Skilled in team leadership, customer service, and operations management. Passionate about driving business growth and improving customer satisfaction.",
+  "about": "Management graduate from the Texas A&M University - Corpus Christi with experience in retail management. Skilled in team leadership, customer service, and operations management. Passionate about driving business growth and improving customer satisfaction.",
   "experience": [
     {
       "company": "Central Texas Retail Group",
@@ -854,8 +854,8 @@ const midProfileData = [
   ],
   "education": [
     {
-      "school": "University of Texas at San Antonio",
-      "schoolLogo": "https://i.ibb.co/DH8K3mtv/the-university-of-texas-at-san-antonio-logo-e-1748476800-v-beta-t-vx-Rdn-Gs-WO44a5-H-n-FCo-Eo3-XNv-P.jpg",
+      "school": "Texas A&M University - Corpus Christi",
+      "schoolLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQHYd3BFB1RNoQ/company-logo_100_100/company-logo_100_100/0/1631311060530?e=1750896000&v=beta&t=VkAeoYLS_9yXKSZ7w9HkhVUALyGkPf2v-70M3B9FQOI",
       "degree": "Bachelor's Degree in Management",
       "duration": "2019 - 2023"
     }

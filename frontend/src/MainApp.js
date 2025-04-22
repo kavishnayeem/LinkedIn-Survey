@@ -126,7 +126,7 @@ const MainApp = () => {
 
   useEffect(() => {
     if (!showInitialSurvey && profileSequence.length > 0) {
-      startNextTimer(30);
+      startNextTimer(0);
     }
     return () => clearInterval(nextTimerRef.current);
   }, [showInitialSurvey, profileSequence.length]);
@@ -163,7 +163,7 @@ const MainApp = () => {
       setActiveProfile(prev => {
         const newProfile = prev + 1;
         sessionStorage.setItem('activeProfile', newProfile);
-        startNextTimer(30);
+        startNextTimer(0);
         // Scroll both panes back to top
         if (leftPaneRef.current) {
           leftPaneRef.current.scrollTop = 0;

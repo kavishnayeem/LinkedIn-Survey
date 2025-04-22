@@ -788,7 +788,7 @@ const highProfiles = [
         },
         {
           "company": "Texas Community Impact Initiative",
-          "companyLogo": "https://i.ibb.co/6RG6zstk/baylor-university-logo-e-1748476800-v-beta-t-Xw-Gqd-S6-NLh-HAn-IF1iwo-MRRc-HNCkk2-Ddgx5-WYe-Vj2oh-Y.jpg",
+          "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQGo7TTg-tgkdQ/company-logo_100_100/company-logo_100_100/0/1631300608004?e=1750896000&v=beta&t=aPfWFpyU7vczOcmCSJBW8gjiOg4V1Pb4SrZS7Qc0LMY",
           "title": "Student Program Manager",
           "duration": "August 2023 - May 2024",
           "bullets": [
@@ -1172,7 +1172,7 @@ const highProfiles = [
         },
         {
           "name": "Sustainability Marketing Strategies",
-          "issuerLogo": "https://i.ibb.co/VcfZwwFG/texas-am-university-logo-e-1748476800-v-beta-t-A-k-Act-Ikw7lj-MDQFNy-Gw-Tx-Jx86h0a-RXXDy-UXK0op-Yo-Q.jpg",
+          "issuerLogo": "https://media.licdn.com/dms/image/v2/D560BAQEFJy7BINk67g/company-logo_100_100/B56ZXxmPZ0GsAQ-/0/1743515089321/javelinanation_logo?e=1750896000&v=beta&t=o-_nwjkZFrAS20ThFmNfoeCoquMaEfoxCZ4FyfhfvH8",
           "issuer": "Texas A&M Executive Education",
           "issueDate": "2022"
         }
@@ -1199,7 +1199,7 @@ const highProfiles = [
       "volunteering": [
         {
           "company": "Aggies for Sustainable Business",
-          "companyLogo":"https://i.ibb.co/VcfZwwFG/texas-am-university-logo-e-1748476800-v-beta-t-A-k-Act-Ikw7lj-MDQFNy-Gw-Tx-Jx86h0a-RXXDy-UXK0op-Yo-Q.jpg",
+          "companyLogo":"https://media.licdn.com/dms/image/v2/D560BAQEFJy7BINk67g/company-logo_100_100/B56ZXxmPZ0GsAQ-/0/1743515089321/javelinanation_logo?e=1750896000&v=beta&t=o-_nwjkZFrAS20ThFmNfoeCoquMaEfoxCZ4FyfhfvH8",
           "title": "Program Coordinator",
           "duration": "2020 - 2023",
           "bullets": [
