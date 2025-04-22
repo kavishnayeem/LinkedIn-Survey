@@ -63,8 +63,8 @@ const highProfiles = [
     ],
     "education": [
       {
-        "school": "Texas A&M University",
-        "schoolLogo": "https://i.ibb.co/VcfZwwFG/texas-am-university-logo-e-1748476800-v-beta-t-A-k-Act-Ikw7lj-MDQFNy-Gw-Tx-Jx86h0a-RXXDy-UXK0op-Yo-Q.jpg",
+        "school": "Texas A&M University - Corpus Christi",
+        "schoolLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQHYd3BFB1RNoQ/company-logo_100_100/company-logo_100_100/0/1631311060530?e=1750896000&v=beta&t=VkAeoYLS_9yXKSZ7w9HkhVUALyGkPf2v-70M3B9FQOI",
         "degree": "Bachelor's degree in Management",
         "duration": "2019 - 2023",
         "courses": [
@@ -565,7 +565,7 @@ const highProfiles = [
       "connections": 500,
       "profilePic": "https://i.ibb.co/274LZbt1/Jordan1.jpg",
       "backgroundPic": "https://i.ibb.co/9HW7Wb18/inscription-risk-management-on-abstract-double-exposure-business-mixed-media-background-photo.jpg",
-      "about": "Hello everyone, I am a Texas A&M University graduate with a Bachelor's degree in Management. With over seven years of experience in customer service and financial operations, I am constantly looking for new opportunities to grow professionally. Currently, I work as a Lead Analyst in Market/Client Risk Management at BNY Mellon, where I specialize in risk assessment and transaction analysis. Previously, I served as a Financial Counselor at Orlando Health, where I honed my problem-solving and communication skills. I am passionate about continuous learning and professional development, always striving to enhance my expertise in business strategy, leadership, and risk management.",
+      "about": "Hello everyone, I am a Texas A&M University Corpus Christi graduate with a Bachelor's degree in Management. With over seven years of experience in customer service and financial operations, I am constantly looking for new opportunities to grow professionally. Currently, I work as a Lead Analyst in Market/Client Risk Management at BNY Mellon, where I specialize in risk assessment and transaction analysis. Previously, I served as a Financial Counselor at Orlando Health, where I honed my problem-solving and communication skills. I am passionate about continuous learning and professional development, always striving to enhance my expertise in business strategy, leadership, and risk management.",
       "experience": [
         {
           "company": "BNY Mellon",
@@ -602,8 +602,8 @@ const highProfiles = [
       ],
       "education": [
         {
-          "school": "Texas A&M University",
-          "schoolLogo": "https://i.ibb.co/VcfZwwFG/texas-am-university-logo-e-1748476800-v-beta-t-A-k-Act-Ikw7lj-MDQFNy-Gw-Tx-Jx86h0a-RXXDy-UXK0op-Yo-Q.jpg",
+          "school": "Texas A&M University - Corpus Christi",
+          "schoolLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQHYd3BFB1RNoQ/company-logo_100_100/company-logo_100_100/0/1631311060530?e=1750896000&v=beta&t=VkAeoYLS_9yXKSZ7w9HkhVUALyGkPf2v-70M3B9FQOI",
           "degree": "Bachelor's Degree in Management",
           "duration": "2019 - 2023",
           "courses": [
@@ -767,12 +767,12 @@ const highProfiles = [
     {
       "id": "HIGH-06",
       "name": "Charles Beaumont",
-      "headline": "Operations Manager @ Ferrari | Community Development | Baylor University Honors Graduate",
+      "headline": "Operations Manager @ Ferrari | Community Development | Texas State University Honors Graduate",
       "location": "Austin, Texas, United States",
       "connections": 412,
       "profilePic": "https://i.ibb.co/yF8f9rrv/Charles.jpg",
       "backgroundPic": "https://i.ibb.co/Mybdzh5b/Consulting-Linked-In-Cover-Banner-3-qx2xbjad7vxfuojfbso3kye92gco5ikcjhg2ma0nzs.webp",
-      "about": "Results-oriented operations coordinator with a BBA in Management from Baylor University (Class of 2025), specializing in enhancing organizational efficiency and community engagement. Currently overseeing operations at Ferrari, where I implement training programs and streamline supply chain processes to ensure high-quality standards. \n\nMy academic background in social enterprise management, combined with hands-on experience in program development and community service, has equipped me with the skills to drive impactful initiatives. I successfully directed student-led projects that served over 5,000 residents and secured significant funding for community programs. Passionate about leveraging my operational expertise to foster sustainable development and community impact.\n\nEager to connect with professionals in operations management, community development, and nonprofit sectors!",
+      "about": "Results-oriented operations coordinator with a BBA in Management from Texas State (Class of 2025), specializing in enhancing organizational efficiency and community engagement. Currently overseeing operations at Ferrari, where I implement training programs and streamline supply chain processes to ensure high-quality standards. \n\nMy academic background in social enterprise management, combined with hands-on experience in program development and community service, has equipped me with the skills to drive impactful initiatives. I successfully directed student-led projects that served over 5,000 residents and secured significant funding for community programs. Passionate about leveraging my operational expertise to foster sustainable development and community impact.\n\nEager to connect with professionals in operations management, community development, and nonprofit sectors!",
       "experience": [
         {
           "company": "Ferrari",
@@ -787,7 +787,7 @@ const highProfiles = [
           ]
         },
         {
-          "company": "Baylor Community Impact Initiative",
+          "company": "Texas Community Impact Initiative",
           "companyLogo": "https://i.ibb.co/6RG6zstk/baylor-university-logo-e-1748476800-v-beta-t-Xw-Gqd-S6-NLh-HAn-IF1iwo-MRRc-HNCkk2-Ddgx5-WYe-Vj2oh-Y.jpg",
           "title": "Student Program Manager",
           "duration": "August 2023 - May 2024",
@@ -836,8 +836,8 @@ const highProfiles = [
       ],
       "education": [
         {
-          "school": "Baylor University",
-          "schoolLogo": "https://i.ibb.co/6RG6zstk/baylor-university-logo-e-1748476800-v-beta-t-Xw-Gqd-S6-NLh-HAn-IF1iwo-MRRc-HNCkk2-Ddgx5-WYe-Vj2oh-Y.jpg",
+          "school": "Texas State University",
+          "schoolLogo": "https://media.licdn.com/dms/image/v2/C560BAQGo7TTg-tgkdQ/company-logo_100_100/company-logo_100_100/0/1631300608004?e=1750896000&v=beta&t=aPfWFpyU7vczOcmCSJBW8gjiOg4V1Pb4SrZS7Qc0LMY",
           "degree": "BBA in Management with Social Enterprise Focus",
           "duration": "2021 - 2025",
           "courses": [
@@ -883,7 +883,7 @@ const highProfiles = [
     {
       "id": "HIGH-07",
       "name": "Danielle Fairchild",
-      "headline": "Business Analyst | Contract Management Specialist | UT Austin Honors Graduate",
+      "headline": "Business Analyst | Contract Management Specialist | Rice University Honors Graduate",
       "location": "Austin, Texas, United States",
       "connections": 450,
       "profilePic": "https://i.ibb.co/MFsGK9G/Danielle.jpg",
@@ -914,8 +914,8 @@ const highProfiles = [
           ]
         },
         {
-          "company": "UT Austin McCombs School of Business",
-          "companyLogo": "https://i.ibb.co/HpNd8bmg/department-of-computer-science-the-university-of-texas-at-austin-logo-e-1748476800-v-beta-t-n-GIPh7k.jpg",
+          "company": "Rice University",
+          "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQGBW9UluY3-Vg/company-logo_100_100/company-logo_100_100/0/1630602229448/riceuniversity_logo?e=1750896000&v=beta&t=0hKTqFxEwYuEVvX4YQO7rD7t4rpv6prp6elO3uTH_5g",
           "title": "Business Law Teaching Assistant",
           "duration": "Aug 2020 - May 2022",
           "bullets": [
@@ -951,8 +951,8 @@ const highProfiles = [
       ],
       "education": [
         {
-          "school": "University of Texas at Austin",
-          "schoolLogo": "https://i.ibb.co/HpNd8bmg/department-of-computer-science-the-university-of-texas-at-austin-logo-e-1748476800-v-beta-t-n-GIPh7k.jpg",
+          "school": "Rice University",
+          "schoolLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQGBW9UluY3-Vg/company-logo_100_100/company-logo_100_100/0/1630602229448/riceuniversity_logo?e=1750896000&v=beta&t=0hKTqFxEwYuEVvX4YQO7rD7t4rpv6prp6elO3uTH_5g",
           "degree": "BBA in Management",
           "duration": "2019 - 2023",
           "courses": [
@@ -1003,12 +1003,12 @@ const highProfiles = [
     {
       "id": "HIGH-08",
       "name": "Vanessa Loring",
-      "headline": "Sports Marketing Professional | Ticket Sales Strategist | Baylor University Alumni",
+      "headline": "Sports Marketing Professional | Ticket Sales Strategist | Rice University Alumni",
       "location": "Dallas, Texas, United States",
       "connections": 850,
       "profilePic": "https://i.ibb.co/WWsKLxQt/Venessa.jpg",
       "backgroundPic": "https://i.ibb.co/gLHBWnmm/IH-1.jpg",
-      "about": "Dynamic sports marketing specialist with 4+ years of experience driving revenue growth and brand engagement in professional hockey and baseball organizations. Baylor University graduate (BBA in Management, 2022) combining strategic sales acumen with digital marketing expertise to deliver record-breaking ticket sales and community impact. \n\nCurrently driving game attendance growth as Account Executive for the Iowa Heartlanders (ECHL), leveraging data-driven strategies that increased group ticket sales by 35% in debut season. Former marketing team leader for multiple minor league franchises, developing innovative campaigns that boosted social media engagement by 150% across platforms.\n\nCertified in ethical leadership and Microsoft Office Suite, with proven ability to merge analytical skills with creative problem-solving. Proud Delta Zeta alumna applying sorority leadership experience to community outreach initiatives and corporate partnerships.",
+      "about": "Dynamic sports marketing specialist with 4+ years of experience driving revenue growth and brand engagement in professional hockey and baseball organizations. Rice University graduate (BBA in Management, 2022) combining strategic sales acumen with digital marketing expertise to deliver record-breaking ticket sales and community impact. \n\nCurrently driving game attendance growth as Account Executive for the Iowa Heartlanders (ECHL), leveraging data-driven strategies that increased group ticket sales by 35% in debut season. Former marketing team leader for multiple minor league franchises, developing innovative campaigns that boosted social media engagement by 150% across platforms.\n\nCertified in ethical leadership and Microsoft Office Suite, with proven ability to merge analytical skills with creative problem-solving. Proud Delta Zeta alumna applying sorority leadership experience to community outreach initiatives and corporate partnerships.",
       "experience": [
         {
           "company": "Iowa Heartlanders (ECHL)",
@@ -1033,8 +1033,8 @@ const highProfiles = [
           ]
         },
         {
-          "company": "Baylor University Athletics",
-          "companyLogo": "https://i.ibb.co/6RG6zstk/baylor-university-logo-e-1748476800-v-beta-t-Xw-Gqd-S6-NLh-HAn-IF1iwo-MRRc-HNCkk2-Ddgx5-WYe-Vj2oh-Y.jpg",
+          "company": "Rice University Athletics",
+          "companyLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQGBW9UluY3-Vg/company-logo_100_100/company-logo_100_100/0/1630602229448/riceuniversity_logo?e=1750896000&v=beta&t=0hKTqFxEwYuEVvX4YQO7rD7t4rpv6prp6elO3uTH_5g",
           "title": "Marketing Team Lead",
           "duration": "Aug 2022 - Jul 2023",
           "bullets": [
@@ -1046,8 +1046,8 @@ const highProfiles = [
       ],
       "education": [
         {
-          "school": "Baylor University",
-          "schoolLogo": "https://i.ibb.co/6RG6zstk/baylor-university-logo-e-1748476800-v-beta-t-Xw-Gqd-S6-NLh-HAn-IF1iwo-MRRc-HNCkk2-Ddgx5-WYe-Vj2oh-Y.jpg",
+          "school": "Rice University",
+          "schoolLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQGBW9UluY3-Vg/company-logo_100_100/company-logo_100_100/0/1630602229448/riceuniversity_logo?e=1750896000&v=beta&t=0hKTqFxEwYuEVvX4YQO7rD7t4rpv6prp6elO3uTH_5g",
           "degree": "BBA in Marketing Management",
           "duration": "2019 - 2022",
           "courses": [
@@ -1107,12 +1107,12 @@ const highProfiles = [
     {
       "id": "HIGH-09",
       "name": "Jennifer Langston",
-      "headline": "Marketing Strategist | Brand Development Specialist | Texas A&M Alumni",
+      "headline": "Marketing Strategist | Brand Development Specialist | Texas A&M Kingsville Alumni",
       "location": "Austin, Texas, United States",
       "connections": 650,
       "profilePic": "https://i.ibb.co/C5ZrD0B3/Jennifer.jpg",
       "backgroundPic": "https://i.ibb.co/7JZM4JYC/HR-Linked-In-Cover-Banner-1-qx2x99iepathslu7lbbk2115dxjqjujp88otv7dx14.webp",
-      "about": "Dynamic marketing professional with a BBA in Management from Texas A&M University (Class of 2023). Combines creative campaign development with data-driven strategies to build authentic brand communities. Passionate about sustainable business practices and innovative marketing solutions that align organizational values with consumer expectations.\n\nAs a proud Aggie, I honed my skills through Texas A&M's renowned business program, leading cross-functional teams in real-world marketing projects for local enterprises. Currently driving brand growth at Austin's premier marketing agency, where I've increased client engagement metrics by an average of 45% through integrated digital strategies.\n\nCertified in marketing analytics and sustainability management, with proven success in transforming brand narratives into measurable business outcomes. Let's connect to discuss innovative approaches to community-driven marketing!",
+      "about": "Dynamic marketing professional with a BBA in Management from Texas A&M University Kingsville (Class of 2023). Combines creative campaign development with data-driven strategies to build authentic brand communities. Passionate about sustainable business practices and innovative marketing solutions that align organizational values with consumer expectations.\n\nAs a proud Aggie, I honed my skills through Texas A&M's renowned business program, leading cross-functional teams in real-world marketing projects for local enterprises. Currently driving brand growth at Austin's premier marketing agency, where I've increased client engagement metrics by an average of 45% through integrated digital strategies.\n\nCertified in marketing analytics and sustainability management, with proven success in transforming brand narratives into measurable business outcomes. Let's connect to discuss innovative approaches to community-driven marketing!",
       "experience": [
         {
           "company": "Priority Marketing",
@@ -1138,7 +1138,7 @@ const highProfiles = [
         },
         {
           "company": "Texas A&M Business Development Center",
-          "companyLogo": "https://i.ibb.co/VcfZwwFG/texas-am-university-logo-e-1748476800-v-beta-t-A-k-Act-Ikw7lj-MDQFNy-Gw-Tx-Jx86h0a-RXXDy-UXK0op-Yo-Q.jpg",
+          "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQEFJy7BINk67g/company-logo_100_100/B56ZXxmPZ0GsAQ-/0/1743515089321/javelinanation_logo?e=1750896000&v=beta&t=o-_nwjkZFrAS20ThFmNfoeCoquMaEfoxCZ4FyfhfvH8",
           "title": "Marketing Strategy Intern",
           "duration": "Jun 2021 - Aug 2023",
           "bullets": [
@@ -1150,8 +1150,8 @@ const highProfiles = [
       ],
       "education": [
         {
-          "school": "Texas A&M University",
-          "schoolLogo": "https://i.ibb.co/VcfZwwFG/texas-am-university-logo-e-1748476800-v-beta-t-A-k-Act-Ikw7lj-MDQFNy-Gw-Tx-Jx86h0a-RXXDy-UXK0op-Yo-Q.jpg",
+          "school": "Texas A&M University Kingsville",
+          "schoolLogo": "https://media.licdn.com/dms/image/v2/D560BAQEFJy7BINk67g/company-logo_100_100/B56ZXxmPZ0GsAQ-/0/1743515089321/javelinanation_logo?e=1750896000&v=beta&t=o-_nwjkZFrAS20ThFmNfoeCoquMaEfoxCZ4FyfhfvH8",
           "degree": "BBA in Marketing Management",
           "duration": "2019 - 2023",
           "courses": [
