@@ -4,12 +4,107 @@
   height: 100vh; 
 }
 
-.split-view {
+.progress-container {
   display: flex;
-  flex: 1;
-  height: 100vh; 
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background: #fff;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  position: sticky;
+  top: 0;
+  z-index: 100;
 }
 
+/* Progress Indicator */
+.progress-indicator {
+  display: flex;
+  gap: 10px;
+  flex-grow: 1;
+  margin-right: 20px;
+}
+
+.progress-dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background-color: #ddd;
+  transition: background-color 0.3s ease;
+}
+
+.progress-dot.completed {
+  background-color: #4CAF50;
+}
+
+.progress-dot.current {
+  background-color: #FFC107;
+}
+.nav {
+  position:fixed;
+  top: 0;
+  width: 100%;
+  background-color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 0;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  z-index: 100;
+}
+
+/* Next Button */
+.start-button,
+.next-button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 20px;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  white-space: nowrap;
+  min-width: 140px;
+}
+.start-button.active,
+.next-button.active {
+  background-color: #4CAF50;
+  color: white;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+.start-button.disabled,
+.next-button.disabled {
+  background-color: #e0e0e0;
+  color: #9e9e9e;
+  cursor: not-allowed;
+}
+
+/* Split View */
+.split-view {
+  display: flex;
+  height: calc(100vh - 74px); /* Account for progress container height */
+  width: 100%;
+}
+.qualtrics-container iframe {
+  overflow: hidden !important;
+  display: block; /* Prevents extra space issues */
+}
+/* Scrollable Panes */
+.left-pane,
+.right-pane {
+  overflow-y: auto;
+  height: calc(100vh - 120px);
+  padding: 1rem;
+}
+
+
+.loading {
+  text-align: center;
+  padding: 2rem;
+  font-size: 1.2rem;
+  color: #666;
+}
+
+/* Existing split-view styles remain the same */
 .left-pane {
   width: 60%; 
   padding: 5px;

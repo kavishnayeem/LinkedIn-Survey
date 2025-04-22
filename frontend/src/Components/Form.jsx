@@ -11,7 +11,8 @@ class Form extends React.Component {
         completeness: 1,
         skills: 1,
         overall: 1
-      }
+      },
+      isSubmitted: false // New state to track submission
     };
     
     this.questions = [
@@ -42,11 +43,59 @@ class Form extends React.Component {
     }));
   };
 
-  handleSubmit = (event) => {
+  showAlert = (message) => {
+    // Function to display alert in HTML format
+    const alertContainer = document.createElement('div');
+    alertContainer.className = 'alert';
+    alertContainer.innerHTML = message;
+    document.body.appendChild(alertContainer);
+    setTimeout(() => {
+      document.body.removeChild(alertContainer);
+    }, 3000); // Remove alert after 3 seconds
+  };
+
+  handleSubmit = async (event) => {
     event.preventDefault();
-    console.log(`Evaluation Data for Profile ${this.props.activeProfile}:`, JSON.stringify(this.state, null, 2));
-    alert('Thank you for your professional evaluation!');
-    this.resetForm();
+    if (this.props.isSubmitted) return;
+  
+    // Calculate quality based on responses (you can adjust the logic as needed)
+    const quality = Object.values(this.state.responses).reduce((a, b) => a + b, 0) / Object.values(this.state.responses).length;
+
+    // Retrieve quality from local storage
+    const storedQuality = localStorage.getItem('quality');
+
+    try {
+      const response = await fetch('http://localhost:5000/api/submit', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        
+        body: JSON.stringify({
+          userId: this.props.userId,
+          profileId: this.props.profileData.id,
+          responses: {
+            ...this.state.responses,
+            quality: storedQuality ? parseInt(storedQuality) : quality // Use stored quality if available
+          }
+        }),
+      });
+  
+      const data = await response.json(); // Parse response
+      
+      if (!response.ok) {
+        throw new Error(data.error || 'Submission failed');
+      }
+  
+      this.resetForm();
+      if (this.props.onSubmitSuccess) {
+        this.props.onSubmitSuccess();
+      }
+      this.showAlert("Form submitted successfully!");
+    } catch (error) {
+      console.error('Submission error:', error);
+      this.showAlert(error.message || 'Failed to submit. Please try again.');
+    }
   };
 
   resetForm = () => {
@@ -57,7 +106,8 @@ class Form extends React.Component {
         completeness: 1,
         skills: 1,
         overall: 1
-      }
+      },
+      isSubmitted: false // Reset the submission state
     });
   };
 
@@ -104,9 +154,13 @@ class Form extends React.Component {
           {this.questions.map(this.renderQuestionRow)}
 
           <div className="form-actions">
-            <button type="submit" className="submit-button">
-              Submit Evaluation
-            </button>
+          <button 
+              type="submit" 
+              className="submit-button" 
+              disabled={this.props.isSubmitted}
+          >
+          {this.props.isSubmitted ? 'Already Submitted' : 'Submit Evaluation'}
+        </button>
           </div>
         </form>
       </div>
