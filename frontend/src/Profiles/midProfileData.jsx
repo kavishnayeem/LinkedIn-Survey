@@ -5,7 +5,7 @@ const midProfileData = [
     "opentowork":"Yes",
     "headline": "Management Graduate | Customer Service Professional",
     "location": "Corpus Christi, Texas, United States",
-    "connections": 200,
+    "connections": 50,
     "profilePic": "https://i.ibb.co/Tx9t2JTv/Robert.jpg",
     "backgroundPic": "https://i.ibb.co/Wvy7qXQ6/Real-Estate-Linked-In-Background-Photo.png",
     "about": "Management graduate from the TAMUCC with over 3 years of customer service experience. I am an outgoing individual who enjoys learning through hands-on experiences and exploring the outdoors.",
@@ -55,7 +55,7 @@ const midProfileData = [
     "name": "Michael Caldwell",
     "headline": "Integrated Business Student | Customer Service Expert",
     "location": "Denton, Texas, United States",
-    "connections": 150,
+    "connections": 50,
     "profilePic": "https://i.ibb.co/SXM0g7L0/Michael.jpg", // Placeholder image
     "backgroundPic": "https://i.ibb.co/ds6PNRLw/Bg2.jpg",
     "about": "I am a Management student at the Texas State University with over 5 years of customer service experience in busy restaurants and retail sales. I know how to use social media management tools and I am skilled at using AI tools like ChatGPT. I have also worked in management in the food industry, where I developed strong skills in training staff and delegating tasks.",
@@ -114,7 +114,7 @@ const midProfileData = [
         "opentowork":"Yes",
     "headline": "Business Development Professional with Diverse Industry Experience",
     "location": "San Antonio, Texas, United States",
-    "connections": 200,
+    "connections": 50,
     "profilePic": "https://i.ibb.co/9k0924m9/Joseph.jpg",
     "backgroundPic": "https://i.ibb.co/3Yr51w3n/bg3.jpg",
     "about": "With a diverse professional background spanning business development, sales, research, and customer service, I’ve had the opportunity to work across a variety of industries, shaping my ability to thrive in dynamic environments. From construction and real estate to retail and entrepreneurial ventures, my skill set and adaptable approach have allowed me to drive results, build lasting relationships, and contribute to business growth in multiple sectors.",
@@ -185,7 +185,7 @@ const midProfileData = [
     "name": "Brian Lancaster",
     "headline": "Full-time Student and Retail Professional",
     "location": "San Antonio, Texas, United States",
-    "connections": 178,
+    "connections": 50,
     "profilePic": "https://i.ibb.co/pvkP6ft7/Brian.jpg",
     "backgroundPic": "https://i.ibb.co/VcSspKDq/gb3.jpg",
     "about": "I have three years of experience working in the retail field. Currently, I am a full-time student at Texas A&M University - Kingsville and am pursuing a degree in Management. I plan to graduate in the fall of 2023.",
@@ -262,7 +262,7 @@ const midProfileData = [
     "name": "Kevin Holloway",
     "headline": "Business Manager | Passionate Innovator",
     "location": "San Antonio, Texas, United States",
-    "connections": 125,
+    "connections": 50,
     "profilePic": "https://i.ibb.co/ms0165w/Kevin.jpg",
     "backgroundPic": 'https://i.ibb.co/vCDTNXqZ/19baa44e46d98adf2ab99acc6c424aa5.jpg',
     "about": "As a proud graduate of the TAMUCC with a degree in Management , I am driven by a passion for empowering others and fostering innovation. My educational foundation has equipped me with a versatile skill set that spans strategy, leadership, and creative problem-solving—qualities that I bring to every opportunity. In my current role as a Business Manager, I’ve gained hands-on experience across all facets of business operations, from finance and sales to strategy and process improvement. Collaborating with teams and stakeholders, I strive to identify innovative solutions that drive growth and deliver exceptional results. What motivates me most is the opportunity to inspire others to reach their full potential. I believe that true success comes not only from personal achievements but also from lifting those around you. By fostering collaboration and staying adaptable in a dynamic business landscape, I aim to create positive change and lasting impact in everything I do. Let’s connect! Whether you're seeking a motivated professional to join your network or simply looking to share ideas about driving innovation and growth, I’d love to hear from you.",
@@ -342,7 +342,7 @@ const midProfileData = [
 
     "headline": "Business Major with Extensive Customer Service Experience",
     "location": "Austin, Texas, United States",
-    "connections": 180,
+    "connections": 50,
     "profilePic": "https://i.ibb.co/Q7F03QbX/Sameul.jpg",
     "backgroundPic": "https://i.ibb.co/XPM8KMb/1616872522462-e-1746662400-v-beta-t-Y6v-FHgaa-ZIYJr6t-RDSc-Ed-PYru-Jr-UUy-Xi2-W1l-JFv2-V18.jpg",
     "about": "Business Major from the Texas A&M University - Kingsville with over 8 years of customer service and sales experience with an ability to deliver profitable solutions. Well-versed in marketing, sales implementation strategies, and basic human resource processes. Success in executing proven business strategies to generate profits.",
@@ -523,7 +523,7 @@ const midProfileData = [
 
     "headline": "Aspiring Marketing Professional | Creative Thinker",
     "location": "Denton, Texas, United States",
-    "connections": 324,
+    "connections": 67,
     "profilePic": "https://i.ibb.co/fVNkwRQH/Amanda.jpg",
     "backgroundPic": "https://i.ibb.co/F4ZWwzVc/Linked-In-Background-Photo-22-1.webp",
     "about": "I am a recent graduate from the Texas A&M University - Kingsville with a degree in Management. My passion lies in creating innovative marketing strategies that resonate with audiences. I have experience in digital marketing, social media management, and content creation. I am eager to leverage my skills in a dynamic marketing role where I can contribute to brand growth and customer engagement.",
@@ -590,7 +590,7 @@ const midProfileData = [
     "name": "Melanie Eastwood",
     "headline": "Experienced Finance Analyst",
     "location": "Corpus Christi, Texas, United States",
-    "connections": 235,
+    "connections": 80,
     "profilePic": "https://i.ibb.co/YM4N2Tw/Melanie.jpg",
     "backgroundPic": "https://i.ibb.co/jPkj9Kxx/Linked-In-Background-Photo-102-1.webp",
     "about": "Experienced Finance Analyst, adept at managing the budget for large complex federal and commercial programs. Skilled in conducting detailed financial analysis and presenting findings to executive management to make profitable data driven decisions. Well versed in the use of Deltek Cobra and Oracle Hyperion to build and maintain forecasts to optimize the profitability of the firm.",
@@ -662,7 +662,7 @@ const midProfileData = [
 
   "headline": "Recent Management Graduate with Experience in Marketing and Coaching",
   "location": "Dallas, Texas, United States",
-  "connections": 221, // Placeholder for Connections
+  "connections": 75, // Placeholder for Connections
   "profilePic": "https://i.ibb.co/RkWvrhyt/Ashley.jpg", // Placeholder for Profile Picture
   "backgroundPic": "https://i.ibb.co/C3xL5pbR/240-F-1264607127-Dc9m-Ya-Ke1-Pk-QUYN2-IRiacw5foe8s-Tc-SP.jpg", // Placeholder for Background Picture
   "about": "Hi, my name is Ashley Merritt, and I recently graduated from Texas State University with a Bachelor's degree in Management. I’m passionate about social media, marketing, management, and real estate, and I aim to help businesses effectively promote their goods and services through innovative marketing strategies. I completed a seven-month internship at Mechanical One as a marketing intern, where I learned how to use Photoshop and WordPress, conducted market research, managed social media accounts, created marketing materials, and assisted on set for filming commercials. Additionally, I have worked as a lifeguard and swim coach at my local country club, which has helped me develop essential skills in communication, leadership, and responsibility. I’m proficient in Microsoft Word, PowerPoint, Excel, Photoshop, and Adobe Illustrator, and I have a basic working knowledge of Spanish. Now that I have graduated, I’m eager to find a fulfilling job and eventually pursue a Master’s degree.",
@@ -761,7 +761,7 @@ const midProfileData = [
   "name": "Olivia	Grant",
   "headline": "Dynamic Management Graduate | Experienced Operations Coordinator",
   "location": "San Antonio, Texas, United States",
-  "connections": 147,
+  "connections": 66,
   "profilePic": "https://i.ibb.co/pjdfkzDd/Lauren.jpg", // Placeholder for Profile Picture
   "backgroundPic": "https://i.ibb.co/ds6PNRLw/Bg2.jpg", // Placeholder for Background Picture
   "about": "Recent graduate from the Texas A&M University - Kingsville with a Bachelor's degree in Management. I have experience working in a mid-level company and am eager to apply my skills in a dynamic environment.",
@@ -825,7 +825,7 @@ const midProfileData = [
   "name": "Hannah	Clark",
   "headline": "Assistant Manager at Central Texas Retail Group | Management Graduate",
   "location": "San Antonio, Texas, United States",
-  "connections": 150,
+  "connections": 77,
   "profilePic": "https://i.ibb.co/WvnmwJw2/Megan.jpg",
   "backgroundPic": "https://i.ibb.co/yxCxWtz/AAYABATz-AAg-AAQAAAAAAAL2-POOu6t-Jz-RZet-YZPBibw5z-A.jpg",
   "about": "Management graduate from the Texas A&M University - Corpus Christi with experience in retail management. Skilled in team leadership, customer service, and operations management. Passionate about driving business growth and improving customer satisfaction.",
