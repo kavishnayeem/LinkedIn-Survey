@@ -3,7 +3,7 @@ import { createClient } from '@supabase/supabase-js';
 import cors from 'cors';
 import serverless from 'serverless-http';
 import dotenv from 'dotenv';
-import submissionRouter from './route/submission.js';
+import submissionRouter from './routes/submissions.js';
 process.on('uncaughtException', (error) => {
   console.error('Uncaught Exception:', error);
 });
@@ -16,7 +16,6 @@ const app = express();
 // Update allowedOrigins to match your actual frontend URL
 const allowedOrigins = [
   'https://linkedin-survey.vercel.app', // Main frontend URL
-  'https://linkedin-survey-git-main-lakshya-singhs-projects.vercel.app', // Vercel preview URLs
   'http://localhost:3000'
 ];
 
