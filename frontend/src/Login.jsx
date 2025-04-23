@@ -10,7 +10,7 @@ const Login = () => {
   const handleLogin = async (e) => {
     e.preventDefault();
     try {
-      const response = await fetch('linked-in-survey-backend-seven.vercel.app/api/login', {
+      const response = await fetch('https://linked-in-survey-backend-seven.vercel.app/api/login', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ userId: passkey.trim() }),

@@ -3,6 +3,7 @@ import { createClient } from '@supabase/supabase-js';
 import cors from 'cors';
 import serverless from 'serverless-http';
 import dotenv from 'dotenv';
+import submissionRouter from './route/submission.js';
 
 dotenv.config();
 
@@ -12,7 +13,7 @@ const allowedOrigins = [
   'https://linkedin-survey.vercel.app',
   'http://localhost:3000'
 ];
-
+app.use('/api/submit', submissionRouter);
 app.use(cors({
   origin: allowedOrigins,
   methods: ['POST', 'GET'],
