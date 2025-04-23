@@ -7,7 +7,7 @@ import highProfileData from "./Profiles/highProfileData.jsx";
 import lowProfileData from "./Profiles/lowProfileData.jsx";
 
 const InitialQualtricsSurvey = ({ userId, onStart, initialCountdown = 30 }) => {
-  const surveyUrl = `https://qualtricsxm3p2n3c7vk.qualtrics.com/jfe/form/SV_1OcuGjqic7FPLHU?userId=${userId}`;
+  const surveyUrl = `https://tamucc.co1.qualtrics.com/jfe/form/SV_cH2qf6ZW5XHUp9A?userId=${userId}`;
   const [timerActive, setTimerActive] = useState(false);
   const [countdown, setCountdown] = useState(initialCountdown);
   const timerRef = useRef(null);

@@ -5,7 +5,7 @@ import './ThankYou.css';
 const ThankYou = () => {
   const navigate = useNavigate();
   const { userId } = useParams();
-  const surveyUrl = `https://qualtricsxm3p2n3c7vk.qualtrics.com/jfe/form/SV_eqHmsGXXAcEnnX8?userId=${userId}`;
+  const surveyUrl = `https://tamucc.co1.qualtrics.com/jfe/form/SV_bDubTHdi96CCJWm?userId=${userId}`;
 
   const handleLogout = () => {
     localStorage.removeItem('valid');
