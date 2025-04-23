@@ -21,7 +21,7 @@ const Login = () => {
       const result = await response.json();
       localStorage.setItem('valid', "true");
       localStorage.setItem('userData', JSON.stringify(result.user));
-      localStorage.setItem('quality', result.user.quality);
+      localStorage.setItem('quality', result.user.quality.toString());
 
       navigate(`/app/${result.user.user_id}`);
       
