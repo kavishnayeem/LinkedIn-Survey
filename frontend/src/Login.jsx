@@ -1,32 +1,35 @@
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
+import users from './Users/Users.jsx'; // Import the JSON array directly
 import './Login.css';
 
 const Login = () => {
   const [passkey, setPasskey] = useState('');
   const [error, setError] = useState('');
+  const [isLoading, setIsLoading] = useState(false);
   const navigate = useNavigate();
 
   const handleLogin = async (e) => {
     e.preventDefault();
+    setIsLoading(true);
+    setError('');
+
     try {
-      const response = await fetch('https://linked-in-survey-backend-seven.vercel.app/api/login', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ userId: passkey.trim() }),
-      });
+      const cleanPasskey = passkey.trim();
+      if (!cleanPasskey) throw new Error('Please enter a passkey');
 
-      if (!response.ok) throw new Error('Invalid passkey');
-      
-      const result = await response.json();
-      localStorage.setItem('valid', "true");
-      localStorage.setItem('userData', JSON.stringify(result.user));
-      localStorage.setItem('quality', result.user.quality.toString());
+      const user = users.find(u => u.user_id === cleanPasskey);
+      if (!user) throw new Error('No user found with this passkey');
 
-      navigate(`/app/${result.user.user_id}`);
-      
+      localStorage.setItem('valid', 'true');
+      localStorage.setItem('userData', JSON.stringify(user));
+      localStorage.setItem('quality', user.quality.toString());
+
+      navigate(`/app/${user.user_id}`);
     } catch (err) {
-      setError('Invalid passkey. Please check and try again.');
+      setError(`Access denied: ${err.message}`);
+    } finally {
+      setIsLoading(false);
     }
   };
 
@@ -45,6 +48,7 @@ const Login = () => {
         <div className="hero-card">
           <div className="decorative-bar"></div>
           <h2>Enter Lab Passkey</h2>
+          <h4>(For testing) Enter 1 for Upward Assimilation and Contrast, 2 for neutral and, 3 for Downward Assimilation and Contrast</h4>
           
           <form onSubmit={handleLogin} className="passkey-form">
             <input
@@ -53,13 +57,18 @@ const Login = () => {
               onChange={(e) => setPasskey(e.target.value)}
               placeholder="Enter Lab Passkey"
               className="passkey-input"
+              disabled={isLoading}
             />
-            <button type="submit" className="submit-btn">
-              Begin Study
+            <button 
+              type="submit" 
+              className="submit-btn"
+              disabled={isLoading}
+            >
+              {isLoading ? 'Verifying...' : 'Begin Study'}
             </button>
           </form>
           
-          {error && <p className="error">{error}</p>}
+          {error && <p className="error-message">{error}</p>}
         </div>
       </main>
 
