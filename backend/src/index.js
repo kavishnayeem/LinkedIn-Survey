@@ -4,15 +4,24 @@ import cors from 'cors';
 import serverless from 'serverless-http';
 import dotenv from 'dotenv';
 import submissionRouter from './route/submission.js';
+process.on('uncaughtException', (error) => {
+  console.error('Uncaught Exception:', error);
+});
+
 
 dotenv.config();
 
 const app = express();
 
+// Update allowedOrigins to match your actual frontend URL
 const allowedOrigins = [
-  'https://linkedin-survey.vercel.app',
+  'https://linkedin-survey.vercel.app', // Main frontend URL
+  'https://linkedin-survey-git-main-lakshya-singhs-projects.vercel.app', // Vercel preview URLs
   'http://localhost:3000'
 ];
+
+// Add OPTIONS method handling
+app.options('*', cors());
 app.use('/api/submit', submissionRouter);
 app.use(cors({
   origin: allowedOrigins,
