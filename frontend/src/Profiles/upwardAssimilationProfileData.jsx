@@ -64,7 +64,7 @@ const upwardAssimilationProfileData=[
         "education": [
           {
             "school": "Texas A&M University - Corpus Christi",
-            "schoolLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQHYd3BFB1RNoQ/company-logo_100_100/company-logo_100_100/0/1631311060530?e=1750896000&v=beta&t=VkAeoYLS_9yXKSZ7w9HkhVUALyGkPf2v-70M3B9FQOI",
+            "schoolLogo": "https://i.ibb.co/qMng6k6B/1631311060530-e-1751500800-v-beta-t-Y8c-N4-Z4-Vo-Lm-TPe-Is-MNMefj-B778-OOF93-O-kp-HM3t0-Ucs.jpg",
             "degree": "Bachelor's degree in Management",
             "duration": "2019 - 2023",
             "courses": [
@@ -195,7 +195,7 @@ const upwardAssimilationProfileData=[
         "education": [
           {
             "school": "Texas A&M University - Corpus Christi",
-            "schoolLogo": "https://media.licdn.com/dms/image/v2/C4E0BAQHYd3BFB1RNoQ/company-logo_100_100/company-logo_100_100/0/1631311060530?e=1750896000&v=beta&t=VkAeoYLS_9yXKSZ7w9HkhVUALyGkPf2v-70M3B9FQOI",
+            "schoolLogo": "https://i.ibb.co/qMng6k6B/1631311060530-e-1751500800-v-beta-t-Y8c-N4-Z4-Vo-Lm-TPe-Is-MNMefj-B778-OOF93-O-kp-HM3t0-Ucs.jpg",
             "degree": "Bachelor's Degree in Management",
             "duration": "2019 - 2023",
             "courses": [
@@ -284,7 +284,7 @@ const upwardAssimilationProfileData=[
           },
           {
             "company": "Texas Community Impact Initiative",
-            "companyLogo": "https://media.licdn.com/dms/image/v2/C560BAQGo7TTg-tgkdQ/company-logo_100_100/company-logo_100_100/0/1631300608004?e=1750896000&v=beta&t=aPfWFpyU7vczOcmCSJBW8gjiOg4V1Pb4SrZS7Qc0LMY",
+            "companyLogo": "https://i.ibb.co/MDpZ8R8g/1631300608004-e-1750896000-v-beta-t-a-Pf-WFpy-U7vcz-Ocm-CSJBW8gji-Og4-V1-Pb4-Sr-ZS7-Qc0-LMY.jpg",
             "title": "Student Program Manager",
             "duration": "August 2023 - May 2024",
             "bullets": [
@@ -333,7 +333,7 @@ const upwardAssimilationProfileData=[
         "education": [
           {
             "school": "Texas State University",
-            "schoolLogo": "https://media.licdn.com/dms/image/v2/C560BAQGo7TTg-tgkdQ/company-logo_100_100/company-logo_100_100/0/1631300608004?e=1750896000&v=beta&t=aPfWFpyU7vczOcmCSJBW8gjiOg4V1Pb4SrZS7Qc0LMY",
+            "schoolLogo": "https://i.ibb.co/MDpZ8R8g/1631300608004-e-1750896000-v-beta-t-a-Pf-WFpy-U7vcz-Ocm-CSJBW8gji-Og4-V1-Pb4-Sr-ZS7-Qc0-LMY.jpg",
             "degree": "BBA in Management with Social Enterprise Focus",
             "duration": "2021 - 2025",
             "courses": [
@@ -410,7 +410,7 @@ const upwardAssimilationProfileData=[
           },
           {
             "company": "Texas A&M Business Development Center",
-            "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQEFJy7BINk67g/company-logo_100_100/B56ZXxmPZ0GsAQ-/0/1743515089321/javelinanation_logo?e=1750896000&v=beta&t=o-_nwjkZFrAS20ThFmNfoeCoquMaEfoxCZ4FyfhfvH8",
+            "companyLogo": "https://i.ibb.co/p6mvqDKp/javelinanation-logo-e-1750896000-v-beta-t-o-nwjk-ZFr-AS20-Th-Fm-Nfoe-Coqu-Ma-Efox-CZ4-Fyfhfv-H8.jpg",
             "title": "Marketing Strategy Intern",
             "duration": "Jun 2021 - Aug 2023",
             "bullets": [
@@ -423,7 +423,7 @@ const upwardAssimilationProfileData=[
         "education": [
           {
             "school": "Texas A&M University Kingsville",
-            "schoolLogo": "https://media.licdn.com/dms/image/v2/D560BAQEFJy7BINk67g/company-logo_100_100/B56ZXxmPZ0GsAQ-/0/1743515089321/javelinanation_logo?e=1750896000&v=beta&t=o-_nwjkZFrAS20ThFmNfoeCoquMaEfoxCZ4FyfhfvH8",
+            "schoolLogo": "https://i.ibb.co/p6mvqDKp/javelinanation-logo-e-1750896000-v-beta-t-o-nwjk-ZFr-AS20-Th-Fm-Nfoe-Coqu-Ma-Efox-CZ4-Fyfhfv-H8.jpg",
             "degree": "BBA in Marketing Management",
             "duration": "2019 - 2023",
             "courses": [
@@ -444,7 +444,7 @@ const upwardAssimilationProfileData=[
           },
           {
             "name": "Sustainability Marketing Strategies",
-            "issuerLogo": "https://media.licdn.com/dms/image/v2/D560BAQEFJy7BINk67g/company-logo_100_100/B56ZXxmPZ0GsAQ-/0/1743515089321/javelinanation_logo?e=1750896000&v=beta&t=o-_nwjkZFrAS20ThFmNfoeCoquMaEfoxCZ4FyfhfvH8",
+            "issuerLogo": "https://i.ibb.co/p6mvqDKp/javelinanation-logo-e-1750896000-v-beta-t-o-nwjk-ZFr-AS20-Th-Fm-Nfoe-Coqu-Ma-Efox-CZ4-Fyfhfv-H8.jpg",
             "issuer": "Texas A&M Executive Education",
             "issueDate": "2022"
           }
@@ -471,7 +471,7 @@ const upwardAssimilationProfileData=[
         "volunteering": [
           {
             "company": "Aggies for Sustainable Business",
-            "companyLogo":"https://media.licdn.com/dms/image/v2/D560BAQEFJy7BINk67g/company-logo_100_100/B56ZXxmPZ0GsAQ-/0/1743515089321/javelinanation_logo?e=1750896000&v=beta&t=o-_nwjkZFrAS20ThFmNfoeCoquMaEfoxCZ4FyfhfvH8",
+            "companyLogo":"https://i.ibb.co/p6mvqDKp/javelinanation-logo-e-1750896000-v-beta-t-o-nwjk-ZFr-AS20-Th-Fm-Nfoe-Coqu-Ma-Efox-CZ4-Fyfhfv-H8.jpg",
             "title": "Program Coordinator",
             "duration": "2020 - 2023",
             "bullets": [

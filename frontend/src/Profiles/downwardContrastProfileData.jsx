@@ -1,6 +1,5 @@
 const downwardContrastProfileData = [
-  
-  
+
   {
     "id": "DOWNWARD-CONTRAST-03",
     "name": "John Harrison",
@@ -176,8 +175,6 @@ const downwardContrastProfileData = [
       "Leadership"
     ]
   },
-  
-  
   {
     "id": "DOWNWARD-CONTRAST-10",
     "name": "Brooke Aldridge",
