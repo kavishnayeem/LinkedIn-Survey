@@ -1,6 +1,6 @@
-const midProfileData = [
+const neuralProfileData = [
   {
-    "id": "MID-01",
+    "id": "NEUTRAL-01",
     "name": "Robert Sinclair",
     "opentowork":"Yes",
     "headline": "Management Graduate | Customer Service Professional",
@@ -51,7 +51,7 @@ const midProfileData = [
     ]
   },
   {
-    "id": "MID-02",
+    "id": "NEUTRAL-02",
     "name": "Michael Caldwell",
     "headline": "Integrated Business Student | Customer Service Expert",
     "location": "Denton, Texas, United States",
@@ -109,7 +109,7 @@ const midProfileData = [
     ]
   },
   {
-    "id": "MID-03",
+    "id": "NEUTRAL-03",
     "name": "Joseph Whitaker",
         "opentowork":"Yes",
     "headline": "Business Development Professional with Diverse Industry Experience",
@@ -181,7 +181,7 @@ const midProfileData = [
     
   },
   {
-    "id": "MID-04",
+    "id": "NEUTRAL-04",
     "name": "Brian Lancaster",
     "headline": "Full-time Student and Retail Professional",
     "location": "San Antonio, Texas, United States",
@@ -258,7 +258,7 @@ const midProfileData = [
     ]
   },
   {
-    "id": "MID-05",
+    "id": "NEUTRAL-05",
     "name": "Kevin Holloway",
     "headline": "Business Manager | Passionate Innovator",
     "location": "San Antonio, Texas, United States",
@@ -336,7 +336,7 @@ const midProfileData = [
     
   },
   {
-    "id": "MID-06",
+    "id": "NEUTRAL-06",
     "name": "Samuel Whitman",
         "opentowork":"Yes",
 
@@ -444,7 +444,7 @@ const midProfileData = [
     ]
   },
   {
-    "id": "MID-07",
+    "id": "NEUTRAL-07",
     "name": "Elizabeth McAllister",
     "headline": "Management Graduate with Entry-Level Experience in Retail",
     "location": "Dallas, Texas, United States",
@@ -517,7 +517,7 @@ const midProfileData = [
     ]
   },
   {
-    "id": "MID-08",
+    "id": "NEUTRAL-08",
     "name": "Amanda Whitmore",
         "opentowork":"Yes",
 
@@ -586,7 +586,7 @@ const midProfileData = [
     ]
   },
 {
-    "id": "MID-09",
+    "id": "NEUTRAL-09",
     "name": "Melanie Eastwood",
     "headline": "Experienced Finance Analyst",
     "location": "Corpus Christi, Texas, United States",
@@ -656,7 +656,7 @@ const midProfileData = [
     ]
   },
 {
-  "id":"MID-10",
+  "id":"NEUTRAL-10",
   "name": "Ashley Merritt",
       "opentowork":"Yes",
 
@@ -757,7 +757,7 @@ const midProfileData = [
   ]
 },
 {
-  "id": "MID-11",
+  "id": "NEUTRAL-11",
   "name": "Olivia	Grant",
   "headline": "Dynamic Management Graduate | Experienced Operations Coordinator",
   "location": "San Antonio, Texas, United States",
@@ -821,7 +821,7 @@ const midProfileData = [
   ]
 },
 {
-  "id": "MID-12",
+  "id": "NEUTRAL-12",
   "name": "Hannah	Clark",
   "headline": "Assistant Manager at Central Texas Retail Group | Management Graduate",
   "location": "San Antonio, Texas, United States",
@@ -888,4 +888,4 @@ const midProfileData = [
 }
 ];
 
-export default midProfileData;
+export default neuralProfileData;

@@ -2,9 +2,11 @@ import "./App.css";
 import { useEffect, useState, useRef } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import LinkedIn from './Components/LinkedIn.jsx';
-import midProfileData from "./Profiles/midProfileData.jsx";
-import highProfileData from "./Profiles/highProfileData.jsx";
-import lowProfileData from "./Profiles/lowProfileData.jsx";
+import neutralProfileData from "./Profiles/neutralProfileData.jsx";
+import upwardAssimilationProfileData from "./Profiles/upwardAssimilationProfileData.jsx"
+import upwardContrastProfileData from "./Profiles/upwardContrastProfileData.jsx";
+import downwardContrastProfileData from "./Profiles/downwardContrastProfileData.jsx";
+import downwardAssimilationProfileData from "./Profiles/downwardAssimilationProfileData.jsx";
 
 const InitialQualtricsSurvey = ({ userId, onStart, initialCountdown = 30 }) => {
   const surveyUrl = `https://tamucc.co1.qualtrics.com/jfe/form/SV_cH2qf6ZW5XHUp9A?userId=${userId}`;
@@ -134,13 +136,35 @@ const MainApp = () => {
   const generateProfileSequence = (quality) => {
     let sequence = [];
     const getUniqueProfiles = (type, count) => {
-      const source = type === 'high' ? highProfileData :
-                     type === 'mid' ? midProfileData : lowProfileData;
+      let source;
+      switch (type) {
+        case 'upward assimilation':
+          source = upwardAssimilationProfileData;
+          break;
+        case 'contrast':
+          source = upwardContrastProfileData;
+          break;
+        case 'neutral':
+          source = neutralProfileData;
+          break;
+        case 'downward assimilation':
+          source = downwardAssimilationProfileData;
+          break;
+        case 'downward contrast':
+          source = downwardContrastProfileData;
+          break;
+        default:
+          source = neutralProfileData; // Default to neutral if quality is not recognized
+      }
       const shuffled = [...source].sort(() => 0.5 - Math.random());
       return shuffled.slice(0, count);
     };
 
-    sequence = getUniqueProfiles(quality === 1 ? 'high' : quality === 2 ? 'mid' : quality === 3 ? 'low' : 'mid', 8);
+    sequence = getUniqueProfiles(quality === 1 ? 'upward assimilation' : 
+                                 quality === 2 ? 'contrast' : 
+                                 quality === 3 ? 'neutral' : 
+                                 quality === 4 ? 'downward assimilation' : 
+                                 quality === 5 ? 'downward contrast' : 'neutral', 8);
     
     setProfileSequence(sequence);
     sessionStorage.setItem('profileSequence', JSON.stringify(sequence));

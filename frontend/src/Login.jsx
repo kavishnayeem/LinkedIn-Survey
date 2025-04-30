@@ -48,8 +48,12 @@ const Login = () => {
         <div className="hero-card">
           <div className="decorative-bar"></div>
           <h2>Enter Lab Passkey</h2>
-          <h4>(For testing) Enter 1 for Upward Assimilation and Contrast, 2 for neutral and, 3 for Downward Assimilation and Contrast</h4>
-          
+          <h4>(For testing purposes only)</h4>
+          <h4>Enter 1 for Upward Assimilation</h4>
+          <h4>Enter 2 for Upward Contrast</h4>
+          <h4>Enter 3 for Neutral</h4>
+          <h4>Enter 4 for Downward Assimilation</h4>
+          <h4>Enter 5 for Downward Contrast</h4>
           <form onSubmit={handleLogin} className="passkey-form">
             <input
               type="password"

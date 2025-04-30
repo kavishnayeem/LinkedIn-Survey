@@ -200,6 +200,9 @@ const users = [
   {"index": 'x', "user_id": "1", "quality": 1},
   {"index": 'y', "user_id": "2", "quality": 2},
   {"index": 'z', "user_id": "3", "quality": 3},
+  {"index": 'a', "user_id": "4", "quality": 4},
+  {"index": 'b', "user_id": "5", "quality": 5}
+
 
 
 ];
