@@ -123,7 +123,7 @@ const upwardContrastProfileData = [
     ]
   },
   {
-    "id": "UPWARD-CONTRAST-04",
+    "id": "UPWARD-CONTRAST-02",
     "name": "Michael Chen",
     "headline": "Technology Business Analyst | Digital Transformation Specialist | UT Austin Graduate | AWS Certified",
     "location": "Austin, Texas, United States",
@@ -246,7 +246,7 @@ const upwardContrastProfileData = [
     ]
   },
   {
-    "id": "UPWARD-CONTRAST-06",
+    "id": "UPWARD-CONTRAST-03",
     "name": "Rachel Thompson",
     "headline": "Human Resources Specialist | Talent Development Coordinator | Rice University Graduate | SHRM-CP Certified",
     "location": "Dallas, Texas, United States",
@@ -289,87 +289,53 @@ const upwardContrastProfileData = [
         "schoolLogo": "https://i.ibb.co/bjrJDnXB/riceuniversity-logo-e-1750896000-v-beta-t-0h-KTq-Fx-Ew-Yu-EVv-X4-YQO7r-D7t4rpv6prp6el-O3u-TH-5g.jpg",
         "degree": "BBA in Management",
         "duration": "2019 - 2023",
-        "gpa": "3.88",
-        "honors": ["magna cum laude", "Dean's List (All Semesters)", "Beta Gamma Sigma"],
         "courses": [
-          "Human Resource Management",
-          "Organizational Behavior",
-          "Talent Development",
-          "Employment Law",
-          "Change Management",
-          "Compensation and Benefits",
-          "HR Analytics",
-          "Diversity in Organizations"
+          "Business Process Optimization",
+          "Contract Law & Negotiation",
+          "Healthcare Operations Management",
+          "Data-Driven Decision Making",
+          "Regulatory Compliance"
         ]
       }
     ],
     "skills": [
-      "Full-cycle Recruitment",
-      "Employee Relations",
-      "Training & Development",
-      "HR Analytics",
-      "Performance Management",
-      "Talent Acquisition",
-      "HRIS Systems",
-      "Workplace Culture",
-      "Employee Engagement",
-      "HR Policy Development",
-      "Diversity & Inclusion",
-      "Compensation & Benefits",
+      "Business Process Analysis",
+      "Contract Management",
+      "Regulatory Compliance",
+      "Healthcare Operations",
+      "Vendor Negotiations",
+      "Data Visualization",
+      "Stakeholder Management",
+      "Process Improvement",
+      "Project Management",
+      "Cross-functional Leadership",
+      "Requirements Gathering",
+      "Business Case Development",
+      "Risk Management",
+      "User Acceptance Testing (UAT)",
+      "Agile Methodologies",
+      "Data Analysis",
       "Change Management",
-      "Succession Planning",
-      "Labor Relations",
-      "Conflict Resolution"
+      "Business Intelligence",
+      "Strategic Planning"
+    
     ],
     "certifications": [
       {
-        "name": "SHRM-CP",
-        "issuer": "Society for Human Resource Management",
+        "name": "Certified Business Analysis Professional (CBAP)",
+        "issuer": "IIBA",
         "issueDate": "2023",
-        "issuerLogo": "https://i.ibb.co/p6Qqf95d/shrm-logo-e-1751500800-v-beta-t-p-Ns-QSYZkt3p0-C8ffez-Agk-P-8-Mc3-RVj-O7c-Poly-Rg-Woug.jpg"
+        "issuerLogo": "https://i.ibb.co/d0GRgsbp/iiba-logo-e-1749686400-v-beta-t-Xyvwo-JSIzj-ZUj-ERSrpjv-WQEr-IRx-Vb0-B2-L7-Hu-D1-K2-JJs.jpg"
       },
       {
-        "name": "PHR (Professional in Human Resources)",
-        "issuer": "HRCI",
-        "issueDate": "2023",
-        "issuerLogo": "https://i.ibb.co/sdTWLD1N/hrci-logo-e-1751500800-v-beta-t-f-N8-BGcr0f-FYUt-E9-Nel-TVm-Kegk-Vk-Bnoj8z3-V13-Zxoa-Sw.jpg"
-      },
-      {
-        "name": "Diversity and Inclusion Certificate",
-        "issuer": "Cornell University",
-        "issueDate": "2023",
-        "issuerLogo": "https://i.ibb.co/mVzZchyM/1631339899678-e-1751500800-v-beta-t-y-Y3o-MBud-C4si1ro-Kt0x9c3b-Mk-VRQxeh-B5-PTte-TZ5-Ls.jpg"
-      }
-    ],
-    "volunteering": [
-      {
-        "company": "Career Compass",
-        "companyLogo": "https://i.ibb.co/svpNMV49/1631356678929-e-1751500800-v-beta-t-9-MOAUagqd-S81m-O-Sr-Gp7-Rtm8yobo-Q1-COCNR2-Fid-WM-U.jpg",
-        "title": "Career Coach",
-        "duration": "September 2023 - Present",
-        "bullets": [
-          "Provide career guidance and resume writing support to 20+ job seekers monthly",
-          "Conduct mock interviews and feedback sessions improving success rate by 40%",
-          "Develop job search strategy workshops with 85% positive feedback",
-          "Mentor 5 individuals through career transitions"
-        ]
-      },
-      {
-        "company": "Rice HR Society",
-        "companyLogo": "https://i.ibb.co/bjrJDnXB/riceuniversity-logo-e-1750896000-v-beta-t-0h-KTq-Fx-Ew-Yu-EVv-X4-YQO7r-D7t4rpv6prp6el-O3u-TH-5g.jpg",
-        "title": "President",
-        "duration": "August 2022 - May 2023",
-        "bullets": [
-          "Led organization of 150+ members focused on HR professional development",
-          "Organized 8 industry networking events with 90% attendance rate",
-          "Secured $8,000 in corporate sponsorships for events",
-          "Implemented mentorship program pairing 30 students with HR professionals"
-        ]
+        "name": "Lean Six Sigma Green Belt",
+        "issuer": "UT Austin Center for Professional Education",
+        "issueDate": "2022"
       }
     ]
   },
   {
-    "id": "UPWARD-CONTRAST-09",
+    "id": "UPWARD-CONTRAST-04",
     "name": "Dylan Church",
     "headline": "Financial Operations Analyst | Risk Management Specialist | Baylor University Graduate | FRM Certified",
     "location": "San Antonio, Texas, United States",
@@ -492,7 +458,7 @@ const upwardContrastProfileData = [
     ]
   },
   {
-    "id": "UPWARD-CONTRAST-02",
+    "id": "UPWARD-CONTRAST-05",
     "name": "Matthew Sterling",
     "headline": "Military Logistics Specialist | U.S. Army Ordnance Officer | Strategic Operations Leader",
     "location": "College Station, Texas, United States",
@@ -713,7 +679,7 @@ const upwardContrastProfileData = [
     ]
   },
   {
-    "id": "UPWARD-CONTRAST-03",
+    "id": "UPWARD-CONTRAST-06",
     "name": "Nathan Carrington",
     "headline": "Aspiring Foreign Diplomat | Founder & President of International Business Alliance | Study Abroad Advisor",
     "location": "Austin, Texas, United States",
@@ -897,7 +863,7 @@ const upwardContrastProfileData = [
     ]
   },
   {
-    "id": "UPWARD-CONTRAST-05",
+    "id": "UPWARD-CONTRAST-07",
     "name": "Ethan Carter",
     "headline": "Business Operations Specialist | Process Optimization | Baylor University Graduate",
     "location": "Waco, Texas, United States",
@@ -993,7 +959,7 @@ const upwardContrastProfileData = [
     ],
   },   
   {
-    "id": "UPWARD-CONTRAST-07",
+    "id": "UPWARD-CONTRAST-08",
     "name": "Danielle Fairchild",
     "headline": "Business Analyst | Contract Management Specialist | Rice University Honors Graduate",
     "location": "Austin, Texas, United States",
@@ -1113,7 +1079,7 @@ const upwardContrastProfileData = [
     ]
   },
   {
-    "id": "UPWARD-CONTRAST-08",
+    "id": "UPWARD-CONTRAST-09",
     "name": "Vanessa Loring",
     "headline": "Sports Marketing Professional | Ticket Sales Strategist | Rice University Alumni",
     "location": "Dallas, Texas, United States",
@@ -1537,7 +1503,8 @@ const upwardContrastProfileData = [
         ]
       }
     ]
-  }
+  },
+  
   
 ];
 
