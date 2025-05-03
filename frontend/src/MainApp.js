@@ -164,7 +164,7 @@ const MainApp = () => {
                                  quality === 2 ? 'contrast' : 
                                  quality === 3 ? 'neutral' : 
                                  quality === 4 ? 'downward assimilation' : 
-                                 quality === 5 ? 'downward contrast' : 'neutral', 8);
+                                 quality === 5 ? 'downward contrast' : 'neutral', 12);
     
     setProfileSequence(sequence);
     sessionStorage.setItem('profileSequence', JSON.stringify(sequence));

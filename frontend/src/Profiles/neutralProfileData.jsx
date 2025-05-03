@@ -56,7 +56,7 @@ const neutralProfileData = [
     "headline": "Integrated Business Student | Customer Service Expert",
     "location": "Denton, Texas, United States",
     "connections": 50,
-    "profilePic": "https://i.ibb.co/SXM0g7L0/Michael.jpg", // Placeholder image
+    "profilePic": "https://i.ibb.co/NdCmjDFQ/Michael.jpg", // Placeholder image
     "backgroundPic": "https://i.ibb.co/ds6PNRLw/Bg2.jpg",
     "about": "I am a Management student at the Texas State University with over 5 years of customer service experience in busy restaurants and retail sales. I know how to use social media management tools and I am skilled at using AI tools like ChatGPT. I have also worked in management in the food industry, where I developed strong skills in training staff and delegating tasks.",
     "experience": [
@@ -186,7 +186,7 @@ const neutralProfileData = [
     "headline": "Full-time Student and Retail Professional",
     "location": "San Antonio, Texas, United States",
     "connections": 50,
-    "profilePic": "https://i.ibb.co/pvkP6ft7/Brian.jpg",
+    "profilePic": "https://i.ibb.co/9k4vxQpG/Brian.jpg",
     "backgroundPic": "https://i.ibb.co/VcSspKDq/gb3.jpg",
     "about": "I have three years of experience working in the retail field. Currently, I am a full-time student at Texas A&M University - Kingsville and am pursuing a degree in Management. I plan to graduate in the fall of 2023.",
     "experience": [
