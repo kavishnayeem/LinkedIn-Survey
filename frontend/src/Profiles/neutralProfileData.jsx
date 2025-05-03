@@ -1,4 +1,4 @@
-const neuralProfileData = [
+const neutralProfileData = [
   {
     "id": "NEUTRAL-01",
     "name": "Robert Sinclair",
@@ -888,4 +888,4 @@ const neuralProfileData = [
 }
 ];
 
-export default neuralProfileData;
+export default neutralProfileData;
