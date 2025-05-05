@@ -1,15 +1,15 @@
 const downwardContrastProfileData = [
 
   {
-    "id": "DOWNWARD-CONTRAST-03",
+    "id": "DOWNWARD-CONTRAST-01",
     "name": "John Harrison",
     "opentowork":"Yes",
     "headline": "Painter at Expert Painting Services",
     "location": "Plano, Texas, United States",
     "connections": 10,
-    "profilePic": "https://i.ibb.co/fY6rB44j/John.jpg",
+    "profilePic": "https://i.ibb.co/Cp2Vc2Sp/image-7.jpg",
     "backgroundPic":"https://i.ibb.co/KpjWLkcD/paint.jpg",
-    "about": "Experienced in painting, home remodeling, drywall repair, plumbing, and general handyman work. I take on all kinds of jobs, from small repairs to full remodels. Whether it’s patching drywall, fixing leaks, or painting a home, I always make sure the job is done right. I also do yard clean-ups, demo work, and odd jobs—no job is too small! If you need quality work done in Plano, Texas, give me a call. Hardworking and ready to get the job done!",
+    "about": "Experienced in painting, home remodeling, drywall repair, plumbing, and general handyman work. I take on all kinds of jobs, from small repairs to full remodels. Whether it's patching drywall, fixing leaks, or painting a home, I always make sure the job is done right. I also do yard clean-ups, demo work, and odd jobs—no job is too small! If you need quality work done in Plano, Texas, give me a call. Hardworking and ready to get the job done!",
     "experience": [
       {
         "company": "Expert Painting Services • Self-employed",
@@ -42,7 +42,7 @@ const downwardContrastProfileData = [
     ],
   },
   {
-    "id": "DOWNWARD-CONTRAST-04",
+    "id": "DOWNWARD-CONTRAST-02",
     "name": "Lucas Radford",
     "opentowork": "Yes",
     "headline": "Recent Management Graduate | Open to Work | Eager to Learn & Grow | Seeking Opportunities in Business & Marketing",
@@ -52,17 +52,7 @@ const downwardContrastProfileData = [
     "backgroundPic": "https://i.ibb.co/fYMsGBYk/beautiful-sun-rising-sky-asphalt-highways-road-rural-sce-scene-use-land-transport-traveling-backgrou.jpg", // Placeholder for Background Picture
     "about": "Recent Management Graduate eager to learn and grow in the fields of business and marketing.",
     "experience": [
-      {
-        "company": "Stripes Convenience Stores",
-        "companyLogo":"https://i.ibb.co/jPXW2r66/stripes.jpg",
-        "title": "Retail Associate",
-        "duration": "Mar 2023 - Present",
-        "bullets": [
-          "Assisted customers with purchases, providing excellent customer service.",
-          "Managed inventory and restocked products to ensure store organization.",
-          "Processed transactions accurately using the POS system."
-        ]
-      },
+
       {
         "company": "Self-employed",
         "title": "Freelance Social Media Assistant",
@@ -111,7 +101,7 @@ const downwardContrastProfileData = [
   
   
   {
-    "id": "DOWNWARD-CONTRAST-07",
+    "id": "DOWNWARD-CONTRAST-03",
     "name": "Emily Bennett",
     "opentowork": "Yes",
     "profilePic": "https://i.ibb.co/qY7VvpQL/Emily.jpg",
@@ -176,13 +166,13 @@ const downwardContrastProfileData = [
     ]
   },
   {
-    "id": "DOWNWARD-CONTRAST-10",
+    "id": "DOWNWARD-CONTRAST-04",
     "name": "Brooke Aldridge",
     "opentowork": "Yes",
     "headline": "Motivated Recent Graduate with Experience in Customer Service and Sales",
     "location": "Corpus Christi, Texas, United States",
     "connections": 15,
-    "profilePic": "https://i.ibb.co/Z1KLL9WC/Brooke.jpg",
+    "profilePic": "https://i.ibb.co/7tsQhcds/image-6.jpg",
     "backgroundPic": "https://i.ibb.co/FqcSqtkj/1c-Linked-In-Banner-Personal-design-1.png",
     "about": "I am a recent graduate from Del Mar College with a degree in Business Administration. I have a strong background in customer service and sales, and I am passionate about helping customers find the right solutions for their needs. I am eager to apply my skills in a dynamic work environment and continue to grow professionally.",
     "experience": [
@@ -227,13 +217,13 @@ const downwardContrastProfileData = [
     ]
   },
   {
-    "id": "DOWNWARD-CONTRAST-11",
+    "id": "DOWNWARD-CONTRAST-05",
     "name": "Kaitlyn Belmont",
     "opentowork": "Yes",
     "headline": "Recent Management Graduate with a Passion for Business Development",
     "location": "San Antonio, Texas, United States",
     "connections": 18,
-    "profilePic": "https://i.ibb.co/BHTXqYxK/Default-PP.png",
+    "profilePic": "https://i.ibb.co/Q2Vv8Lc/Chat-GPT-Image-May-5-2025-03-20-21-PM.png",
     "backgroundPic": "https://i.ibb.co/93WJYCSH/Linked-In-Personal1-D-Design.jpg", // Placeholder for Background Picture
     "about": "I am a recent graduate from Collin College with a Bachelor's degree in Management. I have a strong interest in business development and customer relations, and I am eager to apply my skills in a professional setting.",
     "experience": [
@@ -277,13 +267,13 @@ const downwardContrastProfileData = [
     ]
   },
   {
-    "id": "DOWNWARD-CONTRAST-12",
+    "id": "DOWNWARD-CONTRAST-06",
     "name": "Sophia Evans",
     "opentowork": "Yes",
     "headline": "Recent Management Graduate with a Focus on Customer Service",
     "location": "Corpus Christi, Texas, United States",
     "connections": 20,
-    "profilePic": "https://i.ibb.co/BHTXqYxK/Default-PP.png",
+    "profilePic": "https://i.ibb.co/xKRwD3bh/Chat-GPT-Image-May-5-2025-03-16-52-PM.png",
     "backgroundPic": "https://i.ibb.co/C3wZkLVX/1-F-Linked-In-Personal-Design.png",
     "about": "I am a recent graduate from Del Mar College with a Bachelor's degree in Management. I am passionate about customer service and eager to contribute to a dynamic team.",
     "experience": [
@@ -323,7 +313,285 @@ const downwardContrastProfileData = [
       "Problem Solving"
     ]
   },
-
+  {
+    "id": "DOWNWARD-CONTRAST-07",
+    "name": "Marcus Rodriguez",
+    "opentowork": "Yes",
+    "headline": "Management Graduate | Looking for Opportunities",
+    "location": "Dallas, Texas, United States",
+    "connections": 8,
+    "profilePic": "https://i.ibb.co/svdtcR3p/A-blurry-action-shot-from-a-co.jpg",
+    "backgroundPic": "https://i.ibb.co/93WJYCSH/Linked-In-Personal1-D-Design.jpg",
+    "about": "Recent management graduate seeking opportunities to apply my education. Experience in food service and retail. Quick learner with strong work ethic.",
+    "experience": [
+      {
+        "company": "DoorDash",
+        "companyLogo":"https://i.ibb.co/JZ0PQZ3/doordash-logo-e-1752105600-v-beta-t-Bhg-CIR49-SHWt-Fhuv-NPUjn-NAth-U-ln3-Am9-Oui2v1-KT3g.jpg",
+        "title": "Delivery Driver",
+        "duration": "Jan 2023 - Present",
+        "bullets": [
+          "Deliver food orders to customers in the Dallas metropolitan area",
+          "Maintain a 4.8-star rating through excellent service",
+          "Handle customer inquiries and resolve delivery issues"
+        ]
+      },
+      {
+        "company": "7-Eleven",
+        "companyLogo":"https://i.ibb.co/gMh6pdcV/7-eleven-logo-e-1752105600-v-beta-t-uo-DMq-Omad-CLhw4lvzepr1r-Gt-QNSo-Qhirv-A-qxdqt-BN8.jpg",
+        "title": "Store Clerk",
+        "duration": "Jun 2022 - Dec 2022",
+        "bullets": [
+          "Operated cash register and processed customer transactions",
+          "Restocked shelves and maintained store cleanliness",
+          "Assisted customers with finding products"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "school": "Collin College",
+        "schoolLogo": "https://i.ibb.co/Q3YkzNYL/1631307648514-e-1749081600-v-beta-t-Cvusd-Cf-MCdc3-Bw-Wdx5fw1sa7-W44sr-XRmr-Lx-Buym1-h-I.jpg",
+        "degree": "Bachelor's degree, Management",
+        "duration": "2019 - 2023"
+      }
+    ],
+    "skills": [
+      "Customer Service",
+      "Time Management",
+      "Cash Handling",
+      "Microsoft Office",
+      "Team Player"
+    ]
+  },
+  {
+    "id": "DOWNWARD-CONTRAST-08",
+    "name": "Jessica Chen",
+    "opentowork": "Yes",
+    "headline": "Recent Management Graduate | Seeking Entry-Level Positions",
+    "location": "Austin, Texas, United States",
+    "connections": 12,
+    "profilePic": "https://i.ibb.co/F4tqRfXY/A-car-selfie-taken-from-a-low.jpg",
+    "backgroundPic": "https://i.ibb.co/C3wZkLVX/1-F-Linked-In-Personal-Design.png",
+    "about": "Recent graduate with a degree in Management. Currently working part-time while seeking full-time opportunities in business. Strong organizational skills and ability to multitask.",
+    "experience": [
+      {
+        "company": "PetSmart",
+        "companyLogo":"https://i.ibb.co/spMcVGS2/petsmart-logo-e-1752105600-v-beta-t-msb-Jq-HVfop-Y3-YEELbr54u-XXs35-Y-WHtdj-Ppx-Gtlta-4.jpg",
+        "title": "Pet Care Associate",
+        "duration": "Mar 2023 - Present",
+        "bullets": [
+          "Care for store animals and maintain their living environments",
+          "Assist customers with pet-related questions and products",
+          "Handle basic store operations and inventory management"
+        ]
+      },
+      {
+        "company": "H-E-B",
+        "companyLogo":"https://i.ibb.co/twD72fr1/heb-logo-e-1751500800-v-beta-t-Ss-UY8-Yk-Xr-RA7-Ust-R5n-Kj-S61-Dw6c-JTdej-O6-Zd-ARi4-KY.jpg",
+        "title": "Cashier",
+        "duration": "May 2022 - Feb 2023",
+        "bullets": [
+          "Processed customer transactions and handled cash",
+          "Provided customer service and resolved complaints",
+          "Maintained clean and organized checkout area"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "school": "Del Mar College",
+        "schoolLogo": "https://i.ibb.co/vvq4sDJq/del-mar-college-logo-e-1749081600-v-beta-t-17py-B6c-Vy-MGXA-QXJvms-CXh-GKGNnh-F7b-H2-KKRIx-Jqdw.jpg",
+        "degree": "Bachelor's degree, Management",
+        "duration": "2020 - 2023"
+      }
+    ],
+    "skills": [
+      "Customer Service",
+      "Cash Handling",
+      "Team Collaboration",
+      "Basic Excel",
+      "Problem Solving"
+    ]
+  },
+  {
+    "id": "DOWNWARD-CONTRAST-09",
+    "name": "Tyler Washington",
+    "opentowork": "Yes",
+    "headline": "Management Graduate | Seeking Business Opportunities",
+    "location": "Houston, Texas, United States",
+    "connections": 15,
+    "profilePic": "https://i.ibb.co/Y67DMXv/A-sweaty-mirror-selfie-taken-a.jpg",
+    "backgroundPic": "https://i.ibb.co/FqcSqtkj/1c-Linked-In-Banner-Personal-design-1.png",
+    "about": "Recent management graduate with experience in retail and food service. Looking to transition into a business role where I can apply my degree and grow professionally.",
+    "experience": [
+      {
+        "company": "Uber Eats",
+        "companyLogo":"https://i.ibb.co/6JZ71Scg/uber-com-logo-e-1752105600-v-beta-t-p-Zp-CCKWg-WO7-ROWRw6rqf-Zo-EScm-YWJ0-Oqquiw-TImq6x-U.jpg",
+        "title": "Delivery Partner",
+        "duration": "Sep 2022 - Present",
+        "bullets": [
+          "Manage food delivery operations in the Houston area",
+          "Maintain high customer satisfaction ratings",
+          "Handle multiple orders efficiently"
+        ]
+      },
+      {
+        "company": "McDonald's",
+        "companyLogo":"https://i.ibb.co/VYSSwkXm/golden-arches-development-corp-logo-e-1749081600-v-beta-t-KQ0d-Gi7h-Wws-UJg4-V3ighsivl-PYal-E-rvb7jb.jpg",
+        "title": "Crew Member",
+        "duration": "Jun 2021 - Aug 2022",
+        "bullets": [
+          "Prepared food items according to company standards",
+          "Operated POS system and handled customer transactions",
+          "Maintained kitchen cleanliness and organization"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "school": "Valencia College",
+        "schoolLogo": "https://i.ibb.co/qLNC61W9/valencia-college-logo-e-1749081600-v-beta-t-7-Wayk-VZAT1-Nxpbx3zu5ik9fyv-Mw0b9-LIZe-P3-GWKDBck.jpg",
+        "degree": "Bachelor's degree, Management",
+        "duration": "2019 - 2023"
+      }
+    ],
+    "skills": [
+      "Food Service",
+      "Customer Relations",
+      "Time Management",
+      "Basic Computer Skills",
+      "Teamwork"
+    ]
+  },
+  {
+    "id": "DOWNWARD-CONTRAST-10",
+    "name": "Amanda Foster",
+    "opentowork": "Yes",
+    "headline": "Management Graduate | Seeking Administrative Roles",
+    "location": "San Antonio, Texas, United States",
+    "connections": 7,
+    "profilePic": "https://i.ibb.co/W42KHJnT/A-23-year-old-Caucasian-woman.jpg",
+    "backgroundPic": "https://i.ibb.co/93WJYCSH/Linked-In-Personal1-D-Design.jpg",
+    "about": "Recent graduate with a management degree. Currently working in retail while seeking opportunities in business administration. Strong interpersonal skills and dedicated team player.",
+    "experience": [
+      {
+        "company": "Dollar General",
+        "companyLogo":"https://i.ibb.co/zHsjbn9t/dollar-general-logo-e-1752105600-v-beta-t-l-K2s-WF518g-CNvyr-VR-ZMt-Fgz-MC9e-XWPp8j4azq-VTcq-Q.jpg",
+        "title": "Sales Associate",
+        "duration": "Feb 2023 - Present",
+        "bullets": [
+          "Stock merchandise and maintain store appearance",
+          "Process customer transactions and provide assistance",
+          "Help with inventory counts and price changes"
+        ]
+      },
+      {
+        "company": "Sonic Drive-In",
+        "companyLogo":"https://i.ibb.co/wZ9yHXR9/sonic-drive-in-logo-e-1752105600-v-beta-t-9-JGE6qew6-NGkgo-NEW2mz-H4-B08-HZUc-Mnizzg-IBd-TFXFs.jpg",
+        "title": "Carhop",
+        "duration": "Jul 2022 - Jan 2023",
+        "bullets": [
+          "Delivered orders to customers in their vehicles",
+          "Handled cash and credit card transactions",
+          "Maintained cleanliness of outdoor serving area"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "school": "Collin College",
+        "schoolLogo": "https://i.ibb.co/Q3YkzNYL/1631307648514-e-1749081600-v-beta-t-Cvusd-Cf-MCdc3-Bw-Wdx5fw1sa7-W44sr-XRmr-Lx-Buym1-h-I.jpg",
+        "degree": "Bachelor's degree, Management",
+        "duration": "2020 - 2023"
+      }
+    ],
+    "skills": [
+      "Customer Service",
+      "Cash Handling",
+      "Microsoft Word",
+      "Team Collaboration",
+      "Communication"
+    ]
+  },
+  {
+    "id": "DOWNWARD-CONTRAST-11",
+    "name": "Brandon Torres",
+    "opentowork": "Yes",
+    "headline": "Recent Management Graduate | Seeking Business Development Opportunities",
+    "location": "Corpus Christi, Texas, United States",
+    "connections": 10,
+    "profilePic": "https://i.ibb.co/Xx8QWYnk/Chat-GPT-Image-May-5-2025-03-13-20-PM.png",
+    "backgroundPic": "https://i.ibb.co/C3wZkLVX/1-F-Linked-In-Personal-Design.png",
+    "about": "Management graduate with retail experience. Looking for opportunities to apply my business knowledge and grow professionally. Skilled in customer service and team collaboration.",
+    "experience": [
+      {
+        "company": "Pizza Hut",
+        "companyLogo":"https://i.ibb.co/yvDQZWF/pizza-hut-logo-e-1752105600-v-beta-t-PUBBvy-ODLm-T2-U2-JSXLt-YLGBIfite-FC5vc-Hmb-Vs0s-Fc-A.jpg",
+        "title": "Delivery Driver/Server",
+        "duration": "Apr 2023 - Present",
+        "bullets": [
+          "Deliver orders and provide excellent customer service",
+          "Handle cash transactions and maintain delivery records",
+          "Assist with in-store operations during slow periods"
+        ]
+      },
+      
+    ],
+    "education": [
+      {
+        "school": "Del Mar College",
+        "schoolLogo": "https://i.ibb.co/vvq4sDJq/del-mar-college-logo-e-1749081600-v-beta-t-17py-B6c-Vy-MGXA-QXJvms-CXh-GKGNnh-F7b-H2-KKRIx-Jqdw.jpg",
+        "degree": "Bachelor's degree, Management",
+        "duration": "2019 - 2023"
+      }
+    ],
+    "skills": [
+      "Customer Service",
+      "Cash Management",
+      "Basic Excel",
+      "Time Management",
+      "Team Player"
+    ]
+  },
+  {
+    "id": "DOWNWARD-CONTRAST-12",
+    "name": "Rachel Kim",
+    "opentowork": "Yes",
+    "headline": "Management Graduate | Seeking Entry-Level Business Positions",
+    "location": "Austin, Texas, United States",
+    "connections": 9,
+    "profilePic": "https://i.ibb.co/WNjLjVkY/image-8.jpg",
+    "backgroundPic": "https://i.ibb.co/FqcSqtkj/1c-Linked-In-Banner-Personal-design-1.png",
+    "about": "Recent graduate with a management degree, currently working in food service while seeking opportunities in business. Strong work ethic and eager to learn new skills.",
+    "experience": [
+      {
+        "company": "Instacart",
+        "title": "Personal Shopper",
+        "duration": "Jan 2023 - Present",
+        "bullets": [
+          "Shop and deliver groceries for customers",
+          "Maintain high customer satisfaction ratings",
+          "Manage multiple orders efficiently"
+        ]
+      },
+      
+    ],
+    "education": [
+      {
+        "school": "Valencia College",
+        "schoolLogo": "https://i.ibb.co/qLNC61W9/valencia-college-logo-e-1749081600-v-beta-t-7-Wayk-VZAT1-Nxpbx3zu5ik9fyv-Mw0b9-LIZe-P3-GWKDBck.jpg",
+        "degree": "Bachelor's degree, Management",
+        "duration": "2020 - 2023"
+      }
+    ],
+    "skills": [
+      "Customer Service",
+      "Food Safety",
+      "Basic Computer Skills",
+      "Time Management",
+      "Communication"
+    ]
+  }
 ];
 
 export default downwardContrastProfileData;
