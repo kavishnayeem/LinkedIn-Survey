@@ -7,7 +7,7 @@ const downwardAssimilationProfileData=[
         "headline": "Recent Texas State University graduate with a passion for sales, customer service, and business management. Eager to apply my experience in sales and client relations to drive results in a dynamic environment.",
         "location": "Houston, Texas, United States",
         "connections": 15,
-        "profilePic": "https://i.ibb.co/BHTXqYxK/Default-PP.png",
+        "profilePic": "https://i.ibb.co/C3mWRjsN/A-hyper-realistic-candid-photo.jpg",
     
         "about": "Motivated and customer-focused pro with experience in sales, service, and client relations. I just graduated from Texas State University with a Bachelor's in Management. I worked in sales and service jobs, getting good at talking and solving problems. I like making friends, beating goals, and growing in a busy work place. Ready for new challenges and to help a smart team!",
         "experience": [
@@ -71,11 +71,11 @@ const downwardAssimilationProfileData=[
         "id": "DOWNWARD-ASSIMILATION-02",
         "name": "David Chandler",
         "opentowork":"Yes",
-    
+        "backgroundPic":"https://i.ibb.co/Nn699CVQ/gaming-linkedin-banner-ofj8i3e2woox69eb.webp",
         "headline": "Graduate From Texas A&M University - Kingsville",
         "location": "Irving, Texas, United States",
         "connections": 20,
-        "profilePic": "https://i.ibb.co/BHTXqYxK/Default-PP.png",
+        "profilePic": "https://i.ibb.co/spbqc9R9/A-webcam-selfie-taken-at-his-c.jpg",
         "about": "I am a graduate of Texas A&M University - Kingsville with a Bachelor's degree in Business Administration and Management. My goal is to apply my education and skills to secure a role in business operations or management. Throughout my studies, I have gained valuable insights into financial analysis, operational strategies, and business decision-making. I am eager to bring my problem-solving abilities and business knowledge to a dynamic team and contribute to a company's success. Looking forward to new opportunities in the business world!",
         "experience": [
           {
@@ -116,10 +116,10 @@ const downwardAssimilationProfileData=[
         
       },
       {
-        "id": "DOWNWARD-ASSIMILATION-05",
+        "id": "DOWNWARD-ASSIMILATION-03",
         "name": "Thomas Callahan",
         "opentowork":"Yes",
-        "profilePic":"https://i.ibb.co/BHTXqYxK/Default-PP.png",
+        "profilePic":"https://i.ibb.co/0yrfn1Fg/Draw-a-hyper-realistic-caucasi-1.jpg",
         "headline": "Aspiring Risk Management Specialist or Sports Management",
         "location": "Houston, Texas, United States",
         "connections": 20,
@@ -167,10 +167,10 @@ const downwardAssimilationProfileData=[
         ]
       },
       {
-        "id": "DOWNWARD-ASSIMILATION-06",
+        "id": "DOWNWARD-ASSIMILATION-04",
         "name": "Ethan Brooks",
         "opentowork": "Yes",
-        "profilePic": "https://i.ibb.co/BHTXqYxK/Default-PP.png",
+        "profilePic": "https://i.ibb.co/rGPvCRs1/Draw-a-hyper-realistic-caucasi.jpg",
         "headline": "Eager to Start My Career in Business Management - Bachelor's degree in Management from Texas A&M University–Corpus Christi",
         "location": "Killeen, Texas, United States",
         "connections": 20,
@@ -214,10 +214,10 @@ const downwardAssimilationProfileData=[
         ]
       },
       {
-        "id": "DOWNWARD-ASSIMILATION-08",
+        "id": "DOWNWARD-ASSIMILATION-05",
         "name": "Sarah Harrington",
         "opentowork": "Yes",
-        "profilePic": "https://i.ibb.co/BHTXqYxK/Default-PP.png",
+        "profilePic": "https://i.ibb.co/W42KHJnT/A-23-year-old-Caucasian-woman.jpg",
         "backgroundPic": "https://i.ibb.co/VcDbsSFP/2c-Linked-In-Banner-Personal-design-1.png",
         "headline": "Business Management Graduate From TSU | Former Administration Assistant Intern at Nora Mental Health Care | Aspiring Management Professional",
         "location": "Corpus Christi, Texas, United States",
@@ -264,10 +264,10 @@ const downwardAssimilationProfileData=[
         ]
       },
       {
-        "id": "DOWNWARD-ASSIMILATION-09",
+        "id": "DOWNWARD-ASSIMILATION-06",
         "name": "Rachel Waverly",
         "opentowork": "Yes",
-        "profilePic": "https://i.ibb.co/BHTXqYxK/Default-PP.png",
+        "profilePic": "https://i.ibb.co/0pCdyhfY/Draw-a-hyper-realistic-caucasi-2.jpg",
         "backgroundPic": "https://i.ibb.co/fYTWNm7n/bg4.jpg",
         "headline": "Student at Texas State University",
         "location": "Houston, Texas, United States",
@@ -320,6 +320,280 @@ const downwardAssimilationProfileData=[
           "Organization Skills"
         ]
       },
-      
+      {
+        "id": "DOWNWARD-ASSIMILATION-07",
+        "name": "Mike Thompson",
+        "opentowork": "Yes",
+        "profilePic": "https://i.ibb.co/XZBBNNrd/Mike.jpg",
+        "headline": "Recent Texas State University Graduate | Management Professional Seeking Business Opportunities",
+        "location": "Dallas, Texas, United States",
+        "connections": 25,
+        "about": "Recent graduate from Texas State University with a Bachelor's degree in Management. Throughout my academic journey, I've developed a strong foundation in business principles and management theory. Currently seeking opportunities to apply my education in a professional business environment. I bring enthusiasm, adaptability, and a willingness to learn to any organization. My experience in customer service has taught me valuable skills in communication and problem-solving.",
+        "experience": [
+          {
+            "company": "Pizza Hut",
+            "companyLogo": "https://i.ibb.co/yvDQZWF/pizza-hut-logo-e-1752105600-v-beta-t-PUBBvy-ODLm-T2-U2-JSXLt-YLGBIfite-FC5vc-Hmb-Vs0s-Fc-A.jpg",
+            "title": "Delivery Driver Team Lead",
+            "duration": "Jan 2024 - Present",
+            "bullets": [
+              "Coordinate delivery schedules and routes for team of 5 drivers to optimize delivery times and customer satisfaction",
+              "Maintain 98% on-time delivery rate while handling 30+ deliveries per shift",
+              
+            ]
+          },
+          
+        ],
+        "education": [
+          {
+            "school": "Texas State University",
+            "schoolLogo":"https://i.ibb.co/MDpZ8R8g/1631300608004-e-1750896000-v-beta-t-a-Pf-WFpy-U7vcz-Ocm-CSJBW8gji-Og4-V1-Pb4-Sr-ZS7-Qc0-LMY.jpg",
+            "degree": "Bachelor's degree, Management",
+            "duration": "2019 - 2023",
+            "activities": "Business Student Association, Intramural Sports"
+          }
+        ],
+        "skills": [
+          "Team Leadership",
+          "Customer Service",
+          "Route Optimization",
+          "Cash Handling",
+          "Time Management",
+          "Problem Solving",
+          "Microsoft Office",
+          "Communication",
+          "Inventory Management"
+        ]
+      },
+      {
+        "id": "DOWNWARD-ASSIMILATION-08",
+        "name": "Jessica Martinez",
+        "opentowork": "Yes",
+        "profilePic": "https://i.ibb.co/2133Yd4y/image-5.jpg",
+        "headline": "Management Graduate from TAMUCC | Seeking Business Operations Role | Customer Service Professional",
+        "location": "Corpus Christi, Texas",
+        "connections": 28,
+        "about": "Dedicated and detail-oriented professional with a Bachelor's degree in Management from Texas A&M University-Corpus Christi. Combining academic knowledge with practical retail experience to deliver exceptional customer service and operational support. Strong background in cash handling, inventory management, and team collaboration. Seeking to leverage my education and experience in a business operations role where I can contribute to organizational success while continuing to grow professionally.",
+        "experience": [
+          
+          {
+            "company": "H-E-B",
+            "companyLogo": "https://i.ibb.co/twD72fr1/heb-logo-e-1751500800-v-beta-t-Ss-UY8-Yk-Xr-RA7-Ust-R5n-Kj-S61-Dw6c-JTdej-O6-Zd-ARi4-KY.jpg",
+            "title": "Customer Service Representative",
+            "duration": "Jun 2022 - Present",
+            "bullets": [
+              "Processed transactions and maintained accurate cash drawer counts",
+              "Assisted customers with product locations and general inquiries",
+              "Participated in store inventory counts and merchandising activities"
+            ]
+          }
+        ],
+        "education": [
+          {
+            "school": "Texas A&M University–Corpus Christi",
+            "schoolLogo": "https://i.ibb.co/qMng6k6B/1631311060530-e-1751500800-v-beta-t-Y8c-N4-Z4-Vo-Lm-TPe-Is-MNMefj-B778-OOF93-O-kp-HM3t0-Ucs.jpg",
+            "degree": "Bachelor's degree, Management",
+            "duration": "2020 - 2024",
+            "activities": "Society for Human Resource Management - Student Chapter"
+          }
+        ],
+        "skills": [
+          "Retail Operations",
+          "Team Supervision",
+          "Inventory Management",
+          "Cash Handling",
+          "Customer Service",
+          "Problem Resolution",
+          "Microsoft Excel",
+          "Staff Training",
+          "Visual Merchandising"
+        ]
+      },
+      {
+        "id": "DOWNWARD-ASSIMILATION-09",
+        "name": "Chris Wilson",
+        "opentowork": "Yes",
+        "profilePic": "https://i.ibb.co/HLb0mBhm/image-4.jpg",
+        "headline": "TAMUK Management Graduate | Seeking Business Development Opportunities",
+        "location": "Kingsville, Texas",
+        "connections": 32,
+        "about": "Recent graduate from Texas A&M University - Kingsville with a Bachelor's degree in Management. Experienced in retail operations with a focus on customer service and team coordination. Looking to transition into a business development role where I can apply my management education and leadership skills. Proven track record of maintaining high performance standards in fast-paced environments while effectively managing multiple responsibilities.",
+        "experience": [
+          
+          {
+            "company": "Best Buy",
+            "companyLogo": "https://i.ibb.co/60xG0y83/best-buy-logo-e-1752105600-v-beta-t-Zp2e1-CQs-APFjdm-Q9n19-JRTxk-Qy-ZH-f-V9m66ao-Gyjbl-Y.jpg",
+            "title": "Sales Associate",
+            "duration": "Aug 2023 - Present",
+            "bullets": [
+              "Achieved consistent sales targets through effective customer engagement",
+              "Maintained product knowledge across multiple departments",
+              "Assisted with inventory management and store merchandising"
+            ]
+          }
+        ],
+        "education": [
+          {
+            "school": "Texas A&M University - Kingsville",
+            "schoolLogo":"https://i.ibb.co/p6mvqDKp/javelinanation-logo-e-1750896000-v-beta-t-o-nwjk-ZFr-AS20-Th-Fm-Nfoe-Coqu-Ma-Efox-CZ4-Fyfhfv-H8.jpg",
+            "degree": "Bachelor's degree, Management",
+            "duration": "2019 - 2023",
+            "activities": "Management Club, Student Government Association"
+          }
+        ],
+        "skills": [
+          "Team Leadership",
+          "Retail Operations",
+          "Customer Service Management",
+          "Staff Training",
+          "Conflict Resolution",
+          "Cash Management",
+          "Inventory Control",
+          "Microsoft Office Suite",
+          "Sales Operations"
+        ]
+      },
+      {
+        "id": "DOWNWARD-ASSIMILATION-10",
+        "name": "Amanda Lee",
+        "opentowork": "Yes",
+        "profilePic": "https://i.ibb.co/MkXTmYc1/image-2.jpg",
+        "headline": "Texas State University Management Graduate | Retail Operations Professional",
+        "location": "San Marcos, Texas",
+        "connections": 30,
+        "about": "Recent Management graduate from Texas State University with a strong foundation in business principles and operations management. Currently gaining valuable experience in retail operations while seeking opportunities to apply my management education in a corporate setting. Skilled in customer service, team coordination, and operational efficiency. Committed to professional growth and contributing to organizational success through effective leadership and problem-solving abilities.",
+        "experience": [
+
+          {
+            "company": "CVS Pharmacy",
+            "companyLogo": "https://i.ibb.co/qMGPxBNb/1631305757762-e-1752105600-v-beta-t-C5t-TM8sh-Gr7cc0r-Xuj-Kj-Am-Ry-Jwny-SCVTVAx-Pfoa-Ok-Q.jpg",
+            "title": "Retail Store Associate",
+            "duration": "May 2022 - Feb 2024",
+            "bullets": [
+              "Provided excellent customer service in a fast-paced retail environment",
+              "Assisted with inventory management and store merchandising",
+              "Maintained store cleanliness and organization standards"
+            ]
+          }
+        ],
+        "education": [
+          {
+            "school": "Texas State University",
+            "schoolLogo":"https://i.ibb.co/MDpZ8R8g/1631300608004-e-1750896000-v-beta-t-a-Pf-WFpy-U7vcz-Ocm-CSJBW8gji-Og4-V1-Pb4-Sr-ZS7-Qc0-LMY.jpg",
+            "degree": "Bachelor's degree, Management",
+            "duration": "2020 - 2024",
+            "activities": "American Management Association Student Chapter"
+          }
+        ],
+        "skills": [
+          "Retail Management",
+          "Team Supervision",
+          "Inventory Control",
+          "Cash Handling",
+          "Customer Service",
+          "Operations Management",
+          "Staff Training",
+          "Problem Solving",
+          "Microsoft Office"
+        ]
+      },
+      {
+        "id": "DOWNWARD-ASSIMILATION-11",
+        "name": "Roberta Garcia",
+        "opentowork": "Yes",
+        "profilePic": "https://i.ibb.co/vCCB02Hd/image-3.jpg",
+        "headline": "TAMUCC Management Graduate | Customer Service Professional | Seeking Business Operations Role",
+        "location": "Corpus Christi, Texas",
+        "connections": 27,
+        "about": "Recent graduate from Texas A&M University-Corpus Christi with a Bachelor's degree in Management. Combining academic knowledge with hands-on experience in customer service and team coordination. Demonstrated ability to work effectively in fast-paced environments while maintaining high standards of service quality. Seeking opportunities to apply management principles and leadership skills in a professional business setting.",
+        "experience": [
+          {
+            "company": "Sonic Drive-In",
+            "companyLogo": "https://i.ibb.co/wZ9yHXR9/sonic-drive-in-logo-e-1752105600-v-beta-t-9-JGE6qew6-NGkgo-NEW2mz-H4-B08-HZUc-Mnizzg-IBd-TFXFs.jpg",
+            "title": "Shift Leader",
+            "duration": "Jan 2024 - Present",
+            "bullets": [
+              "Oversee daily operations and coordinate team of 8-10 employees during peak service hours",
+              "Manage inventory levels and place orders to maintain optimal stock levels",
+
+            ]
+          },
+          {
+            "company": "Whataburger",
+            "companyLogo": "https://i.ibb.co/zHVy0s9C/whataburger-logo-e-1752105600-v-beta-t-A8-KFZ9-Ge-UVLXs-Lzw77f-G7r1-WQShx-XJM8-GY21-D0lq-H2s.jpg",
+            "title": "Team Member",
+            "duration": "Mar 2022 - Dec 2023",
+            "bullets": [
+              "Maintained high standards of customer service in fast-paced environment",
+              "Collaborated with team members to ensure efficient operations",
+              "Assisted in training new team members on food preparation and safety standards"
+            ]
+          }
+        ],
+        "education": [
+          {
+            "school": "Texas A&M University–Corpus Christi",
+            "schoolLogo": "https://i.ibb.co/qMng6k6B/1631311060530-e-1751500800-v-beta-t-Y8c-N4-Z4-Vo-Lm-TPe-Is-MNMefj-B778-OOF93-O-kp-HM3t0-Ucs.jpg",
+            "degree": "Bachelor's degree, Management",
+            "duration": "2020 - 2024",
+            "activities": "Business Student Association, Hispanic Business Student Association"
+          }
+        ],
+        "skills": [
+          "Team Leadership",
+          "Operations Management",
+          "Customer Service",
+          "Staff Training",
+          "Inventory Management",
+          "Cash Handling",
+          "Problem Solving",
+          "Time Management",
+          "Microsoft Office Suite"
+        ]
+      },
+      {
+        "id": "DOWNWARD-ASSIMILATION-12",
+        "name": "Kevin Rodriguez",
+        "opentowork": "Yes",
+        "profilePic": "https://i.ibb.co/LDrdgDjp/Draw-a-hyper-realistic-caucasi-3.jpg",
+        "backgroundPic":"https://i.ibb.co/FLML843L/arsenal-f-c-cover-e-1747036800-v-beta-t-m-BXc11-Gf-b-RQPq-Bl-Gxb-Ere5-Fl-Cx-WDqj-Mr-AICGq-Udry-A.jpg",
+        "headline": "Management Graduate from TAMUK | Retail Operations Professional | Seeking Business Development Opportunities",
+        "location": "Kingsville, Texas",
+        "connections": 26,
+        "about": "Recent Texas A&M University-Kingsville graduate with a Bachelor's degree in Management and practical experience in retail operations. Demonstrated skills in customer service, team coordination, and operational efficiency. Seeking to leverage my management education and retail experience in a business development role. Strong foundation in business principles combined with hands-on experience in daily operations and team leadership.",
+        "experience": [
+          
+          {
+            "company": "QuikTrip",
+            "companyLogo": "https://i.ibb.co/DPXHwwvv/quicktrip-pro-logo-e-1752105600-v-beta-t-h08hl-LRDDqm-ZRwn-RRNE4-MVx-Onei-W49fq-qk-DLk-WZ4-I.jpg",
+            "title": "Store Clerk",
+            "duration": "Jun 2022 - Present",
+            "bullets": [
+              "Maintained high standards of customer service and store cleanliness",
+              "Assisted with inventory management and stock rotation",
+              "Processed customer transactions and balanced cash drawer accurately"
+            ]
+          }
+        ],
+        "education": [
+          {
+            "school": "Texas A&M University - Kingsville",
+            "schoolLogo":"https://i.ibb.co/p6mvqDKp/javelinanation-logo-e-1750896000-v-beta-t-o-nwjk-ZFr-AS20-Th-Fm-Nfoe-Coqu-Ma-Efox-CZ4-Fyfhfv-H8.jpg",
+            "degree": "Bachelor's degree, Management",
+            "duration": "2020 - 2024",
+            "activities": "Management Student Association, Latino Business Student Association"
+          }
+        ],
+        "skills": [
+          "Retail Management",
+          "Team Leadership",
+          "Operations Management",
+          "Inventory Control",
+          "Staff Training",
+          "Customer Service",
+          "Cash Management",
+          "Microsoft Office",
+          "Problem Solving"
+        ]
+      }
 ]
 export default downwardAssimilationProfileData;
