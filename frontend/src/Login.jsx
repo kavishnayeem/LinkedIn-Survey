@@ -53,7 +53,7 @@ const Login = () => {
           <h4>Enter 2 for Upward Contrast (done)</h4>
           <h4>Enter 3 for Neutral (done)</h4>
           <h4>Enter 4 for Downward Assimilation(done)</h4>
-          <h4>Enter 5 for Downward Contrast (in progress)</h4>
+          <h4>Enter 5 for Downward Contrast (done)</h4>
           <form onSubmit={handleLogin} className="passkey-form">
             <input
               type="password"
