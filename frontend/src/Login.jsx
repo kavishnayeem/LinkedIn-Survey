@@ -48,7 +48,7 @@ const Login = () => {
         <div className="hero-card">
           <div className="decorative-bar"></div>
           <h2>Enter Lab Passkey</h2>
-          <h4 style={{ color: 'red' }}>(For testing purposes only)- Can see all 12 profiles per category</h4>
+          <h4 style={{ color: 'red' }}> Can see all 12 profiles per category</h4>
           <h4>Enter 1 for Upward Assimilation (done)</h4>
           <h4>Enter 2 for Upward Contrast (done)</h4>
           <h4>Enter 3 for Neutral (done)</h4>

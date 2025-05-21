@@ -175,7 +175,7 @@ const MainApp = () => {
       setActiveProfile(prev => {
         const newProfile = prev + 1;
         sessionStorage.setItem('activeProfile', newProfile);
-        startNextTimer(0);
+        startNextTimer(10);
         // Scroll both panes back to top
         if (leftPaneRef.current) {
           leftPaneRef.current.scrollTop = 0;
@@ -191,7 +191,7 @@ const MainApp = () => {
   };
 
   if (showInitialSurvey) {
-    return <InitialQualtricsSurvey userId={userId} onStart={() => setShowInitialSurvey(false)} initialCountdown={0} />;
+    return <InitialQualtricsSurvey userId={userId} onStart={() => setShowInitialSurvey(false)} initialCountdown={10} />;
   }
 
   if (!profileSequence.length) {
