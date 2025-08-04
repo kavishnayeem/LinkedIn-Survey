@@ -175,7 +175,7 @@ const MainApp = () => {
       setActiveProfile(prev => {
         const newProfile = prev + 1;
         sessionStorage.setItem('activeProfile', newProfile);
-        startNextTimer(10);
+        startNextTimer(60);
         // Scroll both panes back to top
         if (leftPaneRef.current) {
           leftPaneRef.current.scrollTop = 0;
