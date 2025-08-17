@@ -10,55 +10,82 @@ import downwardAssimilationProfileData from "./Profiles/downwardAssimilationProf
 
 const InitialQualtricsSurvey = ({ userId, onStart, initialCountdown = 30 }) => {
   const surveyUrl = `https://tamucc.co1.qualtrics.com/jfe/form/SV_cH2qf6ZW5XHUp9A?userId=${userId}`;
-  const [timerActive, setTimerActive] = useState(false);
   const [countdown, setCountdown] = useState(initialCountdown);
+  const [timerFinished, setTimerFinished] = useState(false);
+  const [surveyComplete, setSurveyComplete] = useState(false);
   const timerRef = useRef(null);
 
+  // Countdown timer
   useEffect(() => {
-    startTimer(initialCountdown);
-    return () => clearInterval(timerRef.current);
-  }, [initialCountdown]);
-
-  const startTimer = (seconds) => {
-    setTimerActive(false);
-    setCountdown(seconds);
     clearInterval(timerRef.current);
+    setCountdown(initialCountdown);
+    setTimerFinished(false);
 
     timerRef.current = setInterval(() => {
       setCountdown(prev => {
         if (prev <= 1) {
-          setTimerActive(true);
           clearInterval(timerRef.current);
+          setTimerFinished(true); // countdown is over
           return 0;
         }
         return prev - 1;
       });
     }, 1000);
-  };
+
+    return () => clearInterval(timerRef.current);
+  }, [initialCountdown]);
+
+  // Qualtrics survey completion detection via postMessage
+  useEffect(() => {
+    const handleMessage = (e) => {
+      if (
+        e.origin.includes("qualtrics.com") &&
+        typeof e.data === "string" &&
+        e.data.includes("QualtricsEOS")
+      ) {
+        setSurveyComplete(true);
+      }
+    };
+    window.addEventListener("message", handleMessage);
+    return () => window.removeEventListener("message", handleMessage);
+  }, []);
 
   return (
     <>
-    <div className="nav">
-      <button
-        className={`start-button ${timerActive ? 'active' : 'disabled'}`}
-        onClick={onStart}
-        disabled={!timerActive}
-      >
-        {timerActive ? 'Click here after submitting the form' : `Start in ${countdown}s`}
-      </button>
-      </div>
-    <div className="qualtrics-container" style={{ height: '100vh' }}>
-      
-      <iframe
-        title="Initial Qualtrics Survey"
-        src={surveyUrl}
-        width="100%"
-        height="100%"
-        style={{ border: 'none' }}
-        key={`${userId}-initial`}
-      />
+      <div className="nav">
+        {/* Show countdown initially */}
+        {!timerFinished && (
+          <button className="start-button disabled" disabled>
+            Start in {countdown}s
+          </button>
+        )}
 
-    </div>
+        {/* After countdown, but before survey completion */}
+        {timerFinished && !surveyComplete && (
+          <button className="start-button disabled" disabled>
+            Waiting for survey completion...
+          </button>
+        )}
+
+        {/* After survey completion */}
+        {timerFinished && surveyComplete && (
+          <button className="start-button active" onClick={onStart}>
+            Click here to submit the form
+          </button>
+        )}
+      </div>
+      <div className="qualtrics-container" style={{ height: '100vh' }}>
+      
+        <iframe
+          title="Initial Qualtrics Survey"
+          src={surveyUrl}
+          width="100%"
+          height="100%"
+        style={{ border: 'none' }}
+          key={`${userId}-initial`}
+        />
+
+      </div>
     </>
   );
 };
@@ -128,7 +155,7 @@ const MainApp = () => {
 
   useEffect(() => {
     if (!showInitialSurvey && profileSequence.length > 0) {
-      startNextTimer(0);
+      startNextTimer(0); 
     }
     return () => clearInterval(nextTimerRef.current);
   }, [showInitialSurvey, profileSequence.length]);
@@ -160,12 +187,15 @@ const MainApp = () => {
       return shuffled.slice(0, count);
     };
 
-    sequence = getUniqueProfiles(quality === 1 ? 'upward assimilation' : 
-                                 quality === 2 ? 'contrast' : 
-                                 quality === 3 ? 'neutral' : 
-                                 quality === 4 ? 'downward assimilation' : 
-                                 quality === 5 ? 'downward contrast' : 'neutral', 12);
-    
+    sequence = getUniqueProfiles(
+      quality === 1 ? 'upward assimilation' :
+      quality === 2 ? 'contrast' :
+      quality === 3 ? 'neutral' :
+      quality === 4 ? 'downward assimilation' :
+      quality === 5 ? 'downward contrast' : 'neutral', 
+      12
+    );
+
     setProfileSequence(sequence);
     sessionStorage.setItem('profileSequence', JSON.stringify(sequence));
   };
@@ -212,7 +242,7 @@ const MainApp = () => {
             />
           ))}
         </div>
-        
+
         <button 
           className={`next-button ${nextTimerActive ? 'active' : 'disabled'}`}
           onClick={handleNextProfile}
@@ -224,7 +254,7 @@ const MainApp = () => {
           }
         </button>
       </div>
-      
+
       <div className="split-view">
         <div className="left-pane" ref={leftPaneRef}>
           <LinkedIn profileData={profileSequence[activeProfile]} />
