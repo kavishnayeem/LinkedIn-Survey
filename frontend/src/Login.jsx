@@ -5,6 +5,7 @@ import './Login.css';
 
 const Login = () => {
   const [passkey, setPasskey] = useState('');
+  const [anum, setAnum] = useState('');   // new state for A#
   const [error, setError] = useState('');
   const [isLoading, setIsLoading] = useState(false);
   const navigate = useNavigate();
@@ -16,14 +17,18 @@ const Login = () => {
 
     try {
       const cleanPasskey = passkey.trim();
+      const cleanAnum = anum.trim();
       if (!cleanPasskey) throw new Error('Please enter a passkey');
+      if (!cleanAnum) throw new Error('Please enter your A-number');
 
       const user = users.find(u => u.user_id === cleanPasskey);
       if (!user) throw new Error('No user found with this passkey');
 
+      // save everything
       localStorage.setItem('valid', 'true');
       localStorage.setItem('userData', JSON.stringify(user));
       localStorage.setItem('quality', user.quality.toString());
+      localStorage.setItem('anum', cleanAnum);   // store A#
 
       navigate(`/app/${user.user_id}`);
     } catch (err) {
@@ -47,13 +52,22 @@ const Login = () => {
       <main className="content">
         <div className="hero-card">
           <div className="decorative-bar"></div>
-          <h2>Enter Lab Passkey</h2>
+          <h2>Enter Lab Passkey & A-number</h2>
+
           <form onSubmit={handleLogin} className="passkey-form">
             <input
               type="password"
               value={passkey}
               onChange={(e) => setPasskey(e.target.value)}
               placeholder="Enter Lab Passkey"
+              className="passkey-input"
+              disabled={isLoading}
+            />
+            <input
+              type="text"
+              value={anum}
+              onChange={(e) => setAnum(e.target.value)}
+              placeholder="Enter your A-number"
               className="passkey-input"
               disabled={isLoading}
             />

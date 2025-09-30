@@ -8,8 +8,8 @@ import upwardContrastProfileData from "./Profiles/upwardContrastProfileData.jsx"
 import downwardContrastProfileData from "./Profiles/downwardContrastProfileData.jsx";
 import downwardAssimilationProfileData from "./Profiles/downwardAssimilationProfileData.jsx";
 
-const InitialQualtricsSurvey = ({ userId, onStart }) => {
-  const surveyUrl = `https://tamucc.co1.qualtrics.com/jfe/form/SV_cH2qf6ZW5XHUp9A?userId=${userId}`;
+const InitialQualtricsSurvey = ({ userId, anum, onStart }) => {
+  const surveyUrl = `https://tamucc.co1.qualtrics.com/jfe/form/SV_cH2qf6ZW5XHUp9A?userId=${userId}&anum=${anum}`;
   const [surveyComplete, setSurveyComplete] = useState(false);
 
   // Listen for Qualtrics End-of-Survey postMessage
@@ -56,7 +56,9 @@ const InitialQualtricsSurvey = ({ userId, onStart }) => {
 };
 
 const QualtricsSurvey = ({ profileData, userId, onSurveyComplete }) => {
-  const surveyUrl = `https://tamucc.co1.qualtrics.com/jfe/form/SV_9mn36Q92rz50SRo?userId=${userId}&profileId=${profileData.id}`;
+  const anum = localStorage.getItem('anum'); // fetch A#
+  const surveyUrl = `https://tamucc.co1.qualtrics.com/jfe/form/SV_9mn36Q92rz50SRo?userId=${userId}&profileId=${profileData.id}&anum=${anum}`;
+
 
   useEffect(() => {
     const handleMessage = (e) => {
