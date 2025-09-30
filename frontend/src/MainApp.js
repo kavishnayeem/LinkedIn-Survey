@@ -8,7 +8,8 @@ import upwardContrastProfileData from "./Profiles/upwardContrastProfileData.jsx"
 import downwardContrastProfileData from "./Profiles/downwardContrastProfileData.jsx";
 import downwardAssimilationProfileData from "./Profiles/downwardAssimilationProfileData.jsx";
 
-const InitialQualtricsSurvey = ({ userId, anum, onStart }) => {
+const InitialQualtricsSurvey = ({ userId, onStart }) => {
+  const anum = localStorage.getItem("anum");
   const surveyUrl = `https://tamucc.co1.qualtrics.com/jfe/form/SV_cH2qf6ZW5XHUp9A?userId=${userId}&anum=${anum}`;
   const [surveyComplete, setSurveyComplete] = useState(false);
 
@@ -86,7 +87,7 @@ const QualtricsSurvey = ({ profileData, userId, onSurveyComplete }) => {
       />
     </div>
   );
-};
+};    
 
 const MainApp = () => {
   const { userId } = useParams();
