@@ -6,7 +6,9 @@ const ThankYou = () => {
   const navigate = useNavigate();
   const { userId } = useParams();
   const anum = localStorage.getItem('anum');
-  const surveyUrl = `https://tamucc.co1.qualtrics.com/jfe/form/SV_bDubTHdi96CCJWm?userId=${userId}&anum=${anum}`;
+  const name = localStorage.getItem('name');
+  const surveyUrl = `https://tamucc.co1.qualtrics.com/jfe/form/SV_bDubTHdi96CCJWm?userId=${userId}&anum=${anum}&name=${encodeURIComponent(name)}`;
+
 
   const handleLogout = () => {
     localStorage.removeItem('valid');
@@ -19,6 +21,7 @@ const ThankYou = () => {
       <iframe
         title="Qualtrics Survey"
         src={surveyUrl}
+
         width="100%"
         height="100%"
         style={{ border: 'none' }}
