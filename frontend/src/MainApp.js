@@ -10,7 +10,9 @@ import downwardAssimilationProfileData from "./Profiles/downwardAssimilationProf
 
 const QualtricsSurvey = ({ profileData, userId, onSurveyComplete }) => {
   const anum = localStorage.getItem('anum'); 
-  const surveyUrl = `https://tamucc.co1.qualtrics.com/jfe/form/SV_9mn36Q92rz50SRo?userId=${userId}&profileId=${profileData.id}&anum=${anum}`;
+  const name = localStorage.getItem('name'); // ✅ Added this line
+
+  const surveyUrl = `https://tamucc.co1.qualtrics.com/jfe/form/SV_9mn36Q92rz50SRo?userId=${userId}&profileId=${profileData.id}&anum=${anum}&name=${encodeURIComponent(name)}`; // ✅ Added name param
 
   useEffect(() => {
     const handleMessage = (e) => {
